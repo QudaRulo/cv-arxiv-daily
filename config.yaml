@@ -30,4 +30,12 @@ keywords:
     "Security":
         filters: ["Vulnerability"]
     "AI":
-        filters: ["Knowledge edit", "Memory", "Agent", "Alignment", "Knowledge graph", "Tools calling"]
+        filters:
+            [
+                "Knowledge edit",
+                "Memory",
+                "Agent",
+                "Alignment",
+                "Knowledge graph",
+                "Tools calling",
+            ]
