@@ -177,48 +177,71 @@ def update_paper_links(filename):
         arxiv_id = re.sub(r'v\d+', '', arxiv_id)
         return date,title,authors,arxiv_id,code
 
-    with open(filename,"r") as f:
-        content = f.read()
-        if not content:
-            m = {}
-        else:
-            m = json.loads(content)
+    try:
+        with open(filename,"r") as f:
+            content = f.read().strip()
+            if not content:
+                logging.warning(f"JSON file {filename} is empty")
+                m = {}
+            else:
+                try:
+                    m = json.loads(content)
+                except json.JSONDecodeError as e:
+                    logging.error(f"JSON decode error in {filename}: {e}")
+                    logging.warning(f"File content preview: {content[:200]}")
+                    logging.warning("Starting with empty JSON data")
+                    m = {}
+    except FileNotFoundError:
+        logging.warning(f"JSON file {filename} not found, creating new one")
+        m = {}
 
-        json_data = m.copy()
+    json_data = m.copy()
 
-        for keywords,v in json_data.items():
-            logging.info(f'keywords = {keywords}')
-            for paper_id,contents in v.items():
-                contents = str(contents)
+    for keywords,v in json_data.items():
+        logging.info(f'keywords = {keywords}')
+        for paper_id,contents in v.items():
+            contents = str(contents)
 
-                update_time, paper_title, paper_first_author, paper_url, code_url = parse_arxiv_string(contents)
+            update_time, paper_title, paper_first_author, paper_url, code_url = parse_arxiv_string(contents)
 
-                # Get updated code link from GitHub API
-                new_code_link = get_code_link(paper_id, paper_title)
-                code_link_str = f"[code]({new_code_link})" if new_code_link else "null"
+            # Get updated code link from GitHub API
+            new_code_link = get_code_link(paper_id, paper_title)
+            code_link_str = f"[code]({new_code_link})" if new_code_link else "null"
 
-                contents = "|{}|{}|{}|{}|{}|\n".format(update_time,paper_title,paper_first_author,paper_url,code_link_str)
-                json_data[keywords][paper_id] = str(contents)
+            contents = "|{}|{}|{}|{}|{}|\n".format(update_time,paper_title,paper_first_author,paper_url,code_link_str)
+            json_data[keywords][paper_id] = str(contents)
 
-                if new_code_link:
-                    logging.info(f'Updated code link for paper_id = {paper_id}: {new_code_link}')
-                else:
-                    logging.info(f'No code link found for paper_id = {paper_id}')
+            if new_code_link:
+                logging.info(f'Updated code link for paper_id = {paper_id}: {new_code_link}')
+            else:
+                logging.info(f'No code link found for paper_id = {paper_id}')
 
-        # dump to json file
-        with open(filename,"w") as f:
-            json.dump(json_data,f)
+    # dump to json file
+    with open(filename,"w") as f:
+        json.dump(json_data,f, indent=2)
 
 def update_json_file(filename,data_dict):
     '''
     daily update json file using data_dict
     '''
-    with open(filename,"r") as f:
-        content = f.read()
-        if not content:
-            m = {}
-        else:
-            m = json.loads(content)
+    try:
+        with open(filename,"r") as f:
+            content = f.read().strip()
+
+            if not content:
+                logging.warning(f"JSON file {filename} is empty, starting fresh")
+                m = {}
+            else:
+                try:
+                    m = json.loads(content)
+                except json.JSONDecodeError as e:
+                    logging.error(f"JSON decode error in {filename}: {e}")
+                    logging.warning(f"File content preview: {content[:200]}")
+                    logging.warning("Starting with empty JSON data")
+                    m = {}
+    except FileNotFoundError:
+        logging.warning(f"JSON file {filename} not found, creating new one")
+        m = {}
 
     json_data = m.copy()
 
@@ -233,7 +256,7 @@ def update_json_file(filename,data_dict):
                 json_data[keyword] = papers
 
     with open(filename,"w") as f:
-        json.dump(json_data,f)
+        json.dump(json_data,f, indent=2)
 
 def json_to_md(filename,md_filename,
                task = '',
