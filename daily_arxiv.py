@@ -12,7 +12,7 @@ logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
                     level=logging.INFO)
 
-# github_url = "https://api.github.com/search/repositories"
+github_url = "https://api.github.com/search/repositories"
 arxiv_url = "http://arxiv.org/"
 
 def load_config(config_file:str) -> dict:
@@ -62,45 +62,39 @@ def sort_papers(papers):
     return output
 import requests
 
-def get_code_link(arxiv_id: str) -> str:
+def get_code_link(arxiv_id: str, paper_title: str = "") -> str:
     """
-    Get code link from PapersWithCode API using arxiv_id
+    Search code repository on GitHub using arxiv_id and paper title
     @param arxiv_id: arxiv paper id (e.g., "2103.14030")
-    @return: code link URL or None
+    @param paper_title: paper title for better search results
+    @return: GitHub repository URL or None
     """
     try:
-        from paperswithcode import PapersWithCodeClient
+        # Build search query
+        if paper_title:
+            # Search with both arxiv_id and title for better results
+            query = f"arxiv {arxiv_id} {paper_title}"
+        else:
+            query = f"arxiv {arxiv_id}"
 
-        client = PapersWithCodeClient()
+        params = {
+            "q": query,
+            "sort": "stars",
+            "order": "desc",
+            "per_page": 1
+        }
 
-        # Remove version suffix if present (e.g., "2103.14030v1" -> "2103.14030")
-        arxiv_id_clean = arxiv_id.split('v')[0] if 'v' in arxiv_id else arxiv_id
+        logging.info(f"Searching GitHub for: {query[:100]}")
 
-        logging.info(f"Searching code for arXiv ID: {arxiv_id_clean}")
+        r = requests.get(github_url, params=params, timeout=10)
+        results = r.json()
 
-        # Step 1: Search for paper by arxiv_id
-        papers = client.paper_list(arxiv_id=arxiv_id_clean)
-
-        if not papers.results or len(papers.results) == 0:
-            logging.info(f"No paper found for arXiv ID: {arxiv_id_clean}")
-            return None
-
-        # Step 2: Get the paper_id from the first result
-        paper = papers.results[0]
-        paper_id = paper.id
-
-        logging.info(f"Found paper: {paper.title} (ID: {paper_id})")
-
-        # Step 3: Get repositories for this paper
-        repos = client.paper_repository_list(paper_id=paper_id)
-
-        if repos.results and len(repos.results) > 0:
-            # Return the first repository URL (usually the official implementation)
-            code_link = repos.results[0].url
+        if results.get("total_count", 0) > 0:
+            code_link = results["items"][0]["html_url"]
             logging.info(f"Found code link: {code_link}")
             return code_link
         else:
-            logging.info(f"No code found for paper: {paper.title}")
+            logging.info(f"No code found for arXiv ID: {arxiv_id}")
             return None
 
     except Exception as e:
@@ -145,8 +139,8 @@ def get_daily_papers(topic,query="slam", max_results=2):
             paper_key = paper_id[0:ver_pos]
         paper_url = arxiv_url + 'abs/' + paper_key
 
-        # Get code link from PapersWithCode API
-        code_link = get_code_link(paper_key)
+        # Get code link from GitHub API
+        code_link = get_code_link(paper_key, paper_title)
         code_link_str = f"[code]({code_link})" if code_link else "null"
 
         content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|{}|\n".format(
@@ -199,8 +193,8 @@ def update_paper_links(filename):
 
                 update_time, paper_title, paper_first_author, paper_url, code_url = parse_arxiv_string(contents)
 
-                # Get updated code link from PapersWithCode API
-                new_code_link = get_code_link(paper_id)
+                # Get updated code link from GitHub API
+                new_code_link = get_code_link(paper_id, paper_title)
                 code_link_str = f"[code]({new_code_link})" if new_code_link else "null"
 
                 contents = "|{}|{}|{}|{}|{}|\n".format(update_time,paper_title,paper_first_author,paper_url,code_link_str)
