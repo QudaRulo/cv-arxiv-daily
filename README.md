@@ -1,4 +1,4 @@
-## Updated on 2025.12.09
+## Updated on 2025.12.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-09**|**Improved Pseudorandom Codes from Permuted Puzzles**|Miranda Christ et.al.|[2512.08918](http://arxiv.org/abs/2512.08918)|null|
+|**2025-12-09**|**DAO-GP Drift Aware Online Non-Linear Regression Gaussian-Process**|Mohammad Abu-Shaira et.al.|[2512.08879](http://arxiv.org/abs/2512.08879)|null|
+|**2025-12-09**|**When Tables Leak: Attacking String Memorization in LLM-Based Tabular Data Generation**|Joshua Ward et.al.|[2512.08875](http://arxiv.org/abs/2512.08875)|null|
+|**2025-12-09**|**NecoFuzz: Effective Fuzzing of Nested Virtualization via Fuzz-Harness Virtual Machines**|Reima Ishii et.al.|[2512.08858](http://arxiv.org/abs/2512.08858)|null|
+|**2025-12-09**|**A mathematical model of \textit{Culex} population abundance and the impact of vector control interventions in a patchy environment**|Suman Bhowmick et.al.|[2512.08842](http://arxiv.org/abs/2512.08842)|null|
+|**2025-12-09**|**Forecasting Fails: Unveiling Evasion Attacks in Weather Prediction Models**|Huzaifa Arif et.al.|[2512.08832](http://arxiv.org/abs/2512.08832)|null|
+|**2025-12-09**|**An Explainable AI Model for the Detecting Malicious Smart Contracts Based on EVM Opcode Based Features**|Roopak Surendran et.al.|[2512.08782](http://arxiv.org/abs/2512.08782)|null|
+|**2025-12-09**|**Insured Agents: A Decentralized Trust Insurance Mechanism for Agentic Economy**|Botao 'Amber' Hu et.al.|[2512.08737](http://arxiv.org/abs/2512.08737)|null|
+|**2025-12-09**|**Exposing Hidden Biases in Text-to-Image Models via Automated Prompt Search**|Manos Plitsis et.al.|[2512.08724](http://arxiv.org/abs/2512.08724)|null|
+|**2025-12-09**|**Sleep effects on brain, cognition, and mental health during adolescence are mediated by the glymphatic system**|Xinglin Zeng et.al.|[2512.08704](http://arxiv.org/abs/2512.08704)|null|
 |**2025-12-05**|**VRSA: Jailbreaking Multimodal Large Language Models through Visual Reasoning Sequential Attack**|Shiji Zhao et.al.|[2512.05853](http://arxiv.org/abs/2512.05853)|null|
 |**2025-12-05**|**ARGUS: Defending Against Multimodal Indirect Prompt Injection via Steering Instruction-Following Behavior**|Weikai Lu et.al.|[2512.05745](http://arxiv.org/abs/2512.05745)|null|
 |**2025-12-05**|**MicroRacer: Detecting Concurrency Bugs for Cloud Service Systems**|Zhiling Deng et.al.|[2512.05716](http://arxiv.org/abs/2512.05716)|null|
@@ -40,15 +50,23 @@
 |**2025-12-02**|**S3C2 SICP Summit 2025-06: Vulnerability Response Summit**|Anna Lena Rotthaler et.al.|[2512.02600](http://arxiv.org/abs/2512.02600)|null|
 |**2025-12-02**|**Stress-Testing Causal Claims via Cardinality Repairs**|Yarden Gabbay et.al.|[2512.02491](http://arxiv.org/abs/2512.02491)|null|
 |**2025-12-02**|**Decentralized Multi-Agent System with Trust-Aware Communication**|Yepeng Ding et.al.|[2512.02410](http://arxiv.org/abs/2512.02410)|null|
-|**2025-12-01**|**DialogGuard: Multi-Agent Psychosocial Safety Evaluation of Sensitive LLM Responses**|Han Luo et.al.|[2512.02282](http://arxiv.org/abs/2512.02282)|null|
-|**2025-12-01**|**Adversarial Robustness of Traffic Classification under Resource Constraints: Input Structure Matters**|Adel Chehade et.al.|[2512.02276](http://arxiv.org/abs/2512.02276)|null|
 
-<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-09**|**Astra: General Interactive World Model with Autoregressive Denoising**|Yixuan Zhu et.al.|[2512.08931](http://arxiv.org/abs/2512.08931)|null|
+|**2025-12-09**|**Selfi: Self Improving Reconstruction Engine via 3D Geometric Feature Alignment**|Youming Deng et.al.|[2512.08930](http://arxiv.org/abs/2512.08930)|null|
+|**2025-12-09**|**Failure of the Markov property for stochastic Volterra equations**|Martin Friesen et.al.|[2512.08926](http://arxiv.org/abs/2512.08926)|null|
+|**2025-12-09**|**Toward Practical Forecasts of Public Sentiments via Convexification for Mean Field Games: Evidence from Real World COVID-19 Discussion Data**|Shi Chen et.al.|[2512.08925](http://arxiv.org/abs/2512.08925)|null|
+|**2025-12-09**|**Emergent Non-Markovianity in Logical Qubit Dynamics**|Jalan A. Ziyad et.al.|[2512.08893](http://arxiv.org/abs/2512.08893)|null|
+|**2025-12-09**|**Accelerated Rotation-Invariant Convolution for UAV Image Segmentation**|Manduhu Manduhu et.al.|[2512.08888](http://arxiv.org/abs/2512.08888)|null|
+|**2025-12-09**|**DAO-GP Drift Aware Online Non-Linear Regression Gaussian-Process**|Mohammad Abu-Shaira et.al.|[2512.08879](http://arxiv.org/abs/2512.08879)|null|
+|**2025-12-09**|**Spreading processes on heterogeneous active systems: spreading threshold, immunization strategies, and vaccination noise**|Benjamín Marcolongo et.al.|[2512.08878](http://arxiv.org/abs/2512.08878)|null|
+|**2025-12-09**|**IPPO Learns the Game, Not the Team: A Study on Generalization in Heterogeneous Agent Teams**|Ryan LeRoy et.al.|[2512.08877](http://arxiv.org/abs/2512.08877)|null|
+|**2025-12-09**|**Siamese-Driven Optimization for Low-Resolution Image Latent Embedding in Image Captioning**|Jing Jie Tan et.al.|[2512.08873](http://arxiv.org/abs/2512.08873)|null|
 |**2025-12-05**|**EditThinker: Unlocking Iterative Reasoning for Any Image Editor**|Hongyu Li et.al.|[2512.05965](http://arxiv.org/abs/2512.05965)|null|
 |**2025-12-05**|**Trusted AI Agents in the Cloud**|Teofil Bodea et.al.|[2512.05951](http://arxiv.org/abs/2512.05951)|null|
 |**2025-12-05**|**Variational Quantum Rainbow Deep Q-Network for Optimizing Resource Allocation Problem**|Truong Thanh Hung Nguyen et.al.|[2512.05946](http://arxiv.org/abs/2512.05946)|null|
@@ -80,7 +98,7 @@
 |**2025-12-02**|**In-Context Sync-LoRA for Portrait Video Editing**|Sagi Polaczek et.al.|[2512.03013](http://arxiv.org/abs/2512.03013)|null|
 |**2025-12-02**|**From Moderation to Mediation: Can LLMs Serve as Mediators in Online Flame Wars?**|Dawei Li et.al.|[2512.03005](http://arxiv.org/abs/2512.03005)|null|
 
-<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
