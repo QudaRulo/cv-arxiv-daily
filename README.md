@@ -1,4 +1,4 @@
-## Updated on 2025.12.11
+## Updated on 2025.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-11**|**Zorya: Automated Concolic Execution of Single-Threaded Go Binaries**|Karolina Gorna et.al.|[2512.10799](http://arxiv.org/abs/2512.10799)|null|
+|**2025-12-11**|**Challenges of Evaluating LLM Safety for User Welfare**|Manon Kempermann et.al.|[2512.10687](http://arxiv.org/abs/2512.10687)|null|
+|**2025-12-11**|**Is the Information Bottleneck Robust Enough? Towards Label-Noise Resistant Information Bottleneck Learning**|Yi Huang et.al.|[2512.10573](http://arxiv.org/abs/2512.10573)|null|
+|**2025-12-11**|**Convective and non-convective nature of Balearic meteotsunamis:a 50-year historical review**|Agustí Jansà et.al.|[2512.10535](http://arxiv.org/abs/2512.10535)|null|
+|**2025-12-11**|**T-ADD: Enhancing DOA Estimation Robustness Against Adversarial Attacks**|Shilian Zheng et.al.|[2512.10496](http://arxiv.org/abs/2512.10496)|null|
+|**2025-12-11**|**From Lab to Reality: A Practical Evaluation of Deep Learning Models and LLMs for Vulnerability Detection**|Chaomeng Lu et.al.|[2512.10485](http://arxiv.org/abs/2512.10485)|null|
+|**2025-12-11**|**When Reject Turns into Accept: Quantifying the Vulnerability of LLM-Based Scientific Reviewers to Indirect Prompt Injection**|Devanshu Sahoo et.al.|[2512.10449](http://arxiv.org/abs/2512.10449)|null|
+|**2025-12-11**|**How to Trick Your AI TA: A Systematic Study of Academic Jailbreaking in LLM Code Evaluation**|Devanshu Sahoo et.al.|[2512.10415](http://arxiv.org/abs/2512.10415)|null|
+|**2025-12-11**|**The Eminence in Shadow: Exploiting Feature Boundary Ambiguity for Robust Backdoor Attacks**|Zhou Feng et.al.|[2512.10402](http://arxiv.org/abs/2512.10402)|null|
+|**2025-12-11**|**Cross-modal Retrieval Models for Stripped Binary Analysis**|Guoqiang Chen et.al.|[2512.10393](http://arxiv.org/abs/2512.10393)|null|
 |**2025-12-09**|**Improved Pseudorandom Codes from Permuted Puzzles**|Miranda Christ et.al.|[2512.08918](http://arxiv.org/abs/2512.08918)|null|
 |**2025-12-09**|**DAO-GP Drift Aware Online Non-Linear Regression Gaussian-Process**|Mohammad Abu-Shaira et.al.|[2512.08879](http://arxiv.org/abs/2512.08879)|null|
 |**2025-12-09**|**When Tables Leak: Attacking String Memorization in LLM-Based Tabular Data Generation**|Joshua Ward et.al.|[2512.08875](http://arxiv.org/abs/2512.08875)|null|
@@ -42,21 +52,23 @@
 |**2025-12-04**|**Counterfeit Answers: Adversarial Forgery against OCR-Free Document Visual Question Answering**|Marco Pintore et.al.|[2512.04554](http://arxiv.org/abs/2512.04554)|null|
 |**2025-12-04**|**RRPO: Robust Reward Policy Optimization for LLM-based Emotional TTS**|Cong Wang et.al.|[2512.04552](http://arxiv.org/abs/2512.04552)|null|
 |**2025-12-04**|**ReFuzz: Reusing Tests for Processor Fuzzing with Contextual Bandits**|Chen Chen et.al.|[2512.04436](http://arxiv.org/abs/2512.04436)|null|
-|**2025-12-02**|**Contextual Image Attack: How Visual Context Exposes Multimodal Safety Vulnerabilities**|Yuan Xiong et.al.|[2512.02973](http://arxiv.org/abs/2512.02973)|null|
-|**2025-12-02**|**Belobog: Move Language Fuzzing Framework For Real-World Smart Contracts**|Wanxu Xia et.al.|[2512.02918](http://arxiv.org/abs/2512.02918)|null|
-|**2025-12-02**|**VLM as Strategist: Adaptive Generation of Safety-critical Testing Scenarios via Guided Diffusion**|Xinzheng Wu et.al.|[2512.02844](http://arxiv.org/abs/2512.02844)|null|
-|**2025-12-02**|**Defense That Attacks: How Robust Models Become Better Attackers**|Mohamed Awad et.al.|[2512.02830](http://arxiv.org/abs/2512.02830)|null|
-|**2025-12-02**|**SR-GRPO: Stable Rank as an Intrinsic Geometric Reward for Large Language Model Alignment**|Yixuan Tang et.al.|[2512.02807](http://arxiv.org/abs/2512.02807)|null|
-|**2025-12-02**|**S3C2 SICP Summit 2025-06: Vulnerability Response Summit**|Anna Lena Rotthaler et.al.|[2512.02600](http://arxiv.org/abs/2512.02600)|null|
-|**2025-12-02**|**Stress-Testing Causal Claims via Cardinality Repairs**|Yarden Gabbay et.al.|[2512.02491](http://arxiv.org/abs/2512.02491)|null|
-|**2025-12-02**|**Decentralized Multi-Agent System with Trust-Aware Communication**|Yepeng Ding et.al.|[2512.02410](http://arxiv.org/abs/2512.02410)|null|
 
-<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251213>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-11**|**WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World**|Ao Liang et.al.|[2512.10958](http://arxiv.org/abs/2512.10958)|null|
+|**2025-12-11**|**Evidence of galaxy cluster rotation in the cosmic microwave background**|Samuel Goldstein et.al.|[2512.10951](http://arxiv.org/abs/2512.10951)|null|
+|**2025-12-11**|**Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation**|Yiwen Tang et.al.|[2512.10949](http://arxiv.org/abs/2512.10949)|null|
+|**2025-12-11**|**On Decision-Making Agents and Higher-Order Causal Processes**|Matt Wilson et.al.|[2512.10937](http://arxiv.org/abs/2512.10937)|null|
+|**2025-12-11**|**Curriculum-Based Reinforcement Learning for Autonomous UAV Navigation in Unknown Curved Tubular Conduit**|Zamirddine Mari et.al.|[2512.10934](http://arxiv.org/abs/2512.10934)|null|
+|**2025-12-11**|**BabyVLM-V2: Toward Developmentally Grounded Pretraining and Benchmarking of Vision Foundation Models**|Shengao Wang et.al.|[2512.10932](http://arxiv.org/abs/2512.10932)|null|
+|**2025-12-11**|**Asynchronous Reasoning: Training-Free Interactive Thinking LLMs**|George Yakushev et.al.|[2512.10931](http://arxiv.org/abs/2512.10931)|null|
+|**2025-12-11**|**Noisy Quantum Learning Theory**|Jordan Cotler et.al.|[2512.10929](http://arxiv.org/abs/2512.10929)|null|
+|**2025-12-11**|**CompanionCast: A Multi-Agent Conversational AI Framework with Spatial Audio for Social Co-Viewing Experiences**|Yiyang Wang et.al.|[2512.10918](http://arxiv.org/abs/2512.10918)|null|
+|**2025-12-11**|**Multi-Granular Node Pruning for Circuit Discovery**|Muhammad Umair Haider et.al.|[2512.10903](http://arxiv.org/abs/2512.10903)|null|
 |**2025-12-09**|**Astra: General Interactive World Model with Autoregressive Denoising**|Yixuan Zhu et.al.|[2512.08931](http://arxiv.org/abs/2512.08931)|null|
 |**2025-12-09**|**Selfi: Self Improving Reconstruction Engine via 3D Geometric Feature Alignment**|Youming Deng et.al.|[2512.08930](http://arxiv.org/abs/2512.08930)|null|
 |**2025-12-09**|**Failure of the Markov property for stochastic Volterra equations**|Martin Friesen et.al.|[2512.08926](http://arxiv.org/abs/2512.08926)|null|
@@ -87,18 +99,8 @@
 |**2025-12-04**|**Personalizing Agent Privacy Decisions via Logical Entailment**|James Flemings et.al.|[2512.05065](http://arxiv.org/abs/2512.05065)|null|
 |**2025-12-04**|**Debt, Growth, and the Carbon Lock-In**|Silvia Montagnania et.al.|[2512.05063](http://arxiv.org/abs/2512.05063)|null|
 |**2025-12-04**|**4DLangVGGT: 4D Language-Visual Geometry Grounded Transformer**|Xianfeng Wu et.al.|[2512.05060](http://arxiv.org/abs/2512.05060)|null|
-|**2025-12-02**|**CAMEO: Correspondence-Attention Alignment for Multi-View Diffusion Models**|Minkyung Kwon et.al.|[2512.03045](http://arxiv.org/abs/2512.03045)|null|
-|**2025-12-02**|**PPTArena: A Benchmark for Agentic PowerPoint Editing**|Michael Ofengenden et.al.|[2512.03042](http://arxiv.org/abs/2512.03042)|null|
-|**2025-12-02**|**ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation**|Mengchen Zhang et.al.|[2512.03036](http://arxiv.org/abs/2512.03036)|null|
-|**2025-12-02**|**SMP: Reusable Score-Matching Motion Priors for Physics-Based Character Control**|Yuxuan Mu et.al.|[2512.03028](http://arxiv.org/abs/2512.03028)|null|
-|**2025-12-02**|**The Moral Consistency Pipeline: Continuous Ethical Evaluation for Large Language Models**|Saeid Jamshidi et.al.|[2512.03026](http://arxiv.org/abs/2512.03026)|null|
-|**2025-12-02**|**LORE: A Large Generative Model for Search Relevance**|Chenji Lu et.al.|[2512.03025](http://arxiv.org/abs/2512.03025)|null|
-|**2025-12-02**|**TokenPowerBench: Benchmarking the Power Consumption of LLM Inference**|Chenxu Niu et.al.|[2512.03024](http://arxiv.org/abs/2512.03024)|null|
-|**2025-12-02**|**Unrolled Networks are Conditional Probability Flows in MRI Reconstruction**|Kehan Qi et.al.|[2512.03020](http://arxiv.org/abs/2512.03020)|null|
-|**2025-12-02**|**In-Context Sync-LoRA for Portrait Video Editing**|Sagi Polaczek et.al.|[2512.03013](http://arxiv.org/abs/2512.03013)|null|
-|**2025-12-02**|**From Moderation to Mediation: Can LLMs Serve as Mediators in Online Flame Wars?**|Dawei Li et.al.|[2512.03005](http://arxiv.org/abs/2512.03005)|null|
 
-<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251213>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
