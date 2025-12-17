@@ -1,4 +1,4 @@
-## Updated on 2025.12.15
+## Updated on 2025.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-15**|**A new data weighted averaging algorithm to reduce tones in the signal band**|Marta Laguna et.al.|[2512.13605](http://arxiv.org/abs/2512.13605)|null|
+|**2025-12-15**|**Superposition as Lossy Compression: Measure with Sparse Autoencoders and Connect to Adversarial Vulnerability**|Leonard Bereska et.al.|[2512.13568](http://arxiv.org/abs/2512.13568)|null|
+|**2025-12-15**|**Impact analysis of hidden faults in nonlinear control systems using output-to-output gain**|Ruslan Seifullaev et.al.|[2512.13483](http://arxiv.org/abs/2512.13483)|null|
+|**2025-12-15**|**Beyond Missing Data: Questionnaire Uncertainty Responses as Early Digital Biomarkers of Cognitive Decline and Neurodegenerative Diseases**|Yukun Lu et.al.|[2512.13346](http://arxiv.org/abs/2512.13346)|null|
+|**2025-12-15**|**Quantum Disruption: An SOK of How Post-Quantum Attackers Reshape Blockchain Security and Performance**|Tushin Mallick et.al.|[2512.13333](http://arxiv.org/abs/2512.13333)|null|
+|**2025-12-15**|**Plant Equivalent Controller Realizations for Attack-Resilient Cyber-Physical Systems**|Mischa Huisman et.al.|[2512.13229](http://arxiv.org/abs/2512.13229)|null|
+|**2025-12-15**|**Towards Secure Decentralized Applications and Consensus Protocols in Blockchains (on Selfish Mining, Undercutting Attacks, DAG-Based Blockchains, E-Voting, Cryptocurrency Wallets, Secure-Logging, and CBDC)**|Ivan Homoliak et.al.|[2512.13213](http://arxiv.org/abs/2512.13213)|null|
+|**2025-12-15**|**Evaluating Adversarial Attacks on Federated Learning for Temperature Forecasting**|Karina Chichifoi et.al.|[2512.13207](http://arxiv.org/abs/2512.13207)|null|
+|**2025-12-15**|**CoRA: A Collaborative Robust Architecture with Hybrid Fusion for Efficient Perception**|Gong Chen et.al.|[2512.13191](http://arxiv.org/abs/2512.13191)|null|
+|**2025-12-15**|**Comprehensive Evaluation of Rule-Based, Machine Learning, and Deep Learning in Human Estimation Using Radio Wave Sensing: Accuracy, Spatial Generalization, and Output Granularity Trade-offs**|Tomoya Tanaka et.al.|[2512.13031](http://arxiv.org/abs/2512.13031)|null|
 |**2025-12-11**|**Zorya: Automated Concolic Execution of Single-Threaded Go Binaries**|Karolina Gorna et.al.|[2512.10799](http://arxiv.org/abs/2512.10799)|null|
 |**2025-12-11**|**Challenges of Evaluating LLM Safety for User Welfare**|Manon Kempermann et.al.|[2512.10687](http://arxiv.org/abs/2512.10687)|null|
 |**2025-12-11**|**Is the Information Bottleneck Robust Enough? Towards Label-Noise Resistant Information Bottleneck Learning**|Yi Huang et.al.|[2512.10573](http://arxiv.org/abs/2512.10573)|null|
@@ -34,12 +44,22 @@
 |**2025-12-09**|**Exposing Hidden Biases in Text-to-Image Models via Automated Prompt Search**|Manos Plitsis et.al.|[2512.08724](http://arxiv.org/abs/2512.08724)|null|
 |**2025-12-09**|**Sleep effects on brain, cognition, and mental health during adolescence are mediated by the glymphatic system**|Xinglin Zeng et.al.|[2512.08704](http://arxiv.org/abs/2512.08704)|null|
 
-<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-15**|**LitePT: Lighter Yet Stronger Point Transformer**|Yuanwen Yue et.al.|[2512.13689](http://arxiv.org/abs/2512.13689)|null|
+|**2025-12-15**|**LASER: Layer-wise Scale Alignment for Training-Free Streaming 4D Reconstruction**|Tianye Ding et.al.|[2512.13680](http://arxiv.org/abs/2512.13680)|null|
+|**2025-12-15**|**Reconstructing spatially-varying multiplicative bias for Stage IV weak lensing galaxy surveys with a quadratic estimator**|Konstantinos Tanidis et.al.|[2512.13679](http://arxiv.org/abs/2512.13679)|null|
+|**2025-12-15**|**JoVA: Unified Multimodal Learning for Joint Video-Audio Generation**|Xiaohu Huang et.al.|[2512.13677](http://arxiv.org/abs/2512.13677)|null|
+|**2025-12-15**|**Towards Effective Model Editing for LLM Personalization**|Baixiang Huang et.al.|[2512.13676](http://arxiv.org/abs/2512.13676)|null|
+|**2025-12-15**|**Towards Interactive Intelligence for Digital Humans**|Yiyi Cai et.al.|[2512.13674](http://arxiv.org/abs/2512.13674)|null|
+|**2025-12-15**|**AgentIAD: Tool-Augmented Single-Agent for Industrial Anomaly Detection**|Junwen Miao et.al.|[2512.13671](http://arxiv.org/abs/2512.13671)|null|
+|**2025-12-15**|**NL2SpaTiaL: Generating Geometric Spatio-Temporal Logic Specifications from Natural Language for Manipulation Tasks**|Licheng Luo et.al.|[2512.13670](http://arxiv.org/abs/2512.13670)|null|
+|**2025-12-15**|**Matrix Product State Simulation of Reacting Shear Flows**|Robert Pinkston et.al.|[2512.13661](http://arxiv.org/abs/2512.13661)|null|
+|**2025-12-15**|**Embedding-Based Rankings of Educational Resources based on Learning Outcome Alignment: Benchmarking, Expert Validation, and Learner Performance**|Mohammadreza Molavi et.al.|[2512.13658](http://arxiv.org/abs/2512.13658)|null|
 |**2025-12-11**|**WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World**|Ao Liang et.al.|[2512.10958](http://arxiv.org/abs/2512.10958)|null|
 |**2025-12-11**|**Evidence of galaxy cluster rotation in the cosmic microwave background**|Samuel Goldstein et.al.|[2512.10951](http://arxiv.org/abs/2512.10951)|null|
 |**2025-12-11**|**Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation**|Yiwen Tang et.al.|[2512.10949](http://arxiv.org/abs/2512.10949)|null|
@@ -61,7 +81,7 @@
 |**2025-12-09**|**IPPO Learns the Game, Not the Team: A Study on Generalization in Heterogeneous Agent Teams**|Ryan LeRoy et.al.|[2512.08877](http://arxiv.org/abs/2512.08877)|null|
 |**2025-12-09**|**Siamese-Driven Optimization for Low-Resolution Image Latent Embedding in Image Captioning**|Jing Jie Tan et.al.|[2512.08873](http://arxiv.org/abs/2512.08873)|null|
 
-<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
