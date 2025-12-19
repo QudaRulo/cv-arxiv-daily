@@ -1,4 +1,4 @@
-## Updated on 2025.12.17
+## Updated on 2025.12.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-17**|**End-to-End Training for Autoregressive Video Diffusion via Self-Resampling**|Yuwei Guo et.al.|[2512.15702](http://arxiv.org/abs/2512.15702)|null|
+|**2025-12-17**|**Service-Oriented Fast Frequency Response from Flexible Loads and Energy Storage in Low-Inertia Power Systems**|Xiaojie Tao et.al.|[2512.15677](http://arxiv.org/abs/2512.15677)|null|
+|**2025-12-17**|**Stylized Synthetic Augmentation further improves Corruption Robustness**|Georg Siedel et.al.|[2512.15675](http://arxiv.org/abs/2512.15675)|null|
+|**2025-12-17**|**Deep Reinforcement Learning for EH-Enabled Cognitive-IoT Under Jamming Attacks**|Nadia Abdolkhani et.al.|[2512.15558](http://arxiv.org/abs/2512.15558)|null|
+|**2025-12-17**|**Attention in Motion: Secure Platooning via Transformer-based Misbehavior Detection**|Konstantinos Kalogiannis et.al.|[2512.15503](http://arxiv.org/abs/2512.15503)|null|
+|**2025-12-17**|**Insecure Ingredients? Exploring Dependency Update Patterns of Bundled JavaScript Packages on the Web**|Ben Swierzy et.al.|[2512.15447](http://arxiv.org/abs/2512.15447)|null|
+|**2025-12-17**|**Photorealistic Phantom Roads in Real Scenes: Disentangling 3D Hallucinations from Physical Geometry**|Hoang Nguyen et.al.|[2512.15423](http://arxiv.org/abs/2512.15423)|null|
+|**2025-12-17**|**Adversarial versification in portuguese as a jailbreak operator in LLMs**|Joao Queiroz et.al.|[2512.15353](http://arxiv.org/abs/2512.15353)|null|
+|**2025-12-17**|**Bits for Privacy: Evaluating Post-Training Quantization via Membership Inference**|Chenxiang Zhang et.al.|[2512.15335](http://arxiv.org/abs/2512.15335)|null|
+|**2025-12-17**|**ChatGPT and Gemini participated in the Korean College Scholastic Ability Test -- Earth Science I**|Seok-Hyun Ga et.al.|[2512.15298](http://arxiv.org/abs/2512.15298)|null|
 |**2025-12-15**|**A new data weighted averaging algorithm to reduce tones in the signal band**|Marta Laguna et.al.|[2512.13605](http://arxiv.org/abs/2512.13605)|null|
 |**2025-12-15**|**Superposition as Lossy Compression: Measure with Sparse Autoencoders and Connect to Adversarial Vulnerability**|Leonard Bereska et.al.|[2512.13568](http://arxiv.org/abs/2512.13568)|null|
 |**2025-12-15**|**Impact analysis of hidden faults in nonlinear control systems using output-to-output gain**|Ruslan Seifullaev et.al.|[2512.13483](http://arxiv.org/abs/2512.13483)|null|
@@ -33,23 +43,23 @@
 |**2025-12-11**|**How to Trick Your AI TA: A Systematic Study of Academic Jailbreaking in LLM Code Evaluation**|Devanshu Sahoo et.al.|[2512.10415](http://arxiv.org/abs/2512.10415)|null|
 |**2025-12-11**|**The Eminence in Shadow: Exploiting Feature Boundary Ambiguity for Robust Backdoor Attacks**|Zhou Feng et.al.|[2512.10402](http://arxiv.org/abs/2512.10402)|null|
 |**2025-12-11**|**Cross-modal Retrieval Models for Stripped Binary Analysis**|Guoqiang Chen et.al.|[2512.10393](http://arxiv.org/abs/2512.10393)|null|
-|**2025-12-09**|**Improved Pseudorandom Codes from Permuted Puzzles**|Miranda Christ et.al.|[2512.08918](http://arxiv.org/abs/2512.08918)|null|
-|**2025-12-09**|**DAO-GP Drift Aware Online Non-Linear Regression Gaussian-Process**|Mohammad Abu-Shaira et.al.|[2512.08879](http://arxiv.org/abs/2512.08879)|null|
-|**2025-12-09**|**When Tables Leak: Attacking String Memorization in LLM-Based Tabular Data Generation**|Joshua Ward et.al.|[2512.08875](http://arxiv.org/abs/2512.08875)|null|
-|**2025-12-09**|**NecoFuzz: Effective Fuzzing of Nested Virtualization via Fuzz-Harness Virtual Machines**|Reima Ishii et.al.|[2512.08858](http://arxiv.org/abs/2512.08858)|null|
-|**2025-12-09**|**A mathematical model of \textit{Culex} population abundance and the impact of vector control interventions in a patchy environment**|Suman Bhowmick et.al.|[2512.08842](http://arxiv.org/abs/2512.08842)|null|
-|**2025-12-09**|**Forecasting Fails: Unveiling Evasion Attacks in Weather Prediction Models**|Huzaifa Arif et.al.|[2512.08832](http://arxiv.org/abs/2512.08832)|null|
-|**2025-12-09**|**An Explainable AI Model for the Detecting Malicious Smart Contracts Based on EVM Opcode Based Features**|Roopak Surendran et.al.|[2512.08782](http://arxiv.org/abs/2512.08782)|null|
-|**2025-12-09**|**Insured Agents: A Decentralized Trust Insurance Mechanism for Agentic Economy**|Botao 'Amber' Hu et.al.|[2512.08737](http://arxiv.org/abs/2512.08737)|null|
-|**2025-12-09**|**Exposing Hidden Biases in Text-to-Image Models via Automated Prompt Search**|Manos Plitsis et.al.|[2512.08724](http://arxiv.org/abs/2512.08724)|null|
-|**2025-12-09**|**Sleep effects on brain, cognition, and mental health during adolescence are mediated by the glymphatic system**|Xinglin Zeng et.al.|[2512.08704](http://arxiv.org/abs/2512.08704)|null|
 
-<p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-17**|**Spatia: Video Generation with Updatable Spatial Memory**|Jinjing Zhao et.al.|[2512.15716](http://arxiv.org/abs/2512.15716)|null|
+|**2025-12-17**|**Predictive Concept Decoders: Training Scalable End-to-End Interpretability Assistants**|Vincent Huang et.al.|[2512.15712](http://arxiv.org/abs/2512.15712)|null|
+|**2025-12-17**|**Gaussian Pixel Codec Avatars: A Hybrid Representation for Efficient Rendering**|Divam Gupta et.al.|[2512.15711](http://arxiv.org/abs/2512.15711)|null|
+|**2025-12-17**|**Artism: AI-Driven Dual-Engine System for Art Generation and Critique**|Shuai Liu et.al.|[2512.15710](http://arxiv.org/abs/2512.15710)|null|
+|**2025-12-17**|**GateFusion: Hierarchical Gated Cross-Modal Fusion for Active Speaker Detection**|Yu Wang et.al.|[2512.15707](http://arxiv.org/abs/2512.15707)|null|
+|**2025-12-17**|**Dynamic Rebatching for Efficient Early-Exit Inference with DREX**|Xuting Liu et.al.|[2512.15705](http://arxiv.org/abs/2512.15705)|null|
+|**2025-12-17**|**VLIC: Vision-Language Models As Perceptual Judges for Human-Aligned Image Compression**|Kyle Sargent et.al.|[2512.15701](http://arxiv.org/abs/2512.15701)|null|
+|**2025-12-17**|**BashArena: A Control Setting for Highly Privileged AI Agents**|Adam Kaufman et.al.|[2512.15688](http://arxiv.org/abs/2512.15688)|null|
+|**2025-12-17**|**Can LLMs Guide Their Own Exploration? Gradient-Guided Reinforcement Learning for LLM Reasoning**|Zhenwen Liang et.al.|[2512.15687](http://arxiv.org/abs/2512.15687)|null|
+|**2025-12-17**|**High-Dimensional Partial Least Squares: Spectral Analysis and Fundamental Limitations**|Victor Léger et.al.|[2512.15684](http://arxiv.org/abs/2512.15684)|null|
 |**2025-12-15**|**LitePT: Lighter Yet Stronger Point Transformer**|Yuanwen Yue et.al.|[2512.13689](http://arxiv.org/abs/2512.13689)|null|
 |**2025-12-15**|**LASER: Layer-wise Scale Alignment for Training-Free Streaming 4D Reconstruction**|Tianye Ding et.al.|[2512.13680](http://arxiv.org/abs/2512.13680)|null|
 |**2025-12-15**|**Reconstructing spatially-varying multiplicative bias for Stage IV weak lensing galaxy surveys with a quadratic estimator**|Konstantinos Tanidis et.al.|[2512.13679](http://arxiv.org/abs/2512.13679)|null|
@@ -70,18 +80,8 @@
 |**2025-12-11**|**Noisy Quantum Learning Theory**|Jordan Cotler et.al.|[2512.10929](http://arxiv.org/abs/2512.10929)|null|
 |**2025-12-11**|**CompanionCast: A Multi-Agent Conversational AI Framework with Spatial Audio for Social Co-Viewing Experiences**|Yiyang Wang et.al.|[2512.10918](http://arxiv.org/abs/2512.10918)|null|
 |**2025-12-11**|**Multi-Granular Node Pruning for Circuit Discovery**|Muhammad Umair Haider et.al.|[2512.10903](http://arxiv.org/abs/2512.10903)|null|
-|**2025-12-09**|**Astra: General Interactive World Model with Autoregressive Denoising**|Yixuan Zhu et.al.|[2512.08931](http://arxiv.org/abs/2512.08931)|null|
-|**2025-12-09**|**Selfi: Self Improving Reconstruction Engine via 3D Geometric Feature Alignment**|Youming Deng et.al.|[2512.08930](http://arxiv.org/abs/2512.08930)|null|
-|**2025-12-09**|**Failure of the Markov property for stochastic Volterra equations**|Martin Friesen et.al.|[2512.08926](http://arxiv.org/abs/2512.08926)|null|
-|**2025-12-09**|**Toward Practical Forecasts of Public Sentiments via Convexification for Mean Field Games: Evidence from Real World COVID-19 Discussion Data**|Shi Chen et.al.|[2512.08925](http://arxiv.org/abs/2512.08925)|null|
-|**2025-12-09**|**Emergent Non-Markovianity in Logical Qubit Dynamics**|Jalan A. Ziyad et.al.|[2512.08893](http://arxiv.org/abs/2512.08893)|null|
-|**2025-12-09**|**Accelerated Rotation-Invariant Convolution for UAV Image Segmentation**|Manduhu Manduhu et.al.|[2512.08888](http://arxiv.org/abs/2512.08888)|null|
-|**2025-12-09**|**DAO-GP Drift Aware Online Non-Linear Regression Gaussian-Process**|Mohammad Abu-Shaira et.al.|[2512.08879](http://arxiv.org/abs/2512.08879)|null|
-|**2025-12-09**|**Spreading processes on heterogeneous active systems: spreading threshold, immunization strategies, and vaccination noise**|Benjamín Marcolongo et.al.|[2512.08878](http://arxiv.org/abs/2512.08878)|null|
-|**2025-12-09**|**IPPO Learns the Game, Not the Team: A Study on Generalization in Heterogeneous Agent Teams**|Ryan LeRoy et.al.|[2512.08877](http://arxiv.org/abs/2512.08877)|null|
-|**2025-12-09**|**Siamese-Driven Optimization for Low-Resolution Image Latent Embedding in Image Captioning**|Jing Jie Tan et.al.|[2512.08873](http://arxiv.org/abs/2512.08873)|null|
 
-<p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
