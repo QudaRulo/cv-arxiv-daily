@@ -1,4 +1,4 @@
-## Updated on 2025.12.19
+## Updated on 2025.12.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**Veblen effects and broken windows in an environmental OLG model**|Nicolás Blampied et.al.|[2512.16806](http://arxiv.org/abs/2512.16806)|null|
+|**2025-12-18**|**A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection**|Xiao Li et.al.|[2512.16538](http://arxiv.org/abs/2512.16538)|null|
+|**2025-12-18**|**From Essence to Defense: Adaptive Semantic-aware Watermarking for Embedding-as-a-Service Copyright Protection**|Hao Li et.al.|[2512.16439](http://arxiv.org/abs/2512.16439)|null|
+|**2025-12-18**|**What defines a group of friends? Rethinking community structure in signed, directed networks**|Miguel A. González-Casado et.al.|[2512.16399](http://arxiv.org/abs/2512.16399)|null|
+|**2025-12-18**|**SoK: Reviewing Two Decades of Security, Privacy, Accessibility, and Usability Studies on Internet of Things for Older Adults**|Suleiman Saka et.al.|[2512.16394](http://arxiv.org/abs/2512.16394)|null|
+|**2025-12-18**|**Hacking Neural Evaluation Metrics with Single Hub Text**|Hiroyuki Deguchi et.al.|[2512.16323](http://arxiv.org/abs/2512.16323)|null|
+|**2025-12-18**|**Beyond the Benchmark: Innovative Defenses Against Prompt Injection Attacks**|Safwan Shaheer et.al.|[2512.16307](http://arxiv.org/abs/2512.16307)|null|
+|**2025-12-18**|**Domain-Agnostic Causal-Aware Audio Transformer for Infant Cry Classification**|Geofrey Owino et.al.|[2512.16271](http://arxiv.org/abs/2512.16271)|null|
+|**2025-12-18**|**Quantifying Functional Criticality of Lifelines Through Mobility-Derived Population-Facility Dependence for Human-Centered Resilience**|Junwei Ma et.al.|[2512.16228](http://arxiv.org/abs/2512.16228)|null|
+|**2025-12-18**|**Dual-View Inference Attack: Machine Unlearning Amplifies Privacy Exposure**|Lulu Xue et.al.|[2512.16126](http://arxiv.org/abs/2512.16126)|null|
 |**2025-12-17**|**End-to-End Training for Autoregressive Video Diffusion via Self-Resampling**|Yuwei Guo et.al.|[2512.15702](http://arxiv.org/abs/2512.15702)|null|
 |**2025-12-17**|**Service-Oriented Fast Frequency Response from Flexible Loads and Energy Storage in Low-Inertia Power Systems**|Xiaojie Tao et.al.|[2512.15677](http://arxiv.org/abs/2512.15677)|null|
 |**2025-12-17**|**Stylized Synthetic Augmentation further improves Corruption Robustness**|Georg Siedel et.al.|[2512.15675](http://arxiv.org/abs/2512.15675)|null|
@@ -33,23 +43,23 @@
 |**2025-12-15**|**Evaluating Adversarial Attacks on Federated Learning for Temperature Forecasting**|Karina Chichifoi et.al.|[2512.13207](http://arxiv.org/abs/2512.13207)|null|
 |**2025-12-15**|**CoRA: A Collaborative Robust Architecture with Hybrid Fusion for Efficient Perception**|Gong Chen et.al.|[2512.13191](http://arxiv.org/abs/2512.13191)|null|
 |**2025-12-15**|**Comprehensive Evaluation of Rule-Based, Machine Learning, and Deep Learning in Human Estimation Using Radio Wave Sensing: Accuracy, Spatial Generalization, and Output Granularity Trade-offs**|Tomoya Tanaka et.al.|[2512.13031](http://arxiv.org/abs/2512.13031)|null|
-|**2025-12-11**|**Zorya: Automated Concolic Execution of Single-Threaded Go Binaries**|Karolina Gorna et.al.|[2512.10799](http://arxiv.org/abs/2512.10799)|null|
-|**2025-12-11**|**Challenges of Evaluating LLM Safety for User Welfare**|Manon Kempermann et.al.|[2512.10687](http://arxiv.org/abs/2512.10687)|null|
-|**2025-12-11**|**Is the Information Bottleneck Robust Enough? Towards Label-Noise Resistant Information Bottleneck Learning**|Yi Huang et.al.|[2512.10573](http://arxiv.org/abs/2512.10573)|null|
-|**2025-12-11**|**Convective and non-convective nature of Balearic meteotsunamis:a 50-year historical review**|Agustí Jansà et.al.|[2512.10535](http://arxiv.org/abs/2512.10535)|null|
-|**2025-12-11**|**T-ADD: Enhancing DOA Estimation Robustness Against Adversarial Attacks**|Shilian Zheng et.al.|[2512.10496](http://arxiv.org/abs/2512.10496)|null|
-|**2025-12-11**|**From Lab to Reality: A Practical Evaluation of Deep Learning Models and LLMs for Vulnerability Detection**|Chaomeng Lu et.al.|[2512.10485](http://arxiv.org/abs/2512.10485)|null|
-|**2025-12-11**|**When Reject Turns into Accept: Quantifying the Vulnerability of LLM-Based Scientific Reviewers to Indirect Prompt Injection**|Devanshu Sahoo et.al.|[2512.10449](http://arxiv.org/abs/2512.10449)|null|
-|**2025-12-11**|**How to Trick Your AI TA: A Systematic Study of Academic Jailbreaking in LLM Code Evaluation**|Devanshu Sahoo et.al.|[2512.10415](http://arxiv.org/abs/2512.10415)|null|
-|**2025-12-11**|**The Eminence in Shadow: Exploiting Feature Boundary Ambiguity for Robust Backdoor Attacks**|Zhou Feng et.al.|[2512.10402](http://arxiv.org/abs/2512.10402)|null|
-|**2025-12-11**|**Cross-modal Retrieval Models for Stripped Binary Analysis**|Guoqiang Chen et.al.|[2512.10393](http://arxiv.org/abs/2512.10393)|null|
 
-<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**The World is Your Canvas: Painting Promptable Events with Reference Images, Trajectories, and Text**|Hanlin Wang et.al.|[2512.16924](http://arxiv.org/abs/2512.16924)|null|
+|**2025-12-18**|**DVGT: Driving Visual Geometry Transformer**|Sicheng Zuo et.al.|[2512.16919](http://arxiv.org/abs/2512.16919)|null|
+|**2025-12-18**|**Generative Adversarial Reasoner: Enhancing LLM Reasoning with Adversarial Reinforcement Learning**|Qihao Liu et.al.|[2512.16917](http://arxiv.org/abs/2512.16917)|null|
+|**2025-12-18**|**SFTok: Bridging the Performance Gap in Discrete Tokenizers**|Qihang Rao et.al.|[2512.16910](http://arxiv.org/abs/2512.16910)|null|
+|**2025-12-18**|**MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning**|Yuanchen Ju et.al.|[2512.16909](http://arxiv.org/abs/2512.16909)|null|
+|**2025-12-18**|**SceneDiff: A Benchmark and Method for Multiview Object Change Detection**|Yuqun Wu et.al.|[2512.16908](http://arxiv.org/abs/2512.16908)|null|
+|**2025-12-18**|**Flowing from Reasoning to Motion: Learning 3D Hand Trajectory Prediction from Egocentric Human Interaction Videos**|Mingfei Chen et.al.|[2512.16907](http://arxiv.org/abs/2512.16907)|null|
+|**2025-12-18**|**FlashPortrait: 6x Faster Infinite Portrait Animation with Adaptive Latent Prediction**|Shuyuan Tu et.al.|[2512.16900](http://arxiv.org/abs/2512.16900)|null|
+|**2025-12-18**|**Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image**|Yushi Hu et.al.|[2512.16899](http://arxiv.org/abs/2512.16899)|null|
+|**2025-12-18**|**The Motile Josephson Array: Bridging Active Turbulence and Superconductivity**|Magnus F Ivarsen et.al.|[2512.16884](http://arxiv.org/abs/2512.16884)|null|
 |**2025-12-17**|**Spatia: Video Generation with Updatable Spatial Memory**|Jinjing Zhao et.al.|[2512.15716](http://arxiv.org/abs/2512.15716)|null|
 |**2025-12-17**|**Predictive Concept Decoders: Training Scalable End-to-End Interpretability Assistants**|Vincent Huang et.al.|[2512.15712](http://arxiv.org/abs/2512.15712)|null|
 |**2025-12-17**|**Gaussian Pixel Codec Avatars: A Hybrid Representation for Efficient Rendering**|Divam Gupta et.al.|[2512.15711](http://arxiv.org/abs/2512.15711)|null|
@@ -70,18 +80,8 @@
 |**2025-12-15**|**NL2SpaTiaL: Generating Geometric Spatio-Temporal Logic Specifications from Natural Language for Manipulation Tasks**|Licheng Luo et.al.|[2512.13670](http://arxiv.org/abs/2512.13670)|null|
 |**2025-12-15**|**Matrix Product State Simulation of Reacting Shear Flows**|Robert Pinkston et.al.|[2512.13661](http://arxiv.org/abs/2512.13661)|null|
 |**2025-12-15**|**Embedding-Based Rankings of Educational Resources based on Learning Outcome Alignment: Benchmarking, Expert Validation, and Learner Performance**|Mohammadreza Molavi et.al.|[2512.13658](http://arxiv.org/abs/2512.13658)|null|
-|**2025-12-11**|**WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World**|Ao Liang et.al.|[2512.10958](http://arxiv.org/abs/2512.10958)|null|
-|**2025-12-11**|**Evidence of galaxy cluster rotation in the cosmic microwave background**|Samuel Goldstein et.al.|[2512.10951](http://arxiv.org/abs/2512.10951)|null|
-|**2025-12-11**|**Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation**|Yiwen Tang et.al.|[2512.10949](http://arxiv.org/abs/2512.10949)|null|
-|**2025-12-11**|**On Decision-Making Agents and Higher-Order Causal Processes**|Matt Wilson et.al.|[2512.10937](http://arxiv.org/abs/2512.10937)|null|
-|**2025-12-11**|**Curriculum-Based Reinforcement Learning for Autonomous UAV Navigation in Unknown Curved Tubular Conduit**|Zamirddine Mari et.al.|[2512.10934](http://arxiv.org/abs/2512.10934)|null|
-|**2025-12-11**|**BabyVLM-V2: Toward Developmentally Grounded Pretraining and Benchmarking of Vision Foundation Models**|Shengao Wang et.al.|[2512.10932](http://arxiv.org/abs/2512.10932)|null|
-|**2025-12-11**|**Asynchronous Reasoning: Training-Free Interactive Thinking LLMs**|George Yakushev et.al.|[2512.10931](http://arxiv.org/abs/2512.10931)|null|
-|**2025-12-11**|**Noisy Quantum Learning Theory**|Jordan Cotler et.al.|[2512.10929](http://arxiv.org/abs/2512.10929)|null|
-|**2025-12-11**|**CompanionCast: A Multi-Agent Conversational AI Framework with Spatial Audio for Social Co-Viewing Experiences**|Yiyang Wang et.al.|[2512.10918](http://arxiv.org/abs/2512.10918)|null|
-|**2025-12-11**|**Multi-Granular Node Pruning for Circuit Discovery**|Muhammad Umair Haider et.al.|[2512.10903](http://arxiv.org/abs/2512.10903)|null|
 
-<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
