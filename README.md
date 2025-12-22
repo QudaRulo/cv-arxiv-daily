@@ -1,4 +1,4 @@
-## Updated on 2025.12.21
+## Updated on 2025.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -44,7 +44,7 @@
 |**2025-12-15**|**CoRA: A Collaborative Robust Architecture with Hybrid Fusion for Efficient Perception**|Gong Chen et.al.|[2512.13191](http://arxiv.org/abs/2512.13191)|null|
 |**2025-12-15**|**Comprehensive Evaluation of Rule-Based, Machine Learning, and Deep Learning in Human Estimation Using Radio Wave Sensing: Accuracy, Spatial Generalization, and Output Granularity Trade-offs**|Tomoya Tanaka et.al.|[2512.13031](http://arxiv.org/abs/2512.13031)|null|
 
-<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
 
 ## AI
 
@@ -81,7 +81,7 @@
 |**2025-12-15**|**Matrix Product State Simulation of Reacting Shear Flows**|Robert Pinkston et.al.|[2512.13661](http://arxiv.org/abs/2512.13661)|null|
 |**2025-12-15**|**Embedding-Based Rankings of Educational Resources based on Learning Outcome Alignment: Benchmarking, Expert Validation, and Learner Performance**|Mohammadreza Molavi et.al.|[2512.13658](http://arxiv.org/abs/2512.13658)|null|
 
-<p align=right>(<a href=#updated-on-20251221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
