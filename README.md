@@ -1,4 +1,4 @@
-## Updated on 2025.12.22
+## Updated on 2025.12.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-19**|**Playful but Persuasive: Deceptive Designs and Advertising Strategies in Popular Mobile Apps for Children**|Hannah Krahl et.al.|[2512.17819](http://arxiv.org/abs/2512.17819)|null|
+|**2025-12-19**|**A Parametric Framework for Anticipatory Flashflood Warning: Integrating Landscape Vulnerability with Precipitation Forecasts**|Xiangpeng Li et.al.|[2512.17785](http://arxiv.org/abs/2512.17785)|null|
+|**2025-12-19**|**UniStateDLO: Unified Generative State Estimation and Tracking of Deformable Linear Objects Under Occlusion for Constrained Manipulation**|Kangchen Lv et.al.|[2512.17764](http://arxiv.org/abs/2512.17764)|null|
+|**2025-12-19**|**A Practical Solution to Systematically Monitor Inconsistencies in SBOM-based Vulnerability Scanners**|Martin Rosso et.al.|[2512.17710](http://arxiv.org/abs/2512.17710)|null|
+|**2025-12-19**|**STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting**|Yifei Cheng et.al.|[2512.17667](http://arxiv.org/abs/2512.17667)|null|
+|**2025-12-19**|**Binding Agent ID: Unleashing the Power of AI Agents with accountability and credibility**|Zibin Lin et.al.|[2512.17538](http://arxiv.org/abs/2512.17538)|null|
+|**2025-12-19**|**SCAR: Semantic Cardiac Adversarial Representation via Spatiotemporal Manifold Optimization in ECG**|Shunbo Jia et.al.|[2512.17423](http://arxiv.org/abs/2512.17423)|null|
+|**2025-12-19**|**AdvJudge-Zero: Binary Decision Flips in LLM-as-a-Judge via Adversarial Control Tokens**|Tung-Ling Li et.al.|[2512.17375](http://arxiv.org/abs/2512.17375)|null|
+|**2025-12-19**|**Adversarially Robust Detection of Harmful Online Content: A Computational Design Science Approach**|Yidong Chai et.al.|[2512.17367](http://arxiv.org/abs/2512.17367)|null|
+|**2025-12-19**|**Supersampled scanning transmission X-ray microscopy for high-resolution vibration-free imaging**|Simone Finizio et.al.|[2512.17366](http://arxiv.org/abs/2512.17366)|null|
 |**2025-12-18**|**Veblen effects and broken windows in an environmental OLG model**|Nicolás Blampied et.al.|[2512.16806](http://arxiv.org/abs/2512.16806)|null|
 |**2025-12-18**|**A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection**|Xiao Li et.al.|[2512.16538](http://arxiv.org/abs/2512.16538)|null|
 |**2025-12-18**|**From Essence to Defense: Adaptive Semantic-aware Watermarking for Embedding-as-a-Service Copyright Protection**|Hao Li et.al.|[2512.16439](http://arxiv.org/abs/2512.16439)|null|
@@ -44,12 +54,22 @@
 |**2025-12-15**|**CoRA: A Collaborative Robust Architecture with Hybrid Fusion for Efficient Perception**|Gong Chen et.al.|[2512.13191](http://arxiv.org/abs/2512.13191)|null|
 |**2025-12-15**|**Comprehensive Evaluation of Rule-Based, Machine Learning, and Deep Learning in Human Estimation Using Radio Wave Sensing: Accuracy, Spatial Generalization, and Output Granularity Trade-offs**|Tomoya Tanaka et.al.|[2512.13031](http://arxiv.org/abs/2512.13031)|null|
 
-<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-19**|**Dexterous World Models**|Byungjun Kim et.al.|[2512.17907](http://arxiv.org/abs/2512.17907)|null|
+|**2025-12-19**|**Diffusion Forcing for Multi-Agent Interaction Sequence Modeling**|Vongani H. Maluleke et.al.|[2512.17900](http://arxiv.org/abs/2512.17900)|null|
+|**2025-12-19**|**Humanlike AI Design Increases Anthropomorphism but Yields Divergent Outcomes on Engagement and Trust Globally**|Robin Schimmelpfennig et.al.|[2512.17898](http://arxiv.org/abs/2512.17898)|null|
+|**2025-12-19**|**RadarGen: Automotive Radar Point Cloud Generation from Cameras**|Tomer Borreda et.al.|[2512.17897](http://arxiv.org/abs/2512.17897)|null|
+|**2025-12-19**|**XAgen: An Explainability Tool for Identifying and Correcting Failures in Multi-Agent Workflows**|Xinru Wang et.al.|[2512.17896](http://arxiv.org/abs/2512.17896)|null|
+|**2025-12-19**|**Prefix Trees Improve Memory Consumption in Large-Scale Continuous-Time Stochastic Models**|Landon Taylor et.al.|[2512.17892](http://arxiv.org/abs/2512.17892)|null|
+|**2025-12-19**|**Trails of clouds in binary black holes**|Mateja Bošković et.al.|[2512.17887](http://arxiv.org/abs/2512.17887)|null|
+|**2025-12-19**|**Your Eyes Controlled the Game: Real-Time Cognitive Training Adaptation based on Eye-Tracking and Physiological Data in Virtual Reality**|Dominik Szczepaniak et.al.|[2512.17882](http://arxiv.org/abs/2512.17882)|null|
+|**2025-12-19**|**Impact of Heater Thermal Properties on Nucleate Pool Boiling: Insights from a Multiscale Automata Simulation**|Karina I. Mazzitello et.al.|[2512.17876](http://arxiv.org/abs/2512.17876)|null|
+|**2025-12-19**|**Calibrated Mechanism Design**|Laura Doval et.al.|[2512.17858](http://arxiv.org/abs/2512.17858)|null|
 |**2025-12-18**|**The World is Your Canvas: Painting Promptable Events with Reference Images, Trajectories, and Text**|Hanlin Wang et.al.|[2512.16924](http://arxiv.org/abs/2512.16924)|null|
 |**2025-12-18**|**DVGT: Driving Visual Geometry Transformer**|Sicheng Zuo et.al.|[2512.16919](http://arxiv.org/abs/2512.16919)|null|
 |**2025-12-18**|**Generative Adversarial Reasoner: Enhancing LLM Reasoning with Adversarial Reinforcement Learning**|Qihao Liu et.al.|[2512.16917](http://arxiv.org/abs/2512.16917)|null|
@@ -81,7 +101,7 @@
 |**2025-12-15**|**Matrix Product State Simulation of Reacting Shear Flows**|Robert Pinkston et.al.|[2512.13661](http://arxiv.org/abs/2512.13661)|null|
 |**2025-12-15**|**Embedding-Based Rankings of Educational Resources based on Learning Outcome Alignment: Benchmarking, Expert Validation, and Learner Performance**|Mohammadreza Molavi et.al.|[2512.13658](http://arxiv.org/abs/2512.13658)|null|
 
-<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
