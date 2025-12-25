@@ -1,4 +1,4 @@
-## Updated on 2025.12.23
+## Updated on 2025.12.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**Modeling Bank Systemic Risk of Emerging Markets under Geopolitical Shocks: Empirical Evidence from BRICS Countries**|Haibo Wang et.al.|[2512.20515](http://arxiv.org/abs/2512.20515)|null|
+|**2025-12-23**|**ChatGPT: Excellent Paper! Accept It. Editor: Imposter Found! Review Rejected**|Kanchon Gharami et.al.|[2512.20405](http://arxiv.org/abs/2512.20405)|null|
+|**2025-12-23**|**Resilient Packet Forwarding: A Reinforcement Learning Approach to Routing in Gaussian Interconnected Networks with Clustered Faults**|Mohammad Walid Charrwi et.al.|[2512.20394](http://arxiv.org/abs/2512.20394)|null|
+|**2025-12-23**|**Well Begun is Half Done: Location-Aware and Trace-Guided Iterative Automated Vulnerability Repair**|Zhenlei Ye et.al.|[2512.20203](http://arxiv.org/abs/2512.20203)|null|
+|**2025-12-23**|**Optimistic TEE-Rollups: A Hybrid Architecture for Scalable and Verifiable Generative AI Inference on Blockchain**|Aaron Chan et.al.|[2512.20176](http://arxiv.org/abs/2512.20176)|null|
+|**2025-12-23**|**AI Security Beyond Core Domains: Resume Screening as a Case Study of Adversarial Vulnerabilities in Specialized LLM Applications**|Honglin Mu et.al.|[2512.20164](http://arxiv.org/abs/2512.20164)|null|
+|**2025-12-23**|**Multi Modal Attention Networks with Uncertainty Quantification for Automated Concrete Bridge Deck Delamination Detection**|Alireza Moayedikia et.al.|[2512.20113](http://arxiv.org/abs/2512.20113)|null|
+|**2025-12-23**|**On the Effectiveness of Instruction-Tuning Local LLMs for Identifying Software Vulnerabilities**|Sangryu Park et.al.|[2512.20062](http://arxiv.org/abs/2512.20062)|null|
+|**2025-12-23**|**IoT-based Android Malware Detection Using Graph Neural Network With Adversarial Defense**|Rahul Yumlembam et.al.|[2512.20004](http://arxiv.org/abs/2512.20004)|null|
+|**2025-12-23**|**BacAlarm: Mining and Simulating Composite API Traffic to Prevent Broken Access Control Violations**|Yanjing Yang et.al.|[2512.19997](http://arxiv.org/abs/2512.19997)|null|
 |**2025-12-19**|**Playful but Persuasive: Deceptive Designs and Advertising Strategies in Popular Mobile Apps for Children**|Hannah Krahl et.al.|[2512.17819](http://arxiv.org/abs/2512.17819)|null|
 |**2025-12-19**|**A Parametric Framework for Anticipatory Flashflood Warning: Integrating Landscape Vulnerability with Precipitation Forecasts**|Xiangpeng Li et.al.|[2512.17785](http://arxiv.org/abs/2512.17785)|null|
 |**2025-12-19**|**UniStateDLO: Unified Generative State Estimation and Tracking of Deformable Linear Objects Under Occlusion for Constrained Manipulation**|Kangchen Lv et.al.|[2512.17764](http://arxiv.org/abs/2512.17764)|null|
@@ -43,23 +53,23 @@
 |**2025-12-17**|**Adversarial versification in portuguese as a jailbreak operator in LLMs**|Joao Queiroz et.al.|[2512.15353](http://arxiv.org/abs/2512.15353)|null|
 |**2025-12-17**|**Bits for Privacy: Evaluating Post-Training Quantization via Membership Inference**|Chenxiang Zhang et.al.|[2512.15335](http://arxiv.org/abs/2512.15335)|null|
 |**2025-12-17**|**ChatGPT and Gemini participated in the Korean College Scholastic Ability Test -- Earth Science I**|Seok-Hyun Ga et.al.|[2512.15298](http://arxiv.org/abs/2512.15298)|null|
-|**2025-12-15**|**A new data weighted averaging algorithm to reduce tones in the signal band**|Marta Laguna et.al.|[2512.13605](http://arxiv.org/abs/2512.13605)|null|
-|**2025-12-15**|**Superposition as Lossy Compression: Measure with Sparse Autoencoders and Connect to Adversarial Vulnerability**|Leonard Bereska et.al.|[2512.13568](http://arxiv.org/abs/2512.13568)|null|
-|**2025-12-15**|**Impact analysis of hidden faults in nonlinear control systems using output-to-output gain**|Ruslan Seifullaev et.al.|[2512.13483](http://arxiv.org/abs/2512.13483)|null|
-|**2025-12-15**|**Beyond Missing Data: Questionnaire Uncertainty Responses as Early Digital Biomarkers of Cognitive Decline and Neurodegenerative Diseases**|Yukun Lu et.al.|[2512.13346](http://arxiv.org/abs/2512.13346)|null|
-|**2025-12-15**|**Quantum Disruption: An SOK of How Post-Quantum Attackers Reshape Blockchain Security and Performance**|Tushin Mallick et.al.|[2512.13333](http://arxiv.org/abs/2512.13333)|null|
-|**2025-12-15**|**Plant Equivalent Controller Realizations for Attack-Resilient Cyber-Physical Systems**|Mischa Huisman et.al.|[2512.13229](http://arxiv.org/abs/2512.13229)|null|
-|**2025-12-15**|**Towards Secure Decentralized Applications and Consensus Protocols in Blockchains (on Selfish Mining, Undercutting Attacks, DAG-Based Blockchains, E-Voting, Cryptocurrency Wallets, Secure-Logging, and CBDC)**|Ivan Homoliak et.al.|[2512.13213](http://arxiv.org/abs/2512.13213)|null|
-|**2025-12-15**|**Evaluating Adversarial Attacks on Federated Learning for Temperature Forecasting**|Karina Chichifoi et.al.|[2512.13207](http://arxiv.org/abs/2512.13207)|null|
-|**2025-12-15**|**CoRA: A Collaborative Robust Architecture with Hybrid Fusion for Efficient Perception**|Gong Chen et.al.|[2512.13191](http://arxiv.org/abs/2512.13191)|null|
-|**2025-12-15**|**Comprehensive Evaluation of Rule-Based, Machine Learning, and Deep Learning in Human Estimation Using Radio Wave Sensing: Accuracy, Spatial Generalization, and Output Granularity Trade-offs**|Tomoya Tanaka et.al.|[2512.13031](http://arxiv.org/abs/2512.13031)|null|
 
-<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251225>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**LongVideoAgent: Multi-Agent Reasoning with Long Videos**|Runtao Liu et.al.|[2512.20618](http://arxiv.org/abs/2512.20618)|null|
+|**2025-12-23**|**SpatialTree: How Spatial Abilities Branch Out in MLLMs**|Yuxi Xiao et.al.|[2512.20617](http://arxiv.org/abs/2512.20617)|null|
+|**2025-12-23**|**Active Intelligence in Video Avatars via Closed-loop World Modeling**|Xuanhua He et.al.|[2512.20615](http://arxiv.org/abs/2512.20615)|null|
+|**2025-12-23**|**MoE-DiffuSeq: Enhancing Long-Document Diffusion Models with Sparse Attention and Mixture of Experts**|Alexandros Christoforos et.al.|[2512.20604](http://arxiv.org/abs/2512.20604)|null|
+|**2025-12-23**|**Modeling Economic Systems as Multiport Networks**|Coen Hutters et.al.|[2512.20600](http://arxiv.org/abs/2512.20600)|null|
+|**2025-12-23**|**LightTact: A Visual-Tactile Fingertip Sensor for Deformation-Independent Contact Sensing**|Changyi Lin et.al.|[2512.20591](http://arxiv.org/abs/2512.20591)|null|
+|**2025-12-23**|**Leveraging High-Fidelity Digital Models and Reinforcement Learning for Mission Engineering: A Case Study of Aerial Firefighting Under Perfect Information**|İbrahim Oğuz Çetinkaya et.al.|[2512.20589](http://arxiv.org/abs/2512.20589)|null|
+|**2025-12-23**|**Automated stereotactic radiosurgery planning using a human-in-the-loop reasoning large language model agent**|Humza Nusrat et.al.|[2512.20586](http://arxiv.org/abs/2512.20586)|null|
+|**2025-12-23**|**Making Sense of Private Advertising: A Principled Approach to a Complex Ecosystem**|Kyle Hogan et.al.|[2512.20583](http://arxiv.org/abs/2512.20583)|null|
+|**2025-12-23**|**Spin-induced quadrupole moment based test for eccentric binaries**|N. V. Krishnendu et.al.|[2512.20579](http://arxiv.org/abs/2512.20579)|null|
 |**2025-12-19**|**Dexterous World Models**|Byungjun Kim et.al.|[2512.17907](http://arxiv.org/abs/2512.17907)|null|
 |**2025-12-19**|**Diffusion Forcing for Multi-Agent Interaction Sequence Modeling**|Vongani H. Maluleke et.al.|[2512.17900](http://arxiv.org/abs/2512.17900)|null|
 |**2025-12-19**|**Humanlike AI Design Increases Anthropomorphism but Yields Divergent Outcomes on Engagement and Trust Globally**|Robin Schimmelpfennig et.al.|[2512.17898](http://arxiv.org/abs/2512.17898)|null|
@@ -90,18 +100,8 @@
 |**2025-12-17**|**BashArena: A Control Setting for Highly Privileged AI Agents**|Adam Kaufman et.al.|[2512.15688](http://arxiv.org/abs/2512.15688)|null|
 |**2025-12-17**|**Can LLMs Guide Their Own Exploration? Gradient-Guided Reinforcement Learning for LLM Reasoning**|Zhenwen Liang et.al.|[2512.15687](http://arxiv.org/abs/2512.15687)|null|
 |**2025-12-17**|**High-Dimensional Partial Least Squares: Spectral Analysis and Fundamental Limitations**|Victor Léger et.al.|[2512.15684](http://arxiv.org/abs/2512.15684)|null|
-|**2025-12-15**|**LitePT: Lighter Yet Stronger Point Transformer**|Yuanwen Yue et.al.|[2512.13689](http://arxiv.org/abs/2512.13689)|null|
-|**2025-12-15**|**LASER: Layer-wise Scale Alignment for Training-Free Streaming 4D Reconstruction**|Tianye Ding et.al.|[2512.13680](http://arxiv.org/abs/2512.13680)|null|
-|**2025-12-15**|**Reconstructing spatially-varying multiplicative bias for Stage IV weak lensing galaxy surveys with a quadratic estimator**|Konstantinos Tanidis et.al.|[2512.13679](http://arxiv.org/abs/2512.13679)|null|
-|**2025-12-15**|**JoVA: Unified Multimodal Learning for Joint Video-Audio Generation**|Xiaohu Huang et.al.|[2512.13677](http://arxiv.org/abs/2512.13677)|null|
-|**2025-12-15**|**Towards Effective Model Editing for LLM Personalization**|Baixiang Huang et.al.|[2512.13676](http://arxiv.org/abs/2512.13676)|null|
-|**2025-12-15**|**Towards Interactive Intelligence for Digital Humans**|Yiyi Cai et.al.|[2512.13674](http://arxiv.org/abs/2512.13674)|null|
-|**2025-12-15**|**AgentIAD: Tool-Augmented Single-Agent for Industrial Anomaly Detection**|Junwen Miao et.al.|[2512.13671](http://arxiv.org/abs/2512.13671)|null|
-|**2025-12-15**|**NL2SpaTiaL: Generating Geometric Spatio-Temporal Logic Specifications from Natural Language for Manipulation Tasks**|Licheng Luo et.al.|[2512.13670](http://arxiv.org/abs/2512.13670)|null|
-|**2025-12-15**|**Matrix Product State Simulation of Reacting Shear Flows**|Robert Pinkston et.al.|[2512.13661](http://arxiv.org/abs/2512.13661)|null|
-|**2025-12-15**|**Embedding-Based Rankings of Educational Resources based on Learning Outcome Alignment: Benchmarking, Expert Validation, and Learner Performance**|Mohammadreza Molavi et.al.|[2512.13658](http://arxiv.org/abs/2512.13658)|null|
 
-<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251225>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
