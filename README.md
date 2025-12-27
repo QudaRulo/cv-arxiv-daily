@@ -1,4 +1,4 @@
-## Updated on 2025.12.25
+## Updated on 2025.12.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-24**|**CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents**|Haoyang Li et.al.|[2512.21250](http://arxiv.org/abs/2512.21250)|null|
+|**2025-12-24**|**Industrial Ouroboros: Deep Lateral Movement via Living Off the Plant**|Richard Derbyshire et.al.|[2512.21248](http://arxiv.org/abs/2512.21248)|null|
+|**2025-12-24**|**Assessing the Software Security Comprehension of Large Language Models**|Mohammed Latif Siddiq et.al.|[2512.21238](http://arxiv.org/abs/2512.21238)|null|
+|**2025-12-24**|**RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic**|Le Wang et.al.|[2512.21220](http://arxiv.org/abs/2512.21220)|null|
+|**2025-12-24**|**AutoBaxBuilder: Bootstrapping Code Security Benchmarking**|Tobias von Arx et.al.|[2512.21132](http://arxiv.org/abs/2512.21132)|null|
+|**2025-12-24**|**Beyond Context: Large Language Models Failure to Grasp Users Intent**|Ahmed M. Hussain et.al.|[2512.21110](http://arxiv.org/abs/2512.21110)|null|
+|**2025-12-24**|**LLM Swiss Round: Aggregating Multi-Benchmark Performance via Competitive Swiss-System Dynamics**|Jiashuo Liu et.al.|[2512.21010](http://arxiv.org/abs/2512.21010)|null|
+|**2025-12-24**|**AegisAgent: An Autonomous Defense Agent Against Prompt Injection Attacks in LLM-HARs**|Yihan Wang et.al.|[2512.20986](http://arxiv.org/abs/2512.20986)|null|
+|**2025-12-24**|**Time-Bucketed Balance Records: Bounded-Storage Ephemeral Tokens for Resource-Constrained Systems**|Shaun Scovil et.al.|[2512.20962](http://arxiv.org/abs/2512.20962)|null|
+|**2025-12-24**|**Time-Efficient Evaluation and Enhancement of Adversarial Robustness in Deep Neural Networks**|Runqi Lin et.al.|[2512.20893](http://arxiv.org/abs/2512.20893)|null|
 |**2025-12-23**|**Modeling Bank Systemic Risk of Emerging Markets under Geopolitical Shocks: Empirical Evidence from BRICS Countries**|Haibo Wang et.al.|[2512.20515](http://arxiv.org/abs/2512.20515)|null|
 |**2025-12-23**|**ChatGPT: Excellent Paper! Accept It. Editor: Imposter Found! Review Rejected**|Kanchon Gharami et.al.|[2512.20405](http://arxiv.org/abs/2512.20405)|null|
 |**2025-12-23**|**Resilient Packet Forwarding: A Reinforcement Learning Approach to Routing in Gaussian Interconnected Networks with Clustered Faults**|Mohammad Walid Charrwi et.al.|[2512.20394](http://arxiv.org/abs/2512.20394)|null|
@@ -43,23 +53,23 @@
 |**2025-12-18**|**Domain-Agnostic Causal-Aware Audio Transformer for Infant Cry Classification**|Geofrey Owino et.al.|[2512.16271](http://arxiv.org/abs/2512.16271)|null|
 |**2025-12-18**|**Quantifying Functional Criticality of Lifelines Through Mobility-Derived Population-Facility Dependence for Human-Centered Resilience**|Junwei Ma et.al.|[2512.16228](http://arxiv.org/abs/2512.16228)|null|
 |**2025-12-18**|**Dual-View Inference Attack: Machine Unlearning Amplifies Privacy Exposure**|Lulu Xue et.al.|[2512.16126](http://arxiv.org/abs/2512.16126)|null|
-|**2025-12-17**|**End-to-End Training for Autoregressive Video Diffusion via Self-Resampling**|Yuwei Guo et.al.|[2512.15702](http://arxiv.org/abs/2512.15702)|null|
-|**2025-12-17**|**Service-Oriented Fast Frequency Response from Flexible Loads and Energy Storage in Low-Inertia Power Systems**|Xiaojie Tao et.al.|[2512.15677](http://arxiv.org/abs/2512.15677)|null|
-|**2025-12-17**|**Stylized Synthetic Augmentation further improves Corruption Robustness**|Georg Siedel et.al.|[2512.15675](http://arxiv.org/abs/2512.15675)|null|
-|**2025-12-17**|**Deep Reinforcement Learning for EH-Enabled Cognitive-IoT Under Jamming Attacks**|Nadia Abdolkhani et.al.|[2512.15558](http://arxiv.org/abs/2512.15558)|null|
-|**2025-12-17**|**Attention in Motion: Secure Platooning via Transformer-based Misbehavior Detection**|Konstantinos Kalogiannis et.al.|[2512.15503](http://arxiv.org/abs/2512.15503)|null|
-|**2025-12-17**|**Insecure Ingredients? Exploring Dependency Update Patterns of Bundled JavaScript Packages on the Web**|Ben Swierzy et.al.|[2512.15447](http://arxiv.org/abs/2512.15447)|null|
-|**2025-12-17**|**Photorealistic Phantom Roads in Real Scenes: Disentangling 3D Hallucinations from Physical Geometry**|Hoang Nguyen et.al.|[2512.15423](http://arxiv.org/abs/2512.15423)|null|
-|**2025-12-17**|**Adversarial versification in portuguese as a jailbreak operator in LLMs**|Joao Queiroz et.al.|[2512.15353](http://arxiv.org/abs/2512.15353)|null|
-|**2025-12-17**|**Bits for Privacy: Evaluating Post-Training Quantization via Membership Inference**|Chenxiang Zhang et.al.|[2512.15335](http://arxiv.org/abs/2512.15335)|null|
-|**2025-12-17**|**ChatGPT and Gemini participated in the Korean College Scholastic Ability Test -- Earth Science I**|Seok-Hyun Ga et.al.|[2512.15298](http://arxiv.org/abs/2512.15298)|null|
 
-<p align=right>(<a href=#updated-on-20251225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251227>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-24**|**Fast SAM2 with Text-Driven Token Pruning**|Avilasha Mandal et.al.|[2512.21333](http://arxiv.org/abs/2512.21333)|null|
+|**2025-12-24**|**Channel-last gate-all-around nanosheet oxide semiconductor transistors**|Fabia F. Athena et.al.|[2512.21330](http://arxiv.org/abs/2512.21330)|null|
+|**2025-12-24**|**Scaling Laws for Economic Productivity: Experimental Evidence in LLM-Assisted Consulting, Data Analyst, and Management Tasks**|Ali Merali et.al.|[2512.21316](http://arxiv.org/abs/2512.21316)|null|
+|**2025-12-24**|**A Plan Reuse Mechanism for LLM-Driven Agent**|Guopeng Li et.al.|[2512.21309](http://arxiv.org/abs/2512.21309)|null|
+|**2025-12-24**|**A Note on Publicly Verifiable Quantum Money with Low Quantum Computational Resources**|Fabrizio Genovese et.al.|[2512.21304](http://arxiv.org/abs/2512.21304)|null|
+|**2025-12-24**|**AndroidLens: Long-latency Evaluation with Nested Sub-targets for Android GUI Agents**|Yue Cao et.al.|[2512.21302](http://arxiv.org/abs/2512.21302)|null|
+|**2025-12-24**|**Transcriptome-Conditioned Personalized De Novo Drug Generation for AML Using Metaheuristic Assembly and Target-Driven Filtering**|Abdullah G. Elafifi et.al.|[2512.21301](http://arxiv.org/abs/2512.21301)|null|
+|**2025-12-24**|**Impurity peaking of SPARC H-modes: a sensitivity study on physics and engineering assumptions**|Marco Muraca et.al.|[2512.21286](http://arxiv.org/abs/2512.21286)|null|
+|**2025-12-24**|**SMART SLM: Structured Memory and Reasoning Transformer, A Small Language Model for Accurate Document Assistance**|Divij Dudeja et.al.|[2512.21280](http://arxiv.org/abs/2512.21280)|null|
+|**2025-12-24**|**Impulsive delay differential inclusions applied to optimization problems**|Irene Benedetti et.al.|[2512.21275](http://arxiv.org/abs/2512.21275)|null|
 |**2025-12-23**|**LongVideoAgent: Multi-Agent Reasoning with Long Videos**|Runtao Liu et.al.|[2512.20618](http://arxiv.org/abs/2512.20618)|null|
 |**2025-12-23**|**SpatialTree: How Spatial Abilities Branch Out in MLLMs**|Yuxi Xiao et.al.|[2512.20617](http://arxiv.org/abs/2512.20617)|null|
 |**2025-12-23**|**Active Intelligence in Video Avatars via Closed-loop World Modeling**|Xuanhua He et.al.|[2512.20615](http://arxiv.org/abs/2512.20615)|null|
@@ -90,18 +100,8 @@
 |**2025-12-18**|**FlashPortrait: 6x Faster Infinite Portrait Animation with Adaptive Latent Prediction**|Shuyuan Tu et.al.|[2512.16900](http://arxiv.org/abs/2512.16900)|null|
 |**2025-12-18**|**Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image**|Yushi Hu et.al.|[2512.16899](http://arxiv.org/abs/2512.16899)|null|
 |**2025-12-18**|**The Motile Josephson Array: Bridging Active Turbulence and Superconductivity**|Magnus F Ivarsen et.al.|[2512.16884](http://arxiv.org/abs/2512.16884)|null|
-|**2025-12-17**|**Spatia: Video Generation with Updatable Spatial Memory**|Jinjing Zhao et.al.|[2512.15716](http://arxiv.org/abs/2512.15716)|null|
-|**2025-12-17**|**Predictive Concept Decoders: Training Scalable End-to-End Interpretability Assistants**|Vincent Huang et.al.|[2512.15712](http://arxiv.org/abs/2512.15712)|null|
-|**2025-12-17**|**Gaussian Pixel Codec Avatars: A Hybrid Representation for Efficient Rendering**|Divam Gupta et.al.|[2512.15711](http://arxiv.org/abs/2512.15711)|null|
-|**2025-12-17**|**Artism: AI-Driven Dual-Engine System for Art Generation and Critique**|Shuai Liu et.al.|[2512.15710](http://arxiv.org/abs/2512.15710)|null|
-|**2025-12-17**|**GateFusion: Hierarchical Gated Cross-Modal Fusion for Active Speaker Detection**|Yu Wang et.al.|[2512.15707](http://arxiv.org/abs/2512.15707)|null|
-|**2025-12-17**|**Dynamic Rebatching for Efficient Early-Exit Inference with DREX**|Xuting Liu et.al.|[2512.15705](http://arxiv.org/abs/2512.15705)|null|
-|**2025-12-17**|**VLIC: Vision-Language Models As Perceptual Judges for Human-Aligned Image Compression**|Kyle Sargent et.al.|[2512.15701](http://arxiv.org/abs/2512.15701)|null|
-|**2025-12-17**|**BashArena: A Control Setting for Highly Privileged AI Agents**|Adam Kaufman et.al.|[2512.15688](http://arxiv.org/abs/2512.15688)|null|
-|**2025-12-17**|**Can LLMs Guide Their Own Exploration? Gradient-Guided Reinforcement Learning for LLM Reasoning**|Zhenwen Liang et.al.|[2512.15687](http://arxiv.org/abs/2512.15687)|null|
-|**2025-12-17**|**High-Dimensional Partial Least Squares: Spectral Analysis and Fundamental Limitations**|Victor Léger et.al.|[2512.15684](http://arxiv.org/abs/2512.15684)|null|
 
-<p align=right>(<a href=#updated-on-20251225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251227>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
