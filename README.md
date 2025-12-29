@@ -1,4 +1,4 @@
-## Updated on 2025.12.27
+## Updated on 2025.12.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -33,28 +33,8 @@
 |**2025-12-23**|**On the Effectiveness of Instruction-Tuning Local LLMs for Identifying Software Vulnerabilities**|Sangryu Park et.al.|[2512.20062](http://arxiv.org/abs/2512.20062)|null|
 |**2025-12-23**|**IoT-based Android Malware Detection Using Graph Neural Network With Adversarial Defense**|Rahul Yumlembam et.al.|[2512.20004](http://arxiv.org/abs/2512.20004)|null|
 |**2025-12-23**|**BacAlarm: Mining and Simulating Composite API Traffic to Prevent Broken Access Control Violations**|Yanjing Yang et.al.|[2512.19997](http://arxiv.org/abs/2512.19997)|null|
-|**2025-12-19**|**Playful but Persuasive: Deceptive Designs and Advertising Strategies in Popular Mobile Apps for Children**|Hannah Krahl et.al.|[2512.17819](http://arxiv.org/abs/2512.17819)|null|
-|**2025-12-19**|**A Parametric Framework for Anticipatory Flashflood Warning: Integrating Landscape Vulnerability with Precipitation Forecasts**|Xiangpeng Li et.al.|[2512.17785](http://arxiv.org/abs/2512.17785)|null|
-|**2025-12-19**|**UniStateDLO: Unified Generative State Estimation and Tracking of Deformable Linear Objects Under Occlusion for Constrained Manipulation**|Kangchen Lv et.al.|[2512.17764](http://arxiv.org/abs/2512.17764)|null|
-|**2025-12-19**|**A Practical Solution to Systematically Monitor Inconsistencies in SBOM-based Vulnerability Scanners**|Martin Rosso et.al.|[2512.17710](http://arxiv.org/abs/2512.17710)|null|
-|**2025-12-19**|**STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting**|Yifei Cheng et.al.|[2512.17667](http://arxiv.org/abs/2512.17667)|null|
-|**2025-12-19**|**Binding Agent ID: Unleashing the Power of AI Agents with accountability and credibility**|Zibin Lin et.al.|[2512.17538](http://arxiv.org/abs/2512.17538)|null|
-|**2025-12-19**|**SCAR: Semantic Cardiac Adversarial Representation via Spatiotemporal Manifold Optimization in ECG**|Shunbo Jia et.al.|[2512.17423](http://arxiv.org/abs/2512.17423)|null|
-|**2025-12-19**|**AdvJudge-Zero: Binary Decision Flips in LLM-as-a-Judge via Adversarial Control Tokens**|Tung-Ling Li et.al.|[2512.17375](http://arxiv.org/abs/2512.17375)|null|
-|**2025-12-19**|**Adversarially Robust Detection of Harmful Online Content: A Computational Design Science Approach**|Yidong Chai et.al.|[2512.17367](http://arxiv.org/abs/2512.17367)|null|
-|**2025-12-19**|**Supersampled scanning transmission X-ray microscopy for high-resolution vibration-free imaging**|Simone Finizio et.al.|[2512.17366](http://arxiv.org/abs/2512.17366)|null|
-|**2025-12-18**|**Veblen effects and broken windows in an environmental OLG model**|Nicolás Blampied et.al.|[2512.16806](http://arxiv.org/abs/2512.16806)|null|
-|**2025-12-18**|**A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection**|Xiao Li et.al.|[2512.16538](http://arxiv.org/abs/2512.16538)|null|
-|**2025-12-18**|**From Essence to Defense: Adaptive Semantic-aware Watermarking for Embedding-as-a-Service Copyright Protection**|Hao Li et.al.|[2512.16439](http://arxiv.org/abs/2512.16439)|null|
-|**2025-12-18**|**What defines a group of friends? Rethinking community structure in signed, directed networks**|Miguel A. González-Casado et.al.|[2512.16399](http://arxiv.org/abs/2512.16399)|null|
-|**2025-12-18**|**SoK: Reviewing Two Decades of Security, Privacy, Accessibility, and Usability Studies on Internet of Things for Older Adults**|Suleiman Saka et.al.|[2512.16394](http://arxiv.org/abs/2512.16394)|null|
-|**2025-12-18**|**Hacking Neural Evaluation Metrics with Single Hub Text**|Hiroyuki Deguchi et.al.|[2512.16323](http://arxiv.org/abs/2512.16323)|null|
-|**2025-12-18**|**Beyond the Benchmark: Innovative Defenses Against Prompt Injection Attacks**|Safwan Shaheer et.al.|[2512.16307](http://arxiv.org/abs/2512.16307)|null|
-|**2025-12-18**|**Domain-Agnostic Causal-Aware Audio Transformer for Infant Cry Classification**|Geofrey Owino et.al.|[2512.16271](http://arxiv.org/abs/2512.16271)|null|
-|**2025-12-18**|**Quantifying Functional Criticality of Lifelines Through Mobility-Derived Population-Facility Dependence for Human-Centered Resilience**|Junwei Ma et.al.|[2512.16228](http://arxiv.org/abs/2512.16228)|null|
-|**2025-12-18**|**Dual-View Inference Attack: Machine Unlearning Amplifies Privacy Exposure**|Lulu Xue et.al.|[2512.16126](http://arxiv.org/abs/2512.16126)|null|
 
-<p align=right>(<a href=#updated-on-20251227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
 
 ## AI
 
@@ -80,28 +60,8 @@
 |**2025-12-23**|**Automated stereotactic radiosurgery planning using a human-in-the-loop reasoning large language model agent**|Humza Nusrat et.al.|[2512.20586](http://arxiv.org/abs/2512.20586)|null|
 |**2025-12-23**|**Making Sense of Private Advertising: A Principled Approach to a Complex Ecosystem**|Kyle Hogan et.al.|[2512.20583](http://arxiv.org/abs/2512.20583)|null|
 |**2025-12-23**|**Spin-induced quadrupole moment based test for eccentric binaries**|N. V. Krishnendu et.al.|[2512.20579](http://arxiv.org/abs/2512.20579)|null|
-|**2025-12-19**|**Dexterous World Models**|Byungjun Kim et.al.|[2512.17907](http://arxiv.org/abs/2512.17907)|null|
-|**2025-12-19**|**Diffusion Forcing for Multi-Agent Interaction Sequence Modeling**|Vongani H. Maluleke et.al.|[2512.17900](http://arxiv.org/abs/2512.17900)|null|
-|**2025-12-19**|**Humanlike AI Design Increases Anthropomorphism but Yields Divergent Outcomes on Engagement and Trust Globally**|Robin Schimmelpfennig et.al.|[2512.17898](http://arxiv.org/abs/2512.17898)|null|
-|**2025-12-19**|**RadarGen: Automotive Radar Point Cloud Generation from Cameras**|Tomer Borreda et.al.|[2512.17897](http://arxiv.org/abs/2512.17897)|null|
-|**2025-12-19**|**XAgen: An Explainability Tool for Identifying and Correcting Failures in Multi-Agent Workflows**|Xinru Wang et.al.|[2512.17896](http://arxiv.org/abs/2512.17896)|null|
-|**2025-12-19**|**Prefix Trees Improve Memory Consumption in Large-Scale Continuous-Time Stochastic Models**|Landon Taylor et.al.|[2512.17892](http://arxiv.org/abs/2512.17892)|null|
-|**2025-12-19**|**Trails of clouds in binary black holes**|Mateja Bošković et.al.|[2512.17887](http://arxiv.org/abs/2512.17887)|null|
-|**2025-12-19**|**Your Eyes Controlled the Game: Real-Time Cognitive Training Adaptation based on Eye-Tracking and Physiological Data in Virtual Reality**|Dominik Szczepaniak et.al.|[2512.17882](http://arxiv.org/abs/2512.17882)|null|
-|**2025-12-19**|**Impact of Heater Thermal Properties on Nucleate Pool Boiling: Insights from a Multiscale Automata Simulation**|Karina I. Mazzitello et.al.|[2512.17876](http://arxiv.org/abs/2512.17876)|null|
-|**2025-12-19**|**Calibrated Mechanism Design**|Laura Doval et.al.|[2512.17858](http://arxiv.org/abs/2512.17858)|null|
-|**2025-12-18**|**The World is Your Canvas: Painting Promptable Events with Reference Images, Trajectories, and Text**|Hanlin Wang et.al.|[2512.16924](http://arxiv.org/abs/2512.16924)|null|
-|**2025-12-18**|**DVGT: Driving Visual Geometry Transformer**|Sicheng Zuo et.al.|[2512.16919](http://arxiv.org/abs/2512.16919)|null|
-|**2025-12-18**|**Generative Adversarial Reasoner: Enhancing LLM Reasoning with Adversarial Reinforcement Learning**|Qihao Liu et.al.|[2512.16917](http://arxiv.org/abs/2512.16917)|null|
-|**2025-12-18**|**SFTok: Bridging the Performance Gap in Discrete Tokenizers**|Qihang Rao et.al.|[2512.16910](http://arxiv.org/abs/2512.16910)|null|
-|**2025-12-18**|**MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning**|Yuanchen Ju et.al.|[2512.16909](http://arxiv.org/abs/2512.16909)|null|
-|**2025-12-18**|**SceneDiff: A Benchmark and Method for Multiview Object Change Detection**|Yuqun Wu et.al.|[2512.16908](http://arxiv.org/abs/2512.16908)|null|
-|**2025-12-18**|**Flowing from Reasoning to Motion: Learning 3D Hand Trajectory Prediction from Egocentric Human Interaction Videos**|Mingfei Chen et.al.|[2512.16907](http://arxiv.org/abs/2512.16907)|null|
-|**2025-12-18**|**FlashPortrait: 6x Faster Infinite Portrait Animation with Adaptive Latent Prediction**|Shuyuan Tu et.al.|[2512.16900](http://arxiv.org/abs/2512.16900)|null|
-|**2025-12-18**|**Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image**|Yushi Hu et.al.|[2512.16899](http://arxiv.org/abs/2512.16899)|null|
-|**2025-12-18**|**The Motile Josephson Array: Bridging Active Turbulence and Superconductivity**|Magnus F Ivarsen et.al.|[2512.16884](http://arxiv.org/abs/2512.16884)|null|
 
-<p align=right>(<a href=#updated-on-20251227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
