@@ -1,4 +1,4 @@
-## Updated on 2025.12.31
+## Updated on 2026.01.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -33,18 +33,8 @@
 |**2025-12-24**|**AegisAgent: An Autonomous Defense Agent Against Prompt Injection Attacks in LLM-HARs**|Yihan Wang et.al.|[2512.20986](http://arxiv.org/abs/2512.20986)|null|
 |**2025-12-24**|**Time-Bucketed Balance Records: Bounded-Storage Ephemeral Tokens for Resource-Constrained Systems**|Shaun Scovil et.al.|[2512.20962](http://arxiv.org/abs/2512.20962)|null|
 |**2025-12-24**|**Time-Efficient Evaluation and Enhancement of Adversarial Robustness in Deep Neural Networks**|Runqi Lin et.al.|[2512.20893](http://arxiv.org/abs/2512.20893)|null|
-|**2025-12-23**|**Modeling Bank Systemic Risk of Emerging Markets under Geopolitical Shocks: Empirical Evidence from BRICS Countries**|Haibo Wang et.al.|[2512.20515](http://arxiv.org/abs/2512.20515)|null|
-|**2025-12-23**|**ChatGPT: Excellent Paper! Accept It. Editor: Imposter Found! Review Rejected**|Kanchon Gharami et.al.|[2512.20405](http://arxiv.org/abs/2512.20405)|null|
-|**2025-12-23**|**Resilient Packet Forwarding: A Reinforcement Learning Approach to Routing in Gaussian Interconnected Networks with Clustered Faults**|Mohammad Walid Charrwi et.al.|[2512.20394](http://arxiv.org/abs/2512.20394)|null|
-|**2025-12-23**|**Well Begun is Half Done: Location-Aware and Trace-Guided Iterative Automated Vulnerability Repair**|Zhenlei Ye et.al.|[2512.20203](http://arxiv.org/abs/2512.20203)|null|
-|**2025-12-23**|**Optimistic TEE-Rollups: A Hybrid Architecture for Scalable and Verifiable Generative AI Inference on Blockchain**|Aaron Chan et.al.|[2512.20176](http://arxiv.org/abs/2512.20176)|null|
-|**2025-12-23**|**AI Security Beyond Core Domains: Resume Screening as a Case Study of Adversarial Vulnerabilities in Specialized LLM Applications**|Honglin Mu et.al.|[2512.20164](http://arxiv.org/abs/2512.20164)|null|
-|**2025-12-23**|**Multi Modal Attention Networks with Uncertainty Quantification for Automated Concrete Bridge Deck Delamination Detection**|Alireza Moayedikia et.al.|[2512.20113](http://arxiv.org/abs/2512.20113)|null|
-|**2025-12-23**|**On the Effectiveness of Instruction-Tuning Local LLMs for Identifying Software Vulnerabilities**|Sangryu Park et.al.|[2512.20062](http://arxiv.org/abs/2512.20062)|null|
-|**2025-12-23**|**IoT-based Android Malware Detection Using Graph Neural Network With Adversarial Defense**|Rahul Yumlembam et.al.|[2512.20004](http://arxiv.org/abs/2512.20004)|null|
-|**2025-12-23**|**BacAlarm: Mining and Simulating Composite API Traffic to Prevent Broken Access Control Violations**|Yanjing Yang et.al.|[2512.19997](http://arxiv.org/abs/2512.19997)|null|
 
-<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
 
 ## AI
 
@@ -70,18 +60,8 @@
 |**2025-12-24**|**Impurity peaking of SPARC H-modes: a sensitivity study on physics and engineering assumptions**|Marco Muraca et.al.|[2512.21286](http://arxiv.org/abs/2512.21286)|null|
 |**2025-12-24**|**SMART SLM: Structured Memory and Reasoning Transformer, A Small Language Model for Accurate Document Assistance**|Divij Dudeja et.al.|[2512.21280](http://arxiv.org/abs/2512.21280)|null|
 |**2025-12-24**|**Impulsive delay differential inclusions applied to optimization problems**|Irene Benedetti et.al.|[2512.21275](http://arxiv.org/abs/2512.21275)|null|
-|**2025-12-23**|**LongVideoAgent: Multi-Agent Reasoning with Long Videos**|Runtao Liu et.al.|[2512.20618](http://arxiv.org/abs/2512.20618)|null|
-|**2025-12-23**|**SpatialTree: How Spatial Abilities Branch Out in MLLMs**|Yuxi Xiao et.al.|[2512.20617](http://arxiv.org/abs/2512.20617)|null|
-|**2025-12-23**|**Active Intelligence in Video Avatars via Closed-loop World Modeling**|Xuanhua He et.al.|[2512.20615](http://arxiv.org/abs/2512.20615)|null|
-|**2025-12-23**|**MoE-DiffuSeq: Enhancing Long-Document Diffusion Models with Sparse Attention and Mixture of Experts**|Alexandros Christoforos et.al.|[2512.20604](http://arxiv.org/abs/2512.20604)|null|
-|**2025-12-23**|**Modeling Economic Systems as Multiport Networks**|Coen Hutters et.al.|[2512.20600](http://arxiv.org/abs/2512.20600)|null|
-|**2025-12-23**|**LightTact: A Visual-Tactile Fingertip Sensor for Deformation-Independent Contact Sensing**|Changyi Lin et.al.|[2512.20591](http://arxiv.org/abs/2512.20591)|null|
-|**2025-12-23**|**Leveraging High-Fidelity Digital Models and Reinforcement Learning for Mission Engineering: A Case Study of Aerial Firefighting Under Perfect Information**|İbrahim Oğuz Çetinkaya et.al.|[2512.20589](http://arxiv.org/abs/2512.20589)|null|
-|**2025-12-23**|**Automated stereotactic radiosurgery planning using a human-in-the-loop reasoning large language model agent**|Humza Nusrat et.al.|[2512.20586](http://arxiv.org/abs/2512.20586)|null|
-|**2025-12-23**|**Making Sense of Private Advertising: A Principled Approach to a Complex Ecosystem**|Kyle Hogan et.al.|[2512.20583](http://arxiv.org/abs/2512.20583)|null|
-|**2025-12-23**|**Spin-induced quadrupole moment based test for eccentric binaries**|N. V. Krishnendu et.al.|[2512.20579](http://arxiv.org/abs/2512.20579)|null|
 
-<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
