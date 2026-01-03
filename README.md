@@ -1,4 +1,4 @@
-## Updated on 2026.01.01
+## Updated on 2026.01.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**Towards Provably Secure Generative AI: Reliable Consensus Sampling**|Yu Cui et.al.|[2512.24925](http://arxiv.org/abs/2512.24925)|null|
+|**2025-12-31**|**Encyclo-K: Evaluating LLMs with Dynamically Composed Knowledge Statements**|Yiming Liang et.al.|[2512.24867](http://arxiv.org/abs/2512.24867)|null|
+|**2025-12-31**|**Projection-based Adversarial Attack using Physics-in-the-Loop Optimization for Monocular Depth Estimation**|Takeru Kusakabe et.al.|[2512.24792](http://arxiv.org/abs/2512.24792)|null|
+|**2025-12-31**|**CellSecInspector: Safeguarding Cellular Networks via Automated Security Analysis on Specifications**|Ke Xie et.al.|[2512.24682](http://arxiv.org/abs/2512.24682)|null|
+|**2025-12-31**|**Secure Digital Semantic Communications: Fundamentals, Challenges, and Opportunities**|Weixuan Chen et.al.|[2512.24602](http://arxiv.org/abs/2512.24602)|null|
+|**2025-12-31**|**CPR: Causal Physiological Representation Learning for Robust ECG Analysis under Distribution Shifts**|Shunbo Jia et.al.|[2512.24564](http://arxiv.org/abs/2512.24564)|null|
+|**2025-12-31**|**Safe in the Future, Dangerous in the Past: Dissecting Temporal and Linguistic Vulnerabilities in LLMs**|Muhammad Abdullahi Said et.al.|[2512.24556](http://arxiv.org/abs/2512.24556)|null|
+|**2025-12-30**|**"Game Changer" or "Overenthusiastic Drunk Acquaintance"? Generative AI Use by Blind and Low Vision Software Professionals in the Workplace**|Yoonha Cha et.al.|[2512.24462](http://arxiv.org/abs/2512.24462)|null|
+|**2025-12-30**|**GateChain: A Blockchain Based Application for Country Entry Exit Registry Management**|Mohamad Akkad et.al.|[2512.24416](http://arxiv.org/abs/2512.24416)|null|
+|**2025-12-30**|**Taming Hallucinations: Boosting MLLMs' Video Understanding via Counterfactual Video Generation**|Zhe Huang et.al.|[2512.24271](http://arxiv.org/abs/2512.24271)|null|
 |**2025-12-29**|**Multilingual Hidden Prompt Injection Attacks on LLM-Based Academic Reviewing**|Panagiotis Theocharopoulos et.al.|[2512.23684](http://arxiv.org/abs/2512.23684)|null|
 |**2025-12-29**|**Single LLM Debate, MoLaCE: Mixture of Latent Concept Experts Against Confirmation Bias**|Hazel Kim et.al.|[2512.23518](http://arxiv.org/abs/2512.23518)|null|
 |**2025-12-29**|**Agentic AI for Autonomous Defense in Software Supply Chain Security: Beyond Provenance to Vulnerability Mitigation**|Toqeer Ali Syed et.al.|[2512.23480](http://arxiv.org/abs/2512.23480)|null|
@@ -23,23 +33,23 @@
 |**2025-12-29**|**ViLaCD-R1: A Vision-Language Framework for Semantic Change Detection in Remote Sensing**|Xingwei Ma et.al.|[2512.23244](http://arxiv.org/abs/2512.23244)|null|
 |**2025-12-29**|**The Dawn of Agentic EDA: A Survey of Autonomous Digital Chip Design**|Zelin Zang et.al.|[2512.23189](http://arxiv.org/abs/2512.23189)|null|
 |**2025-12-29**|**Multi-Agent Framework for Threat Mitigation and Resilience in AI-Based Systems**|Armstrong Foundjem et.al.|[2512.23132](http://arxiv.org/abs/2512.23132)|null|
-|**2025-12-24**|**CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents**|Haoyang Li et.al.|[2512.21250](http://arxiv.org/abs/2512.21250)|null|
-|**2025-12-24**|**Industrial Ouroboros: Deep Lateral Movement via Living Off the Plant**|Richard Derbyshire et.al.|[2512.21248](http://arxiv.org/abs/2512.21248)|null|
-|**2025-12-24**|**Assessing the Software Security Comprehension of Large Language Models**|Mohammed Latif Siddiq et.al.|[2512.21238](http://arxiv.org/abs/2512.21238)|null|
-|**2025-12-24**|**RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic**|Le Wang et.al.|[2512.21220](http://arxiv.org/abs/2512.21220)|null|
-|**2025-12-24**|**AutoBaxBuilder: Bootstrapping Code Security Benchmarking**|Tobias von Arx et.al.|[2512.21132](http://arxiv.org/abs/2512.21132)|null|
-|**2025-12-24**|**Beyond Context: Large Language Models Failure to Grasp Users Intent**|Ahmed M. Hussain et.al.|[2512.21110](http://arxiv.org/abs/2512.21110)|null|
-|**2025-12-24**|**LLM Swiss Round: Aggregating Multi-Benchmark Performance via Competitive Swiss-System Dynamics**|Jiashuo Liu et.al.|[2512.21010](http://arxiv.org/abs/2512.21010)|null|
-|**2025-12-24**|**AegisAgent: An Autonomous Defense Agent Against Prompt Injection Attacks in LLM-HARs**|Yihan Wang et.al.|[2512.20986](http://arxiv.org/abs/2512.20986)|null|
-|**2025-12-24**|**Time-Bucketed Balance Records: Bounded-Storage Ephemeral Tokens for Resource-Constrained Systems**|Shaun Scovil et.al.|[2512.20962](http://arxiv.org/abs/2512.20962)|null|
-|**2025-12-24**|**Time-Efficient Evaluation and Enhancement of Adversarial Robustness in Deep Neural Networks**|Runqi Lin et.al.|[2512.20893](http://arxiv.org/abs/2512.20893)|null|
 
-<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260103>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**Edit3r: Instant 3D Scene Editing from Sparse Unposed Images**|Jiageng Liu et.al.|[2512.25071](http://arxiv.org/abs/2512.25071)|null|
+|**2025-12-31**|**From Inpainting to Editing: A Self-Bootstrapping Framework for Context-Rich Visual Dubbing**|Xu He et.al.|[2512.25066](http://arxiv.org/abs/2512.25066)|null|
+|**2025-12-31**|**Vulcan: Instance-Optimal Systems Heuristics Through LLM-Driven Search**|Rohit Dwivedula et.al.|[2512.25065](http://arxiv.org/abs/2512.25065)|null|
+|**2025-12-31**|**Context-aware LLM-based AI Agents for Human-centered Energy Management Systems in Smart Buildings**|Tianzhi He et.al.|[2512.25055](http://arxiv.org/abs/2512.25055)|null|
+|**2025-12-31**|**EF(X) Orientations: A Parameterized Complexity Perspective**|Sotiris Kanellopoulos et.al.|[2512.25033](http://arxiv.org/abs/2512.25033)|null|
+|**2025-12-31**|**Fractal conduction pathways governing ionic transport in a glass**|J. L. Iguain et.al.|[2512.25031](http://arxiv.org/abs/2512.25031)|null|
+|**2025-12-31**|**Computational Analysis of Disease Progression in Pediatric Pulmonary Arterial Hypertension**|Omar Said et.al.|[2512.25027](http://arxiv.org/abs/2512.25027)|null|
+|**2025-12-31**|**Modeling Language as a Sequence of Thoughts**|Nasim Borazjanizadeh et.al.|[2512.25026](http://arxiv.org/abs/2512.25026)|null|
+|**2025-12-31**|**MAMA-Memeia! Multi-Aspect Multi-Agent Collaboration for Depressive Symptoms Identification in Memes**|Siddhant Agarwal et.al.|[2512.25015](http://arxiv.org/abs/2512.25015)|null|
+|**2025-12-31**|**Dissipative corrections to the particle momentum spectrum of a decoupling fluid**|Francesco Becattini et.al.|[2512.24994](http://arxiv.org/abs/2512.24994)|null|
 |**2025-12-29**|**Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion**|Hau-Shiang Shiu et.al.|[2512.23709](http://arxiv.org/abs/2512.23709)|null|
 |**2025-12-29**|**Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation**|Huajie Tan et.al.|[2512.23703](http://arxiv.org/abs/2512.23703)|null|
 |**2025-12-29**|**The operational no-signalling constraints and their implications**|Michał Eckstein et.al.|[2512.23702](http://arxiv.org/abs/2512.23702)|null|
@@ -50,18 +60,8 @@
 |**2025-12-29**|**RoboMirror: Understand Before You Imitate for Video to Humanoid Locomotion**|Zhe Li et.al.|[2512.23649](http://arxiv.org/abs/2512.23649)|null|
 |**2025-12-29**|**Nested Browser-Use Learning for Agentic Information Seeking**|Baixuan Li et.al.|[2512.23647](http://arxiv.org/abs/2512.23647)|null|
 |**2025-12-29**|**OmniAgent: Audio-Guided Active Perception Agent for Omnimodal Audio-Video Understanding**|Keda Tao et.al.|[2512.23646](http://arxiv.org/abs/2512.23646)|null|
-|**2025-12-24**|**Fast SAM2 with Text-Driven Token Pruning**|Avilasha Mandal et.al.|[2512.21333](http://arxiv.org/abs/2512.21333)|null|
-|**2025-12-24**|**Channel-last gate-all-around nanosheet oxide semiconductor transistors**|Fabia F. Athena et.al.|[2512.21330](http://arxiv.org/abs/2512.21330)|null|
-|**2025-12-24**|**Scaling Laws for Economic Productivity: Experimental Evidence in LLM-Assisted Consulting, Data Analyst, and Management Tasks**|Ali Merali et.al.|[2512.21316](http://arxiv.org/abs/2512.21316)|null|
-|**2025-12-24**|**A Plan Reuse Mechanism for LLM-Driven Agent**|Guopeng Li et.al.|[2512.21309](http://arxiv.org/abs/2512.21309)|null|
-|**2025-12-24**|**A Note on Publicly Verifiable Quantum Money with Low Quantum Computational Resources**|Fabrizio Genovese et.al.|[2512.21304](http://arxiv.org/abs/2512.21304)|null|
-|**2025-12-24**|**AndroidLens: Long-latency Evaluation with Nested Sub-targets for Android GUI Agents**|Yue Cao et.al.|[2512.21302](http://arxiv.org/abs/2512.21302)|null|
-|**2025-12-24**|**Transcriptome-Conditioned Personalized De Novo Drug Generation for AML Using Metaheuristic Assembly and Target-Driven Filtering**|Abdullah G. Elafifi et.al.|[2512.21301](http://arxiv.org/abs/2512.21301)|null|
-|**2025-12-24**|**Impurity peaking of SPARC H-modes: a sensitivity study on physics and engineering assumptions**|Marco Muraca et.al.|[2512.21286](http://arxiv.org/abs/2512.21286)|null|
-|**2025-12-24**|**SMART SLM: Structured Memory and Reasoning Transformer, A Small Language Model for Accurate Document Assistance**|Divij Dudeja et.al.|[2512.21280](http://arxiv.org/abs/2512.21280)|null|
-|**2025-12-24**|**Impulsive delay differential inclusions applied to optimization problems**|Irene Benedetti et.al.|[2512.21275](http://arxiv.org/abs/2512.21275)|null|
 
-<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260103>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
