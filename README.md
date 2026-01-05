@@ -1,4 +1,4 @@
-## Updated on 2026.01.03
+## Updated on 2026.01.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -34,7 +34,7 @@
 |**2025-12-29**|**The Dawn of Agentic EDA: A Survey of Autonomous Digital Chip Design**|Zelin Zang et.al.|[2512.23189](http://arxiv.org/abs/2512.23189)|null|
 |**2025-12-29**|**Multi-Agent Framework for Threat Mitigation and Resilience in AI-Based Systems**|Armstrong Foundjem et.al.|[2512.23132](http://arxiv.org/abs/2512.23132)|null|
 
-<p align=right>(<a href=#updated-on-20260103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260105>back to top</a>)</p>
 
 ## AI
 
@@ -61,7 +61,7 @@
 |**2025-12-29**|**Nested Browser-Use Learning for Agentic Information Seeking**|Baixuan Li et.al.|[2512.23647](http://arxiv.org/abs/2512.23647)|null|
 |**2025-12-29**|**OmniAgent: Audio-Guided Active Perception Agent for Omnimodal Audio-Video Understanding**|Keda Tao et.al.|[2512.23646](http://arxiv.org/abs/2512.23646)|null|
 
-<p align=right>(<a href=#updated-on-20260103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260105>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
