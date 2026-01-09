@@ -1,4 +1,4 @@
-## Updated on 2026.01.07
+## Updated on 2026.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-07**|**SearchAttack: Red-Teaming LLMs against Real-World Threats via Framing Unsafe Web Information-Seeking Tasks**|Yu Yan et.al.|[2601.04093](http://arxiv.org/abs/2601.04093)|null|
+|**2026-01-07**|**When Helpers Become Hazards: A Benchmark for Analyzing Multimodal LLM-Powered Safety in Daily Life**|Xinyue Lou et.al.|[2601.04043](http://arxiv.org/abs/2601.04043)|null|
+|**2026-01-07**|**HoneyTrap: Deceiving Large Language Model Attackers to Honeypot Traps with Resilient Multi-Agent Defense**|Siyuan Li et.al.|[2601.04034](http://arxiv.org/abs/2601.04034)|null|
+|**2026-01-07**|**Flexible-Duplex Cell-Free Architecture for Secure Uplink Communications in Low-Altitude Wireless Networks**|Wei Shi et.al.|[2601.04011](http://arxiv.org/abs/2601.04011)|null|
+|**2026-01-07**|**Can Dynamic Spectrum Sharing Protect Passive Radio Sciences?**|Gregory Hellbourg et.al.|[2601.03966](http://arxiv.org/abs/2601.03966)|null|
+|**2026-01-07**|**Doc-PP: Document Policy Preservation Benchmark for Large Vision-Language Models**|Haeun Jang et.al.|[2601.03926](http://arxiv.org/abs/2601.03926)|null|
+|**2026-01-07**|**What Matters For Safety Alignment?**|Xing Li et.al.|[2601.03868](http://arxiv.org/abs/2601.03868)|null|
+|**2026-01-07**|**HearSay Benchmark: Do Audio LLMs Leak What They Hear?**|Jin Wang et.al.|[2601.03783](http://arxiv.org/abs/2601.03783)|null|
+|**2026-01-07**|**RedBench: A Universal Dataset for Comprehensive Red Teaming of Large Language Models**|Quy-Anh Dang et.al.|[2601.03699](http://arxiv.org/abs/2601.03699)|null|
+|**2026-01-07**|**How Does the Thinking Step Influence Model Safety? An Entropy-based Safety Reminder for LRMs**|Su-Hyeon Kim et.al.|[2601.03662](http://arxiv.org/abs/2601.03662)|null|
 |**2026-01-05**|**FMVP: Masked Flow Matching for Adversarial Video Purification**|Duoxun Tang et.al.|[2601.02228](http://arxiv.org/abs/2601.02228)|null|
 |**2026-01-05**|**BiPrompt: Bilateral Prompt Optimization for Visual and Textual Debiasing in Vision-Language Models**|Sunny Gupta et.al.|[2601.02147](http://arxiv.org/abs/2601.02147)|null|
 |**2026-01-05**|**Responses of the Neurobiological Craving Signature to smoking versus alternative social rewards predict craving and monthly smoking in adolescents**|Maddalena Tamellini et.al.|[2601.02143](http://arxiv.org/abs/2601.02143)|null|
@@ -30,26 +40,23 @@
 |**2025-12-31**|**Secure Digital Semantic Communications: Fundamentals, Challenges, and Opportunities**|Weixuan Chen et.al.|[2512.24602](http://arxiv.org/abs/2512.24602)|null|
 |**2025-12-31**|**CPR: Causal Physiological Representation Learning for Robust ECG Analysis under Distribution Shifts**|Shunbo Jia et.al.|[2512.24564](http://arxiv.org/abs/2512.24564)|null|
 |**2025-12-31**|**Safe in the Future, Dangerous in the Past: Dissecting Temporal and Linguistic Vulnerabilities in LLMs**|Muhammad Abdullahi Said et.al.|[2512.24556](http://arxiv.org/abs/2512.24556)|null|
-|**2025-12-30**|**"Game Changer" or "Overenthusiastic Drunk Acquaintance"? Generative AI Use by Blind and Low Vision Software Professionals in the Workplace**|Yoonha Cha et.al.|[2512.24462](http://arxiv.org/abs/2512.24462)|null|
-|**2025-12-30**|**GateChain: A Blockchain Based Application for Country Entry Exit Registry Management**|Mohamad Akkad et.al.|[2512.24416](http://arxiv.org/abs/2512.24416)|null|
-|**2025-12-30**|**Taming Hallucinations: Boosting MLLMs' Video Understanding via Counterfactual Video Generation**|Zhe Huang et.al.|[2512.24271](http://arxiv.org/abs/2512.24271)|null|
-|**2025-12-29**|**Multilingual Hidden Prompt Injection Attacks on LLM-Based Academic Reviewing**|Panagiotis Theocharopoulos et.al.|[2512.23684](http://arxiv.org/abs/2512.23684)|null|
-|**2025-12-29**|**Single LLM Debate, MoLaCE: Mixture of Latent Concept Experts Against Confirmation Bias**|Hazel Kim et.al.|[2512.23518](http://arxiv.org/abs/2512.23518)|null|
-|**2025-12-29**|**Agentic AI for Autonomous Defense in Software Supply Chain Security: Beyond Provenance to Vulnerability Mitigation**|Toqeer Ali Syed et.al.|[2512.23480](http://arxiv.org/abs/2512.23480)|null|
-|**2025-12-29**|**Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer**|Johannes Lenzen et.al.|[2512.23438](http://arxiv.org/abs/2512.23438)|null|
-|**2025-12-29**|**Towards Integrating Uncertainty for Domain-Agnostic Segmentation**|Jesse Brouwers et.al.|[2512.23427](http://arxiv.org/abs/2512.23427)|null|
-|**2025-12-29**|**Conformal Prediction = Bayes?**|Jyotishka Datta et.al.|[2512.23308](http://arxiv.org/abs/2512.23308)|null|
-|**2025-12-29**|**RobustMask: Certified Robustness against Adversarial Neural Ranking Attack via Randomized Masking**|Jiawei Liu et.al.|[2512.23307](http://arxiv.org/abs/2512.23307)|null|
-|**2025-12-29**|**ViLaCD-R1: A Vision-Language Framework for Semantic Change Detection in Remote Sensing**|Xingwei Ma et.al.|[2512.23244](http://arxiv.org/abs/2512.23244)|null|
-|**2025-12-29**|**The Dawn of Agentic EDA: A Survey of Autonomous Digital Chip Design**|Zelin Zang et.al.|[2512.23189](http://arxiv.org/abs/2512.23189)|null|
-|**2025-12-29**|**Multi-Agent Framework for Threat Mitigation and Resilience in AI-Based Systems**|Armstrong Foundjem et.al.|[2512.23132](http://arxiv.org/abs/2512.23132)|null|
 
-<p align=right>(<a href=#updated-on-20260107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260109>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-07**|**Embedding Autonomous Agents in Resource-Constrained Robotic Platforms**|Negar Halakou et.al.|[2601.04191](http://arxiv.org/abs/2601.04191)|null|
+|**2026-01-07**|**ImLoc: Revisiting Visual Localization with Image-based Representation**|Xudong Jiang et.al.|[2601.04185](http://arxiv.org/abs/2601.04185)|null|
+|**2026-01-07**|**Lightweight Test-Time Adaptation for EMG-Based Gesture Recognition**|Nia Touko et.al.|[2601.04181](http://arxiv.org/abs/2601.04181)|null|
+|**2026-01-07**|**Hierarchical GNN-Based Multi-Agent Learning for Dynamic Queue-Jump Lane and Emergency Vehicle Corridor Formation**|Haoran Su et.al.|[2601.04177](http://arxiv.org/abs/2601.04177)|null|
+|**2026-01-07**|**Legal Alignment for Safe and Ethical AI**|Noam Kolt et.al.|[2601.04175](http://arxiv.org/abs/2601.04175)|null|
+|**2026-01-07**|**Agentic Rubrics as Contextual Verifiers for SWE Agents**|Mohit Raghavendra et.al.|[2601.04171](http://arxiv.org/abs/2601.04171)|null|
+|**2026-01-07**|**Agent Drift: Quantifying Behavioral Degradation in Multi-Agent LLM Systems Over Extended Interactions**|Abhishek Rath et.al.|[2601.04170](http://arxiv.org/abs/2601.04170)|null|
+|**2026-01-07**|**Clinical Data Goes MEDS? Let's OWL make sense of it**|Alberto Marfoglia et.al.|[2601.04164](http://arxiv.org/abs/2601.04164)|null|
+|**2026-01-07**|**Radio Activity from the Rapidly Rotating T dwarf 2MASS 2228-4310**|Kelvin Wandia et.al.|[2601.04158](http://arxiv.org/abs/2601.04158)|null|
+|**2026-01-07**|**Diffusion-DRF: Differentiable Reward Flow for Video Diffusion Fine-Tuning**|Yifan Wang et.al.|[2601.04153](http://arxiv.org/abs/2601.04153)|null|
 |**2026-01-05**|**Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes**|Jing Tan et.al.|[2601.02356](http://arxiv.org/abs/2601.02356)|null|
 |**2026-01-05**|**An information-theoretic bound on cosmic coherence in finite-volume simulations**|Biswajit Pandey et.al.|[2601.02351](http://arxiv.org/abs/2601.02351)|null|
 |**2026-01-05**|**Topological Magnons and Giant Orbital Nernst Effect in a Zigzag Kitaev Antiferromagnet**|Shreya Debnath et.al.|[2601.02342](http://arxiv.org/abs/2601.02342)|null|
@@ -70,18 +77,8 @@
 |**2025-12-31**|**Modeling Language as a Sequence of Thoughts**|Nasim Borazjanizadeh et.al.|[2512.25026](http://arxiv.org/abs/2512.25026)|null|
 |**2025-12-31**|**MAMA-Memeia! Multi-Aspect Multi-Agent Collaboration for Depressive Symptoms Identification in Memes**|Siddhant Agarwal et.al.|[2512.25015](http://arxiv.org/abs/2512.25015)|null|
 |**2025-12-31**|**Dissipative corrections to the particle momentum spectrum of a decoupling fluid**|Francesco Becattini et.al.|[2512.24994](http://arxiv.org/abs/2512.24994)|null|
-|**2025-12-29**|**Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion**|Hau-Shiang Shiu et.al.|[2512.23709](http://arxiv.org/abs/2512.23709)|null|
-|**2025-12-29**|**Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation**|Huajie Tan et.al.|[2512.23703](http://arxiv.org/abs/2512.23703)|null|
-|**2025-12-29**|**The operational no-signalling constraints and their implications**|Michał Eckstein et.al.|[2512.23702](http://arxiv.org/abs/2512.23702)|null|
-|**2025-12-29**|**Fine-Tuning LLMs with Fine-Grained Human Feedback on Text Spans**|Sky CH-Wang et.al.|[2512.23693](http://arxiv.org/abs/2512.23693)|null|
-|**2025-12-29**|**Predicting core transport in ITER baseline discharges with neon injections**|Dmitri M Orlov et.al.|[2512.23682](http://arxiv.org/abs/2512.23682)|null|
-|**2025-12-29**|**Web World Models**|Jichen Feng et.al.|[2512.23676](http://arxiv.org/abs/2512.23676)|null|
-|**2025-12-29**|**Do You Have Freestyle? Expressive Humanoid Locomotion via Audio Control**|Zhe Li et.al.|[2512.23650](http://arxiv.org/abs/2512.23650)|null|
-|**2025-12-29**|**RoboMirror: Understand Before You Imitate for Video to Humanoid Locomotion**|Zhe Li et.al.|[2512.23649](http://arxiv.org/abs/2512.23649)|null|
-|**2025-12-29**|**Nested Browser-Use Learning for Agentic Information Seeking**|Baixuan Li et.al.|[2512.23647](http://arxiv.org/abs/2512.23647)|null|
-|**2025-12-29**|**OmniAgent: Audio-Guided Active Perception Agent for Omnimodal Audio-Video Understanding**|Keda Tao et.al.|[2512.23646](http://arxiv.org/abs/2512.23646)|null|
 
-<p align=right>(<a href=#updated-on-20260107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260109>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
