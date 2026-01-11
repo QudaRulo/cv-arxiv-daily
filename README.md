@@ -1,4 +1,4 @@
-## Updated on 2026.01.09
+## Updated on 2026.01.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-08**|**Robust Reasoning as a Symmetry-Protected Topological Phase**|Ilmo Sung et.al.|[2601.05240](http://arxiv.org/abs/2601.05240)|null|
+|**2026-01-08**|**$PC^2$ : Politically Controversial Content Generation via Jailbreaking Attacks on GPT-based Text-to-Image Models**|Wonwoo Choi et.al.|[2601.05150](http://arxiv.org/abs/2601.05150)|null|
+|**2026-01-08**|**Supporting Secured Integration of Microarchitectural Defenses**|Kartik Ramkrishnan et.al.|[2601.05057](http://arxiv.org/abs/2601.05057)|null|
+|**2026-01-08**|**Defense Against Indirect Prompt Injection via Tool Result Parsing**|Qiang Yu et.al.|[2601.04795](http://arxiv.org/abs/2601.04795)|null|
+|**2026-01-08**|**Tool-MAD: A Multi-Agent Debate Framework for Fact Verification with Diverse Tool Augmentation and Adaptive Retrieval**|Seyeon Jeong et.al.|[2601.04742](http://arxiv.org/abs/2601.04742)|null|
+|**2026-01-08**|**AM $^3$ Safety: Towards Data Efficient Alignment of Multi-modal Multi-turn Safety for MLLMs**|Han Zhu et.al.|[2601.04736](http://arxiv.org/abs/2601.04736)|null|
+|**2026-01-08**|**Unified Framework for Qualifying Security Boundary of PUFs Against Machine Learning Attacks**|Hongming Fei et.al.|[2601.04697](http://arxiv.org/abs/2601.04697)|null|
+|**2026-01-08**|**ResMAS: Resilience Optimization in LLM-based Multi-agent Systems**|Zhilun Zhou et.al.|[2601.04694](http://arxiv.org/abs/2601.04694)|null|
+|**2026-01-08**|**Know Thy Enemy: Securing LLMs Against Prompt Injection via Diverse Data Synthesis and Instruction-Level Chain-of-Thought Learning**|Zhiyuan Chang et.al.|[2601.04666](http://arxiv.org/abs/2601.04666)|null|
+|**2026-01-08**|**Quantifying Autoscaler Vulnerabilities: An Empirical Study of Resource Misallocation Induced by Cloud Infrastructure Faults**|Gijun Park et.al.|[2601.04659](http://arxiv.org/abs/2601.04659)|null|
 |**2026-01-07**|**SearchAttack: Red-Teaming LLMs against Real-World Threats via Framing Unsafe Web Information-Seeking Tasks**|Yu Yan et.al.|[2601.04093](http://arxiv.org/abs/2601.04093)|null|
 |**2026-01-07**|**When Helpers Become Hazards: A Benchmark for Analyzing Multimodal LLM-Powered Safety in Daily Life**|Xinyue Lou et.al.|[2601.04043](http://arxiv.org/abs/2601.04043)|null|
 |**2026-01-07**|**HoneyTrap: Deceiving Large Language Model Attackers to Honeypot Traps with Resilient Multi-Agent Defense**|Siyuan Li et.al.|[2601.04034](http://arxiv.org/abs/2601.04034)|null|
@@ -33,20 +43,23 @@
 |**2026-01-05**|**FAROS: Robust Federated Learning with Adaptive Scaling against Backdoor Attacks**|Chenyu Hu et.al.|[2601.01833](http://arxiv.org/abs/2601.01833)|null|
 |**2026-01-05**|**Sparse Threats, Focused Defense: Criticality-Aware Robust Reinforcement Learning for Safe Autonomous Driving**|Qi Wei et.al.|[2601.01800](http://arxiv.org/abs/2601.01800)|null|
 |**2026-01-05**|**Rethinking Secure Semantic Communications in the Age of Generative and Agentic AI: Threats and Opportunities**|Shunpu Tang et.al.|[2601.01791](http://arxiv.org/abs/2601.01791)|null|
-|**2025-12-31**|**Towards Provably Secure Generative AI: Reliable Consensus Sampling**|Yu Cui et.al.|[2512.24925](http://arxiv.org/abs/2512.24925)|null|
-|**2025-12-31**|**Encyclo-K: Evaluating LLMs with Dynamically Composed Knowledge Statements**|Yiming Liang et.al.|[2512.24867](http://arxiv.org/abs/2512.24867)|null|
-|**2025-12-31**|**Projection-based Adversarial Attack using Physics-in-the-Loop Optimization for Monocular Depth Estimation**|Takeru Kusakabe et.al.|[2512.24792](http://arxiv.org/abs/2512.24792)|null|
-|**2025-12-31**|**CellSecInspector: Safeguarding Cellular Networks via Automated Security Analysis on Specifications**|Ke Xie et.al.|[2512.24682](http://arxiv.org/abs/2512.24682)|null|
-|**2025-12-31**|**Secure Digital Semantic Communications: Fundamentals, Challenges, and Opportunities**|Weixuan Chen et.al.|[2512.24602](http://arxiv.org/abs/2512.24602)|null|
-|**2025-12-31**|**CPR: Causal Physiological Representation Learning for Robust ECG Analysis under Distribution Shifts**|Shunbo Jia et.al.|[2512.24564](http://arxiv.org/abs/2512.24564)|null|
-|**2025-12-31**|**Safe in the Future, Dangerous in the Past: Dissecting Temporal and Linguistic Vulnerabilities in LLMs**|Muhammad Abdullahi Said et.al.|[2512.24556](http://arxiv.org/abs/2512.24556)|null|
 
-<p align=right>(<a href=#updated-on-20260109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260111>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-08**|**Pixel-Perfect Visual Geometry Estimation**|Gangwei Xu et.al.|[2601.05246](http://arxiv.org/abs/2601.05246)|null|
+|**2026-01-08**|**GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization**|Shih-Yang Liu et.al.|[2601.05242](http://arxiv.org/abs/2601.05242)|null|
+|**2026-01-08**|**Plenoptic Video Generation**|Xiao Fu et.al.|[2601.05239](http://arxiv.org/abs/2601.05239)|null|
+|**2026-01-08**|**Three-dimensional scene reconstruction using Roman slitless spectra**|Tri L. Astraatmadja et.al.|[2601.05233](http://arxiv.org/abs/2601.05233)|null|
+|**2026-01-08**|**Learning Latent Action World Models In The Wild**|Quentin Garrido et.al.|[2601.05230](http://arxiv.org/abs/2601.05230)|null|
+|**2026-01-08**|**Concurrent Balanced Augmented Trees**|Evan Wrench et.al.|[2601.05225](http://arxiv.org/abs/2601.05225)|null|
+|**2026-01-08**|**MineNPC-Task: Task Suite for Memory-Aware Minecraft Agents**|Tamil Sudaravan Mohan Doss et.al.|[2601.05215](http://arxiv.org/abs/2601.05215)|null|
+|**2026-01-08**|**Internal Representations as Indicators of Hallucinations in Agent Tool Selection**|Kait Healy et.al.|[2601.05214](http://arxiv.org/abs/2601.05214)|null|
+|**2026-01-08**|**Estimating Consensus Ideal Points Using Multi-Source Data**|Mellissa Meisels et.al.|[2601.05213](http://arxiv.org/abs/2601.05213)|null|
+|**2026-01-08**|**FlowLet: Conditional 3D Brain MRI Synthesis using Wavelet Flow Matching**|Danilo Danese et.al.|[2601.05212](http://arxiv.org/abs/2601.05212)|null|
 |**2026-01-07**|**Embedding Autonomous Agents in Resource-Constrained Robotic Platforms**|Negar Halakou et.al.|[2601.04191](http://arxiv.org/abs/2601.04191)|null|
 |**2026-01-07**|**ImLoc: Revisiting Visual Localization with Image-based Representation**|Xudong Jiang et.al.|[2601.04185](http://arxiv.org/abs/2601.04185)|null|
 |**2026-01-07**|**Lightweight Test-Time Adaptation for EMG-Based Gesture Recognition**|Nia Touko et.al.|[2601.04181](http://arxiv.org/abs/2601.04181)|null|
@@ -67,18 +80,8 @@
 |**2026-01-05**|**Power-of-Two Quantization-Aware-Training (PoT-QAT) in Large Language Models (LLMs)**|Mahmoud Elgenedy et.al.|[2601.02298](http://arxiv.org/abs/2601.02298)|null|
 |**2026-01-05**|**InfiniteVGGT: Visual Geometry Grounded Transformer for Endless Streams**|Shuai Yuan et.al.|[2601.02281](http://arxiv.org/abs/2601.02281)|null|
 |**2026-01-05**|**DiffProxy: Multi-View Human Mesh Recovery via Diffusion-Generated Dense Proxies**|Renke Wang et.al.|[2601.02267](http://arxiv.org/abs/2601.02267)|null|
-|**2025-12-31**|**Edit3r: Instant 3D Scene Editing from Sparse Unposed Images**|Jiageng Liu et.al.|[2512.25071](http://arxiv.org/abs/2512.25071)|null|
-|**2025-12-31**|**From Inpainting to Editing: A Self-Bootstrapping Framework for Context-Rich Visual Dubbing**|Xu He et.al.|[2512.25066](http://arxiv.org/abs/2512.25066)|null|
-|**2025-12-31**|**Vulcan: Instance-Optimal Systems Heuristics Through LLM-Driven Search**|Rohit Dwivedula et.al.|[2512.25065](http://arxiv.org/abs/2512.25065)|null|
-|**2025-12-31**|**Context-aware LLM-based AI Agents for Human-centered Energy Management Systems in Smart Buildings**|Tianzhi He et.al.|[2512.25055](http://arxiv.org/abs/2512.25055)|null|
-|**2025-12-31**|**EF(X) Orientations: A Parameterized Complexity Perspective**|Sotiris Kanellopoulos et.al.|[2512.25033](http://arxiv.org/abs/2512.25033)|null|
-|**2025-12-31**|**Fractal conduction pathways governing ionic transport in a glass**|J. L. Iguain et.al.|[2512.25031](http://arxiv.org/abs/2512.25031)|null|
-|**2025-12-31**|**Computational Analysis of Disease Progression in Pediatric Pulmonary Arterial Hypertension**|Omar Said et.al.|[2512.25027](http://arxiv.org/abs/2512.25027)|null|
-|**2025-12-31**|**Modeling Language as a Sequence of Thoughts**|Nasim Borazjanizadeh et.al.|[2512.25026](http://arxiv.org/abs/2512.25026)|null|
-|**2025-12-31**|**MAMA-Memeia! Multi-Aspect Multi-Agent Collaboration for Depressive Symptoms Identification in Memes**|Siddhant Agarwal et.al.|[2512.25015](http://arxiv.org/abs/2512.25015)|null|
-|**2025-12-31**|**Dissipative corrections to the particle momentum spectrum of a decoupling fluid**|Francesco Becattini et.al.|[2512.24994](http://arxiv.org/abs/2512.24994)|null|
 
-<p align=right>(<a href=#updated-on-20260109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260111>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
