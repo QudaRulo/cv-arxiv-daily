@@ -1,4 +1,4 @@
-## Updated on 2026.01.11
+## Updated on 2026.01.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -44,7 +44,7 @@
 |**2026-01-05**|**Sparse Threats, Focused Defense: Criticality-Aware Robust Reinforcement Learning for Safe Autonomous Driving**|Qi Wei et.al.|[2601.01800](http://arxiv.org/abs/2601.01800)|null|
 |**2026-01-05**|**Rethinking Secure Semantic Communications in the Age of Generative and Agentic AI: Threats and Opportunities**|Shunpu Tang et.al.|[2601.01791](http://arxiv.org/abs/2601.01791)|null|
 
-<p align=right>(<a href=#updated-on-20260111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
 
 ## AI
 
@@ -81,7 +81,7 @@
 |**2026-01-05**|**InfiniteVGGT: Visual Geometry Grounded Transformer for Endless Streams**|Shuai Yuan et.al.|[2601.02281](http://arxiv.org/abs/2601.02281)|null|
 |**2026-01-05**|**DiffProxy: Multi-View Human Mesh Recovery via Diffusion-Generated Dense Proxies**|Renke Wang et.al.|[2601.02267](http://arxiv.org/abs/2601.02267)|null|
 
-<p align=right>(<a href=#updated-on-20260111>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
