@@ -1,4 +1,4 @@
-## Updated on 2026.01.12
+## Updated on 2026.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-09**|**Continuous-time noise mitigation in analogue quantum simulation**|Gabriele Bressanini et.al.|[2601.05952](http://arxiv.org/abs/2601.05952)|null|
+|**2026-01-09**|**SAFE: Secure and Accurate Federated Learning for Privacy-Preserving Brain-Computer Interfaces**|Tianwang Jia et.al.|[2601.05789](http://arxiv.org/abs/2601.05789)|null|
+|**2026-01-09**|**StriderSPD: Structure-Guided Joint Representation Learning for Binary Security Patch Detection**|Qingyuan Li et.al.|[2601.05772](http://arxiv.org/abs/2601.05772)|null|
+|**2026-01-09**|**HogVul: Black-box Adversarial Code Generation Framework Against LM-based Vulnerability Detectors**|Jingxiao Yang et.al.|[2601.05587](http://arxiv.org/abs/2601.05587)|null|
+|**2026-01-09**|**Research Integrity and Academic Authority in the Age of Artificial Intelligence: From Discovery to Curation?**|Simon Chesterman et.al.|[2601.05574](http://arxiv.org/abs/2601.05574)|null|
+|**2026-01-09**|**Blockchain Verifiable Proof of Quantum Supremacy as a Trigger for Quantum-Secure Signatures**|Nicholas Papadopoulos et.al.|[2601.05534](http://arxiv.org/abs/2601.05534)|null|
+|**2026-01-09**|**Safety Not Found (404): Hidden Risks of LLM-Based Robotics Decision Making**|Jua Han et.al.|[2601.05529](http://arxiv.org/abs/2601.05529)|null|
+|**2026-01-09**|**Secure Text Entry using a Virtual Radial Keyboard with Dynamically Resized Keys and Non-Intrusive Randomization**|Yuxuan Huang et.al.|[2601.05516](http://arxiv.org/abs/2601.05516)|null|
+|**2026-01-09**|**Memory Poisoning Attack and Defense on Memory Based LLM-Agents**|Balachandra Devarangadi Sunil et.al.|[2601.05504](http://arxiv.org/abs/2601.05504)|null|
+|**2026-01-09**|**The Facade of Truth: Uncovering and Mitigating LLM Susceptibility to Deceptive Evidence**|Herun Wan et.al.|[2601.05478](http://arxiv.org/abs/2601.05478)|null|
 |**2026-01-08**|**Robust Reasoning as a Symmetry-Protected Topological Phase**|Ilmo Sung et.al.|[2601.05240](http://arxiv.org/abs/2601.05240)|null|
 |**2026-01-08**|**$PC^2$ : Politically Controversial Content Generation via Jailbreaking Attacks on GPT-based Text-to-Image Models**|Wonwoo Choi et.al.|[2601.05150](http://arxiv.org/abs/2601.05150)|null|
 |**2026-01-08**|**Supporting Secured Integration of Microarchitectural Defenses**|Kartik Ramkrishnan et.al.|[2601.05057](http://arxiv.org/abs/2601.05057)|null|
@@ -44,12 +54,22 @@
 |**2026-01-05**|**Sparse Threats, Focused Defense: Criticality-Aware Robust Reinforcement Learning for Safe Autonomous Driving**|Qi Wei et.al.|[2601.01800](http://arxiv.org/abs/2601.01800)|null|
 |**2026-01-05**|**Rethinking Secure Semantic Communications in the Age of Generative and Agentic AI: Threats and Opportunities**|Shunpu Tang et.al.|[2601.01791](http://arxiv.org/abs/2601.01791)|null|
 
-<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-09**|**AdaFuse: Adaptive Ensemble Decoding with Test-Time Scaling for LLMs**|Chengming Cui et.al.|[2601.06022](http://arxiv.org/abs/2601.06022)|null|
+|**2026-01-09**|**Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards**|Jiajie Zhang et.al.|[2601.06021](http://arxiv.org/abs/2601.06021)|null|
+|**2026-01-09**|**Slow mixing and emergent one-form symmetries in three-dimensional $\mathbb{Z}_2$ gauge theory**|Charles Stahl et.al.|[2601.06010](http://arxiv.org/abs/2601.06010)|null|
+|**2026-01-09**|**Don't Break the Cache: An Evaluation of Prompt Caching for Long-Horizon Agentic Tasks**|Elias Lumer et.al.|[2601.06007](http://arxiv.org/abs/2601.06007)|null|
+|**2026-01-09**|**From Superradiance to Superabsorption: An Exact Treatment of Non-Markovian Cooperative Radiation**|Ignacio González et.al.|[2601.05989](http://arxiv.org/abs/2601.05989)|null|
+|**2026-01-09**|**CyberGFM: Graph Foundation Models for Lateral Movement Detection in Enterprise Networks**|Isaiah J. King et.al.|[2601.05988](http://arxiv.org/abs/2601.05988)|null|
+|**2026-01-09**|**Distinct Rotational Evolution of Giant Planets and Brown Dwarf Companions**|Chih-Chun Hsu et.al.|[2601.05976](http://arxiv.org/abs/2601.05976)|null|
+|**2026-01-09**|**Categorical Foundations for CuTe Layouts**|Jack Carlisle et.al.|[2601.05972](http://arxiv.org/abs/2601.05972)|null|
+|**2026-01-09**|**VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction**|Longbin Ji et.al.|[2601.05966](http://arxiv.org/abs/2601.05966)|null|
+|**2026-01-09**|**Navigating the Sociotechnical Imaginaries of Brazilian Tech Workers**|Kenzo Soares Seto et.al.|[2601.05961](http://arxiv.org/abs/2601.05961)|null|
 |**2026-01-08**|**Pixel-Perfect Visual Geometry Estimation**|Gangwei Xu et.al.|[2601.05246](http://arxiv.org/abs/2601.05246)|null|
 |**2026-01-08**|**GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization**|Shih-Yang Liu et.al.|[2601.05242](http://arxiv.org/abs/2601.05242)|null|
 |**2026-01-08**|**Plenoptic Video Generation**|Xiao Fu et.al.|[2601.05239](http://arxiv.org/abs/2601.05239)|null|
@@ -81,7 +101,7 @@
 |**2026-01-05**|**InfiniteVGGT: Visual Geometry Grounded Transformer for Endless Streams**|Shuai Yuan et.al.|[2601.02281](http://arxiv.org/abs/2601.02281)|null|
 |**2026-01-05**|**DiffProxy: Multi-View Human Mesh Recovery via Diffusion-Generated Dense Proxies**|Renke Wang et.al.|[2601.02267](http://arxiv.org/abs/2601.02267)|null|
 
-<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
