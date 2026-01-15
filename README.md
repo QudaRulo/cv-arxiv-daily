@@ -1,4 +1,4 @@
-## Updated on 2026.01.13
+## Updated on 2026.01.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-13**|**RAVEN: Erasing Invisible Watermarks via Novel View Synthesis**|Fahad Shamshad et.al.|[2601.08832](http://arxiv.org/abs/2601.08832)|null|
+|**2026-01-13**|**Memory DisOrder: Memory Re-orderings as a Timerless Side-channel**|Sean Siddens et.al.|[2601.08770](http://arxiv.org/abs/2601.08770)|null|
+|**2026-01-13**|**LLMs in Code Vulnerability Analysis: A Proof of Concept**|Shaznin Sultana et.al.|[2601.08691](http://arxiv.org/abs/2601.08691)|null|
+|**2026-01-13**|**Intersectional Data and the Social Cost of Digital Extraction: A Pigouvian Surcharge**|Eduardo C. Garrido-Merchán et.al.|[2601.08574](http://arxiv.org/abs/2601.08574)|null|
+|**2026-01-13**|**Systemic Risk in DeFi: A Network-Based Fragility Analysis of TVL Dynamics**|Shiyu Zhang et.al.|[2601.08540](http://arxiv.org/abs/2601.08540)|null|
+|**2026-01-13**|**Robust CAPTCHA Using Audio Illusions in the Era of Large Language Models: from Evaluation to Advances**|Ziqi Ding et.al.|[2601.08516](http://arxiv.org/abs/2601.08516)|null|
+|**2026-01-13**|**A Blessing in Disguise: How DeFi Hacks Trigger Unintended Liquidity Injections into US Money Markets**|Tingyi Lin et.al.|[2601.08263](http://arxiv.org/abs/2601.08263)|null|
+|**2026-01-13**|**A Survey of Security Challenges and Solutions for UAS Traffic Management (UTM) and small Unmanned Aerial Systems (sUAS)**|Iman Sharifi et.al.|[2601.08229](http://arxiv.org/abs/2601.08229)|null|
+|**2026-01-13**|**Simulations for Augmented Reality Evaluation for Mass Casualty Incident Triage**|Cassidy R. Nelson et.al.|[2601.08186](http://arxiv.org/abs/2601.08186)|null|
+|**2026-01-13**|**Subspace Alignment for Vision-Language Model Test-time Adaptation**|Zhichen Zeng et.al.|[2601.08139](http://arxiv.org/abs/2601.08139)|null|
 |**2026-01-09**|**Continuous-time noise mitigation in analogue quantum simulation**|Gabriele Bressanini et.al.|[2601.05952](http://arxiv.org/abs/2601.05952)|null|
 |**2026-01-09**|**SAFE: Secure and Accurate Federated Learning for Privacy-Preserving Brain-Computer Interfaces**|Tianwang Jia et.al.|[2601.05789](http://arxiv.org/abs/2601.05789)|null|
 |**2026-01-09**|**StriderSPD: Structure-Guided Joint Representation Learning for Binary Security Patch Detection**|Qingyuan Li et.al.|[2601.05772](http://arxiv.org/abs/2601.05772)|null|
@@ -43,23 +53,23 @@
 |**2026-01-07**|**HearSay Benchmark: Do Audio LLMs Leak What They Hear?**|Jin Wang et.al.|[2601.03783](http://arxiv.org/abs/2601.03783)|null|
 |**2026-01-07**|**RedBench: A Universal Dataset for Comprehensive Red Teaming of Large Language Models**|Quy-Anh Dang et.al.|[2601.03699](http://arxiv.org/abs/2601.03699)|null|
 |**2026-01-07**|**How Does the Thinking Step Influence Model Safety? An Entropy-based Safety Reminder for LRMs**|Su-Hyeon Kim et.al.|[2601.03662](http://arxiv.org/abs/2601.03662)|null|
-|**2026-01-05**|**FMVP: Masked Flow Matching for Adversarial Video Purification**|Duoxun Tang et.al.|[2601.02228](http://arxiv.org/abs/2601.02228)|null|
-|**2026-01-05**|**BiPrompt: Bilateral Prompt Optimization for Visual and Textual Debiasing in Vision-Language Models**|Sunny Gupta et.al.|[2601.02147](http://arxiv.org/abs/2601.02147)|null|
-|**2026-01-05**|**Responses of the Neurobiological Craving Signature to smoking versus alternative social rewards predict craving and monthly smoking in adolescents**|Maddalena Tamellini et.al.|[2601.02143](http://arxiv.org/abs/2601.02143)|null|
-|**2026-01-05**|**Hidden State Poisoning Attacks against Mamba-based Language Models**|Alexandre Le Mercier et.al.|[2601.01972](http://arxiv.org/abs/2601.01972)|null|
-|**2026-01-05**|**Pervasive Vulnerability Analysis and Defense for QKD-based Quantum Private Query**|Xiaoyu Peng et.al.|[2601.01918](http://arxiv.org/abs/2601.01918)|null|
-|**2026-01-05**|**Forget Less by Learning from Parents Through Hierarchical Relationships**|Arjun Ramesh Kaushik et.al.|[2601.01892](http://arxiv.org/abs/2601.01892)|null|
-|**2026-01-05**|**MORE: Multi-Objective Adversarial Attacks on Speech Recognition**|Xiaoxue Gao et.al.|[2601.01852](http://arxiv.org/abs/2601.01852)|null|
-|**2026-01-05**|**FAROS: Robust Federated Learning with Adaptive Scaling against Backdoor Attacks**|Chenyu Hu et.al.|[2601.01833](http://arxiv.org/abs/2601.01833)|null|
-|**2026-01-05**|**Sparse Threats, Focused Defense: Criticality-Aware Robust Reinforcement Learning for Safe Autonomous Driving**|Qi Wei et.al.|[2601.01800](http://arxiv.org/abs/2601.01800)|null|
-|**2026-01-05**|**Rethinking Secure Semantic Communications in the Age of Generative and Agentic AI: Threats and Opportunities**|Shunpu Tang et.al.|[2601.01791](http://arxiv.org/abs/2601.01791)|null|
 
-<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260115>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-13**|**3AM: Segment Anything with Geometric Consistency in Videos**|Yang-Che Sun et.al.|[2601.08831](http://arxiv.org/abs/2601.08831)|null|
+|**2026-01-13**|**Modeling LLM Agent Reviewer Dynamics in Elo-Ranked Review System**|Hsiang-Wei Huang et.al.|[2601.08829](http://arxiv.org/abs/2601.08829)|null|
+|**2026-01-13**|**MemRec: Collaborative Memory-Augmented Agentic Recommender System**|Weixin Chen et.al.|[2601.08816](http://arxiv.org/abs/2601.08816)|null|
+|**2026-01-13**|**Agent Contracts: A Formal Framework for Resource-Bounded Autonomous AI Systems**|Qing Ye et.al.|[2601.08815](http://arxiv.org/abs/2601.08815)|null|
+|**2026-01-13**|**MixServe: An Automatic Distributed Serving System for MoE Models with Hybrid Parallelism Based on Fused Communication Algorithm**|Bowen Zhou et.al.|[2601.08800](http://arxiv.org/abs/2601.08800)|null|
+|**2026-01-13**|**Uncovering Political Bias in Large Language Models using Parliamentary Voting Records**|Jieying Chen et.al.|[2601.08785](http://arxiv.org/abs/2601.08785)|null|
+|**2026-01-13**|**Pervasive Annotation Errors Break Text-to-SQL Benchmarks and Leaderboards**|Tengjun Jin et.al.|[2601.08778](http://arxiv.org/abs/2601.08778)|null|
+|**2026-01-13**|**Asymptotic Universal Alignment: A New Alignment Framework via Test-Time Scaling**|Yang Cai et.al.|[2601.08777](http://arxiv.org/abs/2601.08777)|null|
+|**2026-01-13**|**Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs**|Manideep Reddy Chinthareddy et.al.|[2601.08773](http://arxiv.org/abs/2601.08773)|null|
+|**2026-01-13**|**Memory DisOrder: Memory Re-orderings as a Timerless Side-channel**|Sean Siddens et.al.|[2601.08770](http://arxiv.org/abs/2601.08770)|null|
 |**2026-01-09**|**AdaFuse: Adaptive Ensemble Decoding with Test-Time Scaling for LLMs**|Chengming Cui et.al.|[2601.06022](http://arxiv.org/abs/2601.06022)|null|
 |**2026-01-09**|**Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards**|Jiajie Zhang et.al.|[2601.06021](http://arxiv.org/abs/2601.06021)|null|
 |**2026-01-09**|**Slow mixing and emergent one-form symmetries in three-dimensional $\mathbb{Z}_2$ gauge theory**|Charles Stahl et.al.|[2601.06010](http://arxiv.org/abs/2601.06010)|null|
@@ -90,18 +100,8 @@
 |**2026-01-07**|**Clinical Data Goes MEDS? Let's OWL make sense of it**|Alberto Marfoglia et.al.|[2601.04164](http://arxiv.org/abs/2601.04164)|null|
 |**2026-01-07**|**Radio Activity from the Rapidly Rotating T dwarf 2MASS 2228-4310**|Kelvin Wandia et.al.|[2601.04158](http://arxiv.org/abs/2601.04158)|null|
 |**2026-01-07**|**Diffusion-DRF: Differentiable Reward Flow for Video Diffusion Fine-Tuning**|Yifan Wang et.al.|[2601.04153](http://arxiv.org/abs/2601.04153)|null|
-|**2026-01-05**|**Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes**|Jing Tan et.al.|[2601.02356](http://arxiv.org/abs/2601.02356)|null|
-|**2026-01-05**|**An information-theoretic bound on cosmic coherence in finite-volume simulations**|Biswajit Pandey et.al.|[2601.02351](http://arxiv.org/abs/2601.02351)|null|
-|**2026-01-05**|**Topological Magnons and Giant Orbital Nernst Effect in a Zigzag Kitaev Antiferromagnet**|Shreya Debnath et.al.|[2601.02342](http://arxiv.org/abs/2601.02342)|null|
-|**2026-01-05**|**Another look at regularity in transport-commutator estimates**|Elias Hess-Childs et.al.|[2601.02326](http://arxiv.org/abs/2601.02326)|null|
-|**2026-01-05**|**Project Ariadne: A Structural Causal Framework for Auditing Faithfulness in LLM Agents**|Sourena Khanzadeh et.al.|[2601.02314](http://arxiv.org/abs/2601.02314)|null|
-|**2026-01-05**|**Placement Semantics for Distributed Deep Learning: A Systematic Framework for Analyzing Parallelism Strategies**|Deep Pankajbhai Mehta et.al.|[2601.02311](http://arxiv.org/abs/2601.02311)|null|
-|**2026-01-05**|**Octopus: A Lightweight Entity-Aware System for Multi-Table Data Discovery and Cell-Level Retrieval**|Wen-Zhi Li et.al.|[2601.02304](http://arxiv.org/abs/2601.02304)|null|
-|**2026-01-05**|**Power-of-Two Quantization-Aware-Training (PoT-QAT) in Large Language Models (LLMs)**|Mahmoud Elgenedy et.al.|[2601.02298](http://arxiv.org/abs/2601.02298)|null|
-|**2026-01-05**|**InfiniteVGGT: Visual Geometry Grounded Transformer for Endless Streams**|Shuai Yuan et.al.|[2601.02281](http://arxiv.org/abs/2601.02281)|null|
-|**2026-01-05**|**DiffProxy: Multi-View Human Mesh Recovery via Diffusion-Generated Dense Proxies**|Renke Wang et.al.|[2601.02267](http://arxiv.org/abs/2601.02267)|null|
 
-<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260115>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
