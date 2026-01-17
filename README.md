@@ -1,4 +1,4 @@
-## Updated on 2026.01.15
+## Updated on 2026.01.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-15**|**Transforming Crises into Opportunities: From Chaos to Urban Antifragility**|Joseph Uguet et.al.|[2601.10658](http://arxiv.org/abs/2601.10658)|null|
+|**2026-01-15**|**Be Your Own Red Teamer: Safety Alignment via Self-Play and Reflective Experience Replay**|Hao Wang et.al.|[2601.10589](http://arxiv.org/abs/2601.10589)|null|
+|**2026-01-15**|**SDN-Driven Innovations in MANETs and IoT: A Path to Smarter Networks**|Andrea Piroddi et.al.|[2601.10544](http://arxiv.org/abs/2601.10544)|null|
+|**2026-01-15**|**Defending Large Language Models Against Jailbreak Attacks via In-Decoding Safety-Awareness Probing**|Yinzhi Zhao et.al.|[2601.10543](http://arxiv.org/abs/2601.10543)|null|
+|**2026-01-15**|**Hybrid Encryption with Certified Deletion in Preprocessing Model**|Kunal Dey et.al.|[2601.10542](http://arxiv.org/abs/2601.10542)|null|
+|**2026-01-15**|**A Safety Report on GPT-5.2, Gemini 3 Pro, Qwen3-VL, Doubao 1.8, Grok 4.1 Fast, Nano Banana Pro, and Seedream 4.5**|Xingjun Ma et.al.|[2601.10527](http://arxiv.org/abs/2601.10527)|null|
+|**2026-01-15**|**BikeActions: An Open Platform and Benchmark for Cyclist-Centric VRU Action Recognition**|Max A. Buettner et.al.|[2601.10521](http://arxiv.org/abs/2601.10521)|null|
+|**2026-01-15**|**Job Anxiety in Post-Secondary Computer Science Students Caused by Artificial Intelligence**|Daniyaal Farooqi et.al.|[2601.10468](http://arxiv.org/abs/2601.10468)|null|
+|**2026-01-15**|**AI Sycophancy: How Users Flag and Respond**|Kazi Noshin et.al.|[2601.10467](http://arxiv.org/abs/2601.10467)|null|
+|**2026-01-15**|**CS-GBA: A Critical Sample-based Gradient-guided Backdoor Attack for Offline Reinforcement Learning**|Yuanjie Zhao et.al.|[2601.10407](http://arxiv.org/abs/2601.10407)|null|
 |**2026-01-13**|**RAVEN: Erasing Invisible Watermarks via Novel View Synthesis**|Fahad Shamshad et.al.|[2601.08832](http://arxiv.org/abs/2601.08832)|null|
 |**2026-01-13**|**Memory DisOrder: Memory Re-orderings as a Timerless Side-channel**|Sean Siddens et.al.|[2601.08770](http://arxiv.org/abs/2601.08770)|null|
 |**2026-01-13**|**LLMs in Code Vulnerability Analysis: A Proof of Concept**|Shaznin Sultana et.al.|[2601.08691](http://arxiv.org/abs/2601.08691)|null|
@@ -43,23 +53,23 @@
 |**2026-01-08**|**ResMAS: Resilience Optimization in LLM-based Multi-agent Systems**|Zhilun Zhou et.al.|[2601.04694](http://arxiv.org/abs/2601.04694)|null|
 |**2026-01-08**|**Know Thy Enemy: Securing LLMs Against Prompt Injection via Diverse Data Synthesis and Instruction-Level Chain-of-Thought Learning**|Zhiyuan Chang et.al.|[2601.04666](http://arxiv.org/abs/2601.04666)|null|
 |**2026-01-08**|**Quantifying Autoscaler Vulnerabilities: An Empirical Study of Resource Misallocation Induced by Cloud Infrastructure Faults**|Gijun Park et.al.|[2601.04659](http://arxiv.org/abs/2601.04659)|null|
-|**2026-01-07**|**SearchAttack: Red-Teaming LLMs against Real-World Threats via Framing Unsafe Web Information-Seeking Tasks**|Yu Yan et.al.|[2601.04093](http://arxiv.org/abs/2601.04093)|null|
-|**2026-01-07**|**When Helpers Become Hazards: A Benchmark for Analyzing Multimodal LLM-Powered Safety in Daily Life**|Xinyue Lou et.al.|[2601.04043](http://arxiv.org/abs/2601.04043)|null|
-|**2026-01-07**|**HoneyTrap: Deceiving Large Language Model Attackers to Honeypot Traps with Resilient Multi-Agent Defense**|Siyuan Li et.al.|[2601.04034](http://arxiv.org/abs/2601.04034)|null|
-|**2026-01-07**|**Flexible-Duplex Cell-Free Architecture for Secure Uplink Communications in Low-Altitude Wireless Networks**|Wei Shi et.al.|[2601.04011](http://arxiv.org/abs/2601.04011)|null|
-|**2026-01-07**|**Can Dynamic Spectrum Sharing Protect Passive Radio Sciences?**|Gregory Hellbourg et.al.|[2601.03966](http://arxiv.org/abs/2601.03966)|null|
-|**2026-01-07**|**Doc-PP: Document Policy Preservation Benchmark for Large Vision-Language Models**|Haeun Jang et.al.|[2601.03926](http://arxiv.org/abs/2601.03926)|null|
-|**2026-01-07**|**What Matters For Safety Alignment?**|Xing Li et.al.|[2601.03868](http://arxiv.org/abs/2601.03868)|null|
-|**2026-01-07**|**HearSay Benchmark: Do Audio LLMs Leak What They Hear?**|Jin Wang et.al.|[2601.03783](http://arxiv.org/abs/2601.03783)|null|
-|**2026-01-07**|**RedBench: A Universal Dataset for Comprehensive Red Teaming of Large Language Models**|Quy-Anh Dang et.al.|[2601.03699](http://arxiv.org/abs/2601.03699)|null|
-|**2026-01-07**|**How Does the Thinking Step Influence Model Safety? An Entropy-based Safety Reminder for LRMs**|Su-Hyeon Kim et.al.|[2601.03662](http://arxiv.org/abs/2601.03662)|null|
 
-<p align=right>(<a href=#updated-on-20260115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260117>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-15**|**MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching**|Changle Qu et.al.|[2601.10712](http://arxiv.org/abs/2601.10712)|null|
+|**2026-01-15**|**From One-to-One to Many-to-Many: Dynamic Cross-Layer Injection for Deep Vision-Language Fusion**|Cheng Chen et.al.|[2601.10710](http://arxiv.org/abs/2601.10710)|null|
+|**2026-01-15**|**See Less, Drive Better: Generalizable End-to-End Autonomous Driving via Foundation Models Stochastic Patch Selection**|Amir Mallak et.al.|[2601.10707](http://arxiv.org/abs/2601.10707)|null|
+|**2026-01-15**|**Grounding Agent Memory in Contextual Intent**|Ruozhen Yang et.al.|[2601.10702](http://arxiv.org/abs/2601.10702)|null|
+|**2026-01-15**|**Transforming Crises into Opportunities: From Chaos to Urban Antifragility**|Joseph Uguet et.al.|[2601.10658](http://arxiv.org/abs/2601.10658)|null|
+|**2026-01-15**|**PACEvolve: Enabling Long-Horizon Progress-Aware Consistent Evolution**|Minghao Yan et.al.|[2601.10657](http://arxiv.org/abs/2601.10657)|null|
+|**2026-01-15**|**Influential Training Data Retrieval for Explaining Verbalized Confidence of LLMs**|Yuxi Xia et.al.|[2601.10645](http://arxiv.org/abs/2601.10645)|null|
+|**2026-01-15**|**RoutIR: Fast Serving of Retrieval Pipelines for Retrieval-Augmented Generation**|Eugene Yang et.al.|[2601.10644](http://arxiv.org/abs/2601.10644)|null|
+|**2026-01-15**|**STEM: Scaling Transformers with Embedding Modules**|Ranajoy Sadhukhan et.al.|[2601.10639](http://arxiv.org/abs/2601.10639)|null|
+|**2026-01-15**|**Procedural Fairness in Multi-Agent Bandits**|Joshua Caiata et.al.|[2601.10600](http://arxiv.org/abs/2601.10600)|null|
 |**2026-01-13**|**3AM: Segment Anything with Geometric Consistency in Videos**|Yang-Che Sun et.al.|[2601.08831](http://arxiv.org/abs/2601.08831)|null|
 |**2026-01-13**|**Modeling LLM Agent Reviewer Dynamics in Elo-Ranked Review System**|Hsiang-Wei Huang et.al.|[2601.08829](http://arxiv.org/abs/2601.08829)|null|
 |**2026-01-13**|**MemRec: Collaborative Memory-Augmented Agentic Recommender System**|Weixin Chen et.al.|[2601.08816](http://arxiv.org/abs/2601.08816)|null|
@@ -90,18 +100,8 @@
 |**2026-01-08**|**Internal Representations as Indicators of Hallucinations in Agent Tool Selection**|Kait Healy et.al.|[2601.05214](http://arxiv.org/abs/2601.05214)|null|
 |**2026-01-08**|**Estimating Consensus Ideal Points Using Multi-Source Data**|Mellissa Meisels et.al.|[2601.05213](http://arxiv.org/abs/2601.05213)|null|
 |**2026-01-08**|**FlowLet: Conditional 3D Brain MRI Synthesis using Wavelet Flow Matching**|Danilo Danese et.al.|[2601.05212](http://arxiv.org/abs/2601.05212)|null|
-|**2026-01-07**|**Embedding Autonomous Agents in Resource-Constrained Robotic Platforms**|Negar Halakou et.al.|[2601.04191](http://arxiv.org/abs/2601.04191)|null|
-|**2026-01-07**|**ImLoc: Revisiting Visual Localization with Image-based Representation**|Xudong Jiang et.al.|[2601.04185](http://arxiv.org/abs/2601.04185)|null|
-|**2026-01-07**|**Lightweight Test-Time Adaptation for EMG-Based Gesture Recognition**|Nia Touko et.al.|[2601.04181](http://arxiv.org/abs/2601.04181)|null|
-|**2026-01-07**|**Hierarchical GNN-Based Multi-Agent Learning for Dynamic Queue-Jump Lane and Emergency Vehicle Corridor Formation**|Haoran Su et.al.|[2601.04177](http://arxiv.org/abs/2601.04177)|null|
-|**2026-01-07**|**Legal Alignment for Safe and Ethical AI**|Noam Kolt et.al.|[2601.04175](http://arxiv.org/abs/2601.04175)|null|
-|**2026-01-07**|**Agentic Rubrics as Contextual Verifiers for SWE Agents**|Mohit Raghavendra et.al.|[2601.04171](http://arxiv.org/abs/2601.04171)|null|
-|**2026-01-07**|**Agent Drift: Quantifying Behavioral Degradation in Multi-Agent LLM Systems Over Extended Interactions**|Abhishek Rath et.al.|[2601.04170](http://arxiv.org/abs/2601.04170)|null|
-|**2026-01-07**|**Clinical Data Goes MEDS? Let's OWL make sense of it**|Alberto Marfoglia et.al.|[2601.04164](http://arxiv.org/abs/2601.04164)|null|
-|**2026-01-07**|**Radio Activity from the Rapidly Rotating T dwarf 2MASS 2228-4310**|Kelvin Wandia et.al.|[2601.04158](http://arxiv.org/abs/2601.04158)|null|
-|**2026-01-07**|**Diffusion-DRF: Differentiable Reward Flow for Video Diffusion Fine-Tuning**|Yifan Wang et.al.|[2601.04153](http://arxiv.org/abs/2601.04153)|null|
 
-<p align=right>(<a href=#updated-on-20260115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260117>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
