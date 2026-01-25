@@ -1,4 +1,4 @@
-## Updated on 2026.01.23
+## Updated on 2026.01.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-22**|**Provable Robustness in Multimodal Large Language Models via Feature Space Smoothing**|Song Xia et.al.|[2601.16200](http://arxiv.org/abs/2601.16200)|null|
+|**2026-01-22**|**Engineering polarization: How contradictory stimulation systematically undermines political moderation**|Renato Vieira dos Santos et.al.|[2601.16181](http://arxiv.org/abs/2601.16181)|null|
+|**2026-01-22**|**CONTEX-T: Contextual Privacy Exploitation via Transformer Spectral Analysis for IoT Device Fingerprinting**|Nazmul Islam et.al.|[2601.16160](http://arxiv.org/abs/2601.16160)|null|
+|**2026-01-22**|**Low-altitude Multi-UAV-assisted Data Collection and Semantic Forwarding for Post-Disaster Relief**|Xiaoya Zheng et.al.|[2601.16146](http://arxiv.org/abs/2601.16146)|null|
+|**2026-01-22**|**On damage of interpolation to adversarial robustness in regression**|Jingfu Peng et.al.|[2601.16070](http://arxiv.org/abs/2601.16070)|null|
+|**2026-01-22**|**SoK: Challenges in Tabular Membership Inference Attacks**|Cristina Pêra et.al.|[2601.15874](http://arxiv.org/abs/2601.15874)|null|
+|**2026-01-22**|**Beyond Visual Safety: Jailbreaking Multimodal Large Language Models for Harmful Image Generation via Semantic-Agnostic Inputs**|Mingyu Yu et.al.|[2601.15698](http://arxiv.org/abs/2601.15698)|null|
+|**2026-01-21**|**DCeption: Real-world Wireless Man-in-the-Middle Attacks Against CCS EV Charging**|Marcell Szakály et.al.|[2601.15515](http://arxiv.org/abs/2601.15515)|null|
+|**2026-01-21**|**Multi-Targeted Graph Backdoor Attack**|Md Nabi Newaz Khan et.al.|[2601.15474](http://arxiv.org/abs/2601.15474)|null|
 |**2026-01-21**|**Robust Fake News Detection using Large Language Models under Adversarial Sentiment Attacks**|Sahar Tahmasebi et.al.|[2601.15277](http://arxiv.org/abs/2601.15277)|null|
 |**2026-01-21**|**Privacy Collapse: Benign Fine-Tuning Can Break Contextual Privacy in Language Models**|Anmol Goel et.al.|[2601.15220](http://arxiv.org/abs/2601.15220)|null|
 |**2026-01-21**|**SAGA: Detecting Security Vulnerabilities Using Static Aspect Analysis**|Yoann Marquer et.al.|[2601.15154](http://arxiv.org/abs/2601.15154)|null|
@@ -33,23 +42,23 @@
 |**2026-01-16**|**VidLeaks: Membership Inference Attacks Against Text-to-Video Models**|Li Wang et.al.|[2601.11210](http://arxiv.org/abs/2601.11210)|null|
 |**2026-01-16**|**SD-RAG: A Prompt-Injection-Resilient Framework for Selective Disclosure in Retrieval-Augmented Generation**|Aiman Al Masoud et.al.|[2601.11199](http://arxiv.org/abs/2601.11199)|null|
 |**2026-01-16**|**Proving Circuit Functional Equivalence in Zero Knowledge**|Sirui Shen et.al.|[2601.11173](http://arxiv.org/abs/2601.11173)|null|
-|**2026-01-15**|**Transforming Crises into Opportunities: From Chaos to Urban Antifragility**|Joseph Uguet et.al.|[2601.10658](http://arxiv.org/abs/2601.10658)|null|
-|**2026-01-15**|**Be Your Own Red Teamer: Safety Alignment via Self-Play and Reflective Experience Replay**|Hao Wang et.al.|[2601.10589](http://arxiv.org/abs/2601.10589)|null|
-|**2026-01-15**|**SDN-Driven Innovations in MANETs and IoT: A Path to Smarter Networks**|Andrea Piroddi et.al.|[2601.10544](http://arxiv.org/abs/2601.10544)|null|
-|**2026-01-15**|**Defending Large Language Models Against Jailbreak Attacks via In-Decoding Safety-Awareness Probing**|Yinzhi Zhao et.al.|[2601.10543](http://arxiv.org/abs/2601.10543)|null|
-|**2026-01-15**|**Hybrid Encryption with Certified Deletion in Preprocessing Model**|Kunal Dey et.al.|[2601.10542](http://arxiv.org/abs/2601.10542)|null|
-|**2026-01-15**|**A Safety Report on GPT-5.2, Gemini 3 Pro, Qwen3-VL, Doubao 1.8, Grok 4.1 Fast, Nano Banana Pro, and Seedream 4.5**|Xingjun Ma et.al.|[2601.10527](http://arxiv.org/abs/2601.10527)|null|
-|**2026-01-15**|**BikeActions: An Open Platform and Benchmark for Cyclist-Centric VRU Action Recognition**|Max A. Buettner et.al.|[2601.10521](http://arxiv.org/abs/2601.10521)|null|
-|**2026-01-15**|**Job Anxiety in Post-Secondary Computer Science Students Caused by Artificial Intelligence**|Daniyaal Farooqi et.al.|[2601.10468](http://arxiv.org/abs/2601.10468)|null|
-|**2026-01-15**|**AI Sycophancy: How Users Flag and Respond**|Kazi Noshin et.al.|[2601.10467](http://arxiv.org/abs/2601.10467)|null|
-|**2026-01-15**|**CS-GBA: A Critical Sample-based Gradient-guided Backdoor Attack for Offline Reinforcement Learning**|Yuanjie Zhao et.al.|[2601.10407](http://arxiv.org/abs/2601.10407)|null|
 
-<p align=right>(<a href=#updated-on-20260123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260125>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-22**|**CamPilot: Improving Camera Control in Video Diffusion Model with Efficient Camera Reward Feedback**|Wenhang Ge et.al.|[2601.16214](http://arxiv.org/abs/2601.16214)|null|
+|**2026-01-22**|**Point Bridge: 3D Representations for Cross Domain Policy Learning**|Siddhant Haldar et.al.|[2601.16212](http://arxiv.org/abs/2601.16212)|null|
+|**2026-01-22**|**PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation**|Onkar Susladkar et.al.|[2601.16210](http://arxiv.org/abs/2601.16210)|null|
+|**2026-01-22**|**LLM-in-Sandbox Elicits General Agentic Intelligence**|Daixuan Cheng et.al.|[2601.16206](http://arxiv.org/abs/2601.16206)|null|
+|**2026-01-22**|**A multiwavelength ALMA view of gas and dust in binary protoplanetary system AS 205: Evidence of dust asymmetric distribution**|Nguyen Thi Phuong et.al.|[2601.16202](http://arxiv.org/abs/2601.16202)|null|
+|**2026-01-22**|**PAL*M: Property Attestation for Large Generative Models**|Prach Chantasantitam et.al.|[2601.16199](http://arxiv.org/abs/2601.16199)|null|
+|**2026-01-22**|**360Anything: Geometry-Free Lifting of Images and Videos to 360°**|Ziyi Wu et.al.|[2601.16192](http://arxiv.org/abs/2601.16192)|null|
+|**2026-01-22**|**A general spectral solver for the axisymmetric Jeans equations: fast galaxy modelling with arbitrary anisotropy**|Michele Cappellari et.al.|[2601.16179](http://arxiv.org/abs/2601.16179)|null|
+|**2026-01-22**|**Scaling Sample-Based Quantum Diagonalization on GPU-Accelerated Systems using OpenMP Offload**|Robert Walkup et.al.|[2601.16169](http://arxiv.org/abs/2601.16169)|null|
+|**2026-01-22**|**HVD: Human Vision-Driven Video Representation Learning for Text-Video Retrieval**|Zequn Xie et.al.|[2601.16155](http://arxiv.org/abs/2601.16155)|null|
 |**2026-01-21**|**Towards Understanding Best Practices for Quantization of Vision-Language Models**|Gautom Das et.al.|[2601.15287](http://arxiv.org/abs/2601.15287)|null|
 |**2026-01-21**|**Iterative Refinement Improves Compositional Image Generation**|Shantanu Jaiswal et.al.|[2601.15286](http://arxiv.org/abs/2601.15286)|null|
 |**2026-01-21**|**How high-resolution agent-based models can improve fundamental insights in tissue development and cell culturing methods**|Paul Van Liedekerke et.al.|[2601.15273](http://arxiv.org/abs/2601.15273)|null|
@@ -70,18 +79,8 @@
 |**2026-01-16**|**Low-Rank Key Value Attention**|James O'Neill et.al.|[2601.11471](http://arxiv.org/abs/2601.11471)|null|
 |**2026-01-16**|**MHA2MLA-VLM: Enabling DeepSeek's Economical Multi-Head Latent Attention across Vision-Language Models**|Xiaoran Fan et.al.|[2601.11464](http://arxiv.org/abs/2601.11464)|null|
 |**2026-01-16**|**Stochastic Recursive Inclusions under Biased Perturbations: An Input-to-State Stability Perspective**|Anik Kumar Paul et.al.|[2601.11462](http://arxiv.org/abs/2601.11462)|null|
-|**2026-01-15**|**MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching**|Changle Qu et.al.|[2601.10712](http://arxiv.org/abs/2601.10712)|null|
-|**2026-01-15**|**From One-to-One to Many-to-Many: Dynamic Cross-Layer Injection for Deep Vision-Language Fusion**|Cheng Chen et.al.|[2601.10710](http://arxiv.org/abs/2601.10710)|null|
-|**2026-01-15**|**See Less, Drive Better: Generalizable End-to-End Autonomous Driving via Foundation Models Stochastic Patch Selection**|Amir Mallak et.al.|[2601.10707](http://arxiv.org/abs/2601.10707)|null|
-|**2026-01-15**|**Grounding Agent Memory in Contextual Intent**|Ruozhen Yang et.al.|[2601.10702](http://arxiv.org/abs/2601.10702)|null|
-|**2026-01-15**|**Transforming Crises into Opportunities: From Chaos to Urban Antifragility**|Joseph Uguet et.al.|[2601.10658](http://arxiv.org/abs/2601.10658)|null|
-|**2026-01-15**|**PACEvolve: Enabling Long-Horizon Progress-Aware Consistent Evolution**|Minghao Yan et.al.|[2601.10657](http://arxiv.org/abs/2601.10657)|null|
-|**2026-01-15**|**Influential Training Data Retrieval for Explaining Verbalized Confidence of LLMs**|Yuxi Xia et.al.|[2601.10645](http://arxiv.org/abs/2601.10645)|null|
-|**2026-01-15**|**RoutIR: Fast Serving of Retrieval Pipelines for Retrieval-Augmented Generation**|Eugene Yang et.al.|[2601.10644](http://arxiv.org/abs/2601.10644)|null|
-|**2026-01-15**|**STEM: Scaling Transformers with Embedding Modules**|Ranajoy Sadhukhan et.al.|[2601.10639](http://arxiv.org/abs/2601.10639)|null|
-|**2026-01-15**|**Procedural Fairness in Multi-Agent Bandits**|Joshua Caiata et.al.|[2601.10600](http://arxiv.org/abs/2601.10600)|null|
 
-<p align=right>(<a href=#updated-on-20260123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260125>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
