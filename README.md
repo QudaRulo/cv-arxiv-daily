@@ -1,4 +1,4 @@
-## Updated on 2026.01.27
+## Updated on 2026.01.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-27**|**Assessing Task-based Chatbots: Snapshot and Curated Datasets for Dialogflow**|Elena Masserini et.al.|[2601.19787](http://arxiv.org/abs/2601.19787)|null|
+|**2026-01-27**|**GraphDLG: Exploring Deep Leakage from Gradients in Federated Graph Learning**|Shuyue Wei et.al.|[2601.19745](http://arxiv.org/abs/2601.19745)|null|
+|**2026-01-27**|**RvB: Automating AI System Hardening via Iterative Red-Blue Games**|Lige Huang et.al.|[2601.19726](http://arxiv.org/abs/2601.19726)|null|
+|**2026-01-27**|**Who Said CVE? How Vulnerability Identifiers Are Mentioned by Humans, Bots, and Agents in Pull Requests**|Pien Rooijendijk et.al.|[2601.19636](http://arxiv.org/abs/2601.19636)|null|
+|**2026-01-27**|**Self-locking non-volatile coding metasurfaces via origami-based mechanical bits**|Ding Zhang et.al.|[2601.19632](http://arxiv.org/abs/2601.19632)|null|
+|**2026-01-27**|**Automated Safety Benchmarking: A Multi-agent Pipeline for LVLMs**|Xiangyang Zhu et.al.|[2601.19507](http://arxiv.org/abs/2601.19507)|null|
+|**2026-01-27**|**From Internal Diagnosis to External Auditing: A VLM-Driven Paradigm for Online Test-Time Backdoor Defense**|Binyan Xu et.al.|[2601.19448](http://arxiv.org/abs/2601.19448)|null|
+|**2026-01-27**|**Selective Steering: Norm-Preserving Control Through Discriminative Layer Selection**|Quy-Anh Dang et.al.|[2601.19375](http://arxiv.org/abs/2601.19375)|null|
+|**2026-01-27**|**Modeling Behavioral Signals in Job Scams: A Human-Centered Security Study**|Goni Anagha et.al.|[2601.19342](http://arxiv.org/abs/2601.19342)|null|
+|**2026-01-27**|**From Observations to Events: Event-Aware World Model for Reinforcement Learning**|Zhao-Han Peng et.al.|[2601.19336](http://arxiv.org/abs/2601.19336)|null|
 |**2026-01-23**|**GRIP: Algorithm-Agnostic Machine Unlearning for Mixture-of-Experts via Geometric Router Constraints**|Andy Zhu et.al.|[2601.16905](http://arxiv.org/abs/2601.16905)|null|
 |**2026-01-23**|**Quantum Position Verification with Remote Untrusted Devices**|Gautam A. Kavuri et.al.|[2601.16892](http://arxiv.org/abs/2601.16892)|null|
 |**2026-01-23**|**Orbitopal Fixing in SAT**|Markus Anders et.al.|[2601.16855](http://arxiv.org/abs/2601.16855)|null|
@@ -43,12 +53,22 @@
 |**2026-01-21**|**Triage knowledge distillation for speaker verification**|Ju-ho Kim et.al.|[2601.14699](http://arxiv.org/abs/2601.14699)|null|
 |**2026-01-21**|**Gaming the Judge: Unfaithful Chain-of-Thought Can Undermine Agent Evaluation**|Muhammad Khalifa et.al.|[2601.14691](http://arxiv.org/abs/2601.14691)|null|
 
-<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-27**|**DuwatBench: Bridging Language and Visual Heritage through an Arabic Calligraphy Benchmark for Multimodal Understanding**|Shubham Patle et.al.|[2601.19898](http://arxiv.org/abs/2601.19898)|null|
+|**2026-01-27**|**Enabling SSI-Compliant Use of EUDI Wallet Credentials through Trusted Execution Environment and Zero-Knowledge Proof**|Nacereddine Sitouah et.al.|[2601.19893](http://arxiv.org/abs/2601.19893)|null|
+|**2026-01-27**|**VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction**|Dominic Maggio et.al.|[2601.19887](http://arxiv.org/abs/2601.19887)|null|
+|**2026-01-27**|**Mobility-as-a-service (MaaS) system as a multi-leader-multi-follower game: A single-level variational inequality (VI) formulation**|Rui Yao et.al.|[2601.19880](http://arxiv.org/abs/2601.19880)|null|
+|**2026-01-27**|**Generative Latent Alignment for Interpretable Radar Based Occupancy Detection in Ambient Assisted Living**|Huy Trinh et.al.|[2601.19853](http://arxiv.org/abs/2601.19853)|null|
+|**2026-01-27**|**Hyperdisorder in tumor growth**|Arturo Tozzi et.al.|[2601.19852](http://arxiv.org/abs/2601.19852)|null|
+|**2026-01-27**|**EgoHandICL: Egocentric 3D Hand Reconstruction with In-Context Learning**|Binzhu Xie et.al.|[2601.19850](http://arxiv.org/abs/2601.19850)|null|
+|**2026-01-27**|**Dynamical Evidence for a Billion Solar Mass Black Hole in Galaxy NGC 4061 from ALMA $^{12}$ CO(2-1) Kinematics**|Dieu D. Nguyen et.al.|[2601.19842](http://arxiv.org/abs/2601.19842)|null|
+|**2026-01-27**|**HARMONI: Multimodal Personalization of Multi-User Human-Robot Interactions with LLMs**|Jeanne Malécot et.al.|[2601.19839](http://arxiv.org/abs/2601.19839)|null|
+|**2026-01-27**|**Self-Sovereign Identity and eIDAS 2.0: An Analysis of Control, Privacy, and Legal Implications**|Nacereddine Sitouah et.al.|[2601.19837](http://arxiv.org/abs/2601.19837)|null|
 |**2026-01-23**|**VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents**|Zirui Wang et.al.|[2601.16973](http://arxiv.org/abs/2601.16973)|null|
 |**2026-01-23**|**Autonomous Optical Alignment of Satellite-Based Entanglement Sources using Reinforcement Learning**|Andrzej Gajewski et.al.|[2601.16968](http://arxiv.org/abs/2601.16968)|null|
 |**2026-01-23**|**Spatial-Agent: Agentic Geo-spatial Reasoning with Scientific Core Concepts**|Riyang Bao et.al.|[2601.16965](http://arxiv.org/abs/2601.16965)|null|
@@ -80,7 +100,7 @@
 |**2026-01-21**|**Privacy Collapse: Benign Fine-Tuning Can Break Contextual Privacy in Language Models**|Anmol Goel et.al.|[2601.15220](http://arxiv.org/abs/2601.15220)|null|
 |**2026-01-21**|**ZENITH: Automated Gradient Norm Informed Stochastic Optimization**|Dhrubo Saha et.al.|[2601.15212](http://arxiv.org/abs/2601.15212)|null|
 
-<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
