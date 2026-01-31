@@ -1,4 +1,4 @@
-## Updated on 2026.01.29
+## Updated on 2026.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**Adaptively Robust Resettable Streaming**|Edith Cohen et.al.|[2601.21989](http://arxiv.org/abs/2601.21989)|null|
+|**2026-01-29**|**Visual Disentangled Diffusion Autoencoders: Scalable Counterfactual Generation for Foundation Models**|Sidney Bender et.al.|[2601.21851](http://arxiv.org/abs/2601.21851)|null|
+|**2026-01-29**|**Trustworthy Intelligent Education: A Systematic Perspective on Progress, Challenges, and Future Directions**|Xiaoshan Yu et.al.|[2601.21837](http://arxiv.org/abs/2601.21837)|null|
+|**2026-01-29**|**DropoutTS: Sample-Adaptive Dropout for Robust Time Series Forecasting**|Siru Zhong et.al.|[2601.21726](http://arxiv.org/abs/2601.21726)|null|
+|**2026-01-29**|**LoRA and Privacy: When Random Projections Help (and When They Don't)**|Yaxi Hu et.al.|[2601.21719](http://arxiv.org/abs/2601.21719)|null|
+|**2026-01-29**|**Noise as a Probe: Membership Inference Attacks on Diffusion Models Leveraging Initial Noise**|Puwei Lian et.al.|[2601.21628](http://arxiv.org/abs/2601.21628)|null|
+|**2026-01-29**|**Is My RPC Response Reliable? Detecting RPC Bugs in Ethereum Blockchain Client under Context**|Zhijie Zhong et.al.|[2601.21593](http://arxiv.org/abs/2601.21593)|null|
+|**2026-01-29**|**ICL-EVADER: Zero-Query Black-Box Evasion Attacks on In-Context Learning and Their Defenses**|Ningyuan He et.al.|[2601.21586](http://arxiv.org/abs/2601.21586)|null|
+|**2026-01-29**|**Multi-objective Integer Linear Programming approach for Automatic Software Cognitive Complexity Reduction**|Adriana Novoa-Hurtado et.al.|[2601.21565](http://arxiv.org/abs/2601.21565)|null|
+|**2026-01-29**|**From Vulnerable to Resilient: Examining Parent and Teen Perceptions on How to Respond to Unwanted Cybergrooming Advances**|Xinyi Zhang et.al.|[2601.21518](http://arxiv.org/abs/2601.21518)|null|
 |**2026-01-27**|**Assessing Task-based Chatbots: Snapshot and Curated Datasets for Dialogflow**|Elena Masserini et.al.|[2601.19787](http://arxiv.org/abs/2601.19787)|null|
 |**2026-01-27**|**GraphDLG: Exploring Deep Leakage from Gradients in Federated Graph Learning**|Shuyue Wei et.al.|[2601.19745](http://arxiv.org/abs/2601.19745)|null|
 |**2026-01-27**|**RvB: Automating AI System Hardening via Iterative Red-Blue Games**|Lige Huang et.al.|[2601.19726](http://arxiv.org/abs/2601.19726)|null|
@@ -40,25 +50,23 @@
 |**2026-01-22**|**On damage of interpolation to adversarial robustness in regression**|Jingfu Peng et.al.|[2601.16070](http://arxiv.org/abs/2601.16070)|null|
 |**2026-01-22**|**SoK: Challenges in Tabular Membership Inference Attacks**|Cristina Pêra et.al.|[2601.15874](http://arxiv.org/abs/2601.15874)|null|
 |**2026-01-22**|**Beyond Visual Safety: Jailbreaking Multimodal Large Language Models for Harmful Image Generation via Semantic-Agnostic Inputs**|Mingyu Yu et.al.|[2601.15698](http://arxiv.org/abs/2601.15698)|null|
-|**2026-01-21**|**DCeption: Real-world Wireless Man-in-the-Middle Attacks Against CCS EV Charging**|Marcell Szakály et.al.|[2601.15515](http://arxiv.org/abs/2601.15515)|null|
-|**2026-01-21**|**Multi-Targeted Graph Backdoor Attack**|Md Nabi Newaz Khan et.al.|[2601.15474](http://arxiv.org/abs/2601.15474)|null|
-|**2026-01-21**|**Robust Fake News Detection using Large Language Models under Adversarial Sentiment Attacks**|Sahar Tahmasebi et.al.|[2601.15277](http://arxiv.org/abs/2601.15277)|null|
-|**2026-01-21**|**Privacy Collapse: Benign Fine-Tuning Can Break Contextual Privacy in Language Models**|Anmol Goel et.al.|[2601.15220](http://arxiv.org/abs/2601.15220)|null|
-|**2026-01-21**|**SAGA: Detecting Security Vulnerabilities Using Static Aspect Analysis**|Yoann Marquer et.al.|[2601.15154](http://arxiv.org/abs/2601.15154)|null|
-|**2026-01-21**|**Deep Leakage with Generative Flow Matching Denoiser**|Isaac Baglin et.al.|[2601.15049](http://arxiv.org/abs/2601.15049)|null|
-|**2026-01-21**|**Knowledge Restoration-driven Prompt Optimization: Unlocking LLM Potential for Open-Domain Relational Triplet Extraction**|Xiaonan Jing et.al.|[2601.15037](http://arxiv.org/abs/2601.15037)|null|
-|**2026-01-21**|**Unified Multi-Dataset Training for TBPS**|Nilanjana Chatterjee et.al.|[2601.14978](http://arxiv.org/abs/2601.14978)|null|
-|**2026-01-21**|**Erosion Attack for Adversarial Training to Enhance Semantic Segmentation Robustness**|Yufei Song et.al.|[2601.14950](http://arxiv.org/abs/2601.14950)|null|
-|**2026-01-21**|**Does medical specialization of VLMs enhance discriminative power?: A comprehensive investigation through feature distribution analysis**|Keita Takeda et.al.|[2601.14774](http://arxiv.org/abs/2601.14774)|null|
-|**2026-01-21**|**Triage knowledge distillation for speaker verification**|Ju-ho Kim et.al.|[2601.14699](http://arxiv.org/abs/2601.14699)|null|
-|**2026-01-21**|**Gaming the Judge: Unfaithful Chain-of-Thought Can Undermine Agent Evaluation**|Muhammad Khalifa et.al.|[2601.14691](http://arxiv.org/abs/2601.14691)|null|
 
-<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**RedSage: A Cybersecurity Generalist LLM**|Naufal Suryanto et.al.|[2601.22159](http://arxiv.org/abs/2601.22159)|null|
+|**2026-01-29**|**Exploring Reasoning Reward Model for Agents**|Kaixuan Fan et.al.|[2601.22154](http://arxiv.org/abs/2601.22154)|null|
+|**2026-01-29**|**DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation**|Haozhe Xie et.al.|[2601.22153](http://arxiv.org/abs/2601.22153)|null|
+|**2026-01-29**|**Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions**|Xiaoxiao Sun et.al.|[2601.22150](http://arxiv.org/abs/2601.22150)|null|
+|**2026-01-29**|**DynaWeb: Model-Based Reinforcement Learning of Web Agents**|Hang Ding et.al.|[2601.22149](http://arxiv.org/abs/2601.22149)|null|
+|**2026-01-29**|**Routing the Lottery: Adaptive Subnetworks for Heterogeneous Data**|Grzegorz Stefanski et.al.|[2601.22141](http://arxiv.org/abs/2601.22141)|null|
+|**2026-01-29**|**Reasoning While Asking: Transforming Reasoning Large Language Models from Passive Solvers to Proactive Inquirers**|Xin Chen et.al.|[2601.22139](http://arxiv.org/abs/2601.22139)|null|
+|**2026-01-29**|**StepShield: When, Not Whether to Intervene on Rogue Agents**|Gloria Felicia et.al.|[2601.22136](http://arxiv.org/abs/2601.22136)|null|
+|**2026-01-29**|**World of Workflows: a Benchmark for Bringing World Models to Enterprise Systems**|Lakshya Gupta et.al.|[2601.22130](http://arxiv.org/abs/2601.22130)|null|
+|**2026-01-29**|**SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents**|Yifeng Ding et.al.|[2601.22129](http://arxiv.org/abs/2601.22129)|null|
 |**2026-01-27**|**DuwatBench: Bridging Language and Visual Heritage through an Arabic Calligraphy Benchmark for Multimodal Understanding**|Shubham Patle et.al.|[2601.19898](http://arxiv.org/abs/2601.19898)|null|
 |**2026-01-27**|**Enabling SSI-Compliant Use of EUDI Wallet Credentials through Trusted Execution Environment and Zero-Knowledge Proof**|Nacereddine Sitouah et.al.|[2601.19893](http://arxiv.org/abs/2601.19893)|null|
 |**2026-01-27**|**VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction**|Dominic Maggio et.al.|[2601.19887](http://arxiv.org/abs/2601.19887)|null|
@@ -89,18 +97,8 @@
 |**2026-01-22**|**A general spectral solver for the axisymmetric Jeans equations: fast galaxy modelling with arbitrary anisotropy**|Michele Cappellari et.al.|[2601.16179](http://arxiv.org/abs/2601.16179)|null|
 |**2026-01-22**|**Scaling Sample-Based Quantum Diagonalization on GPU-Accelerated Systems using OpenMP Offload**|Robert Walkup et.al.|[2601.16169](http://arxiv.org/abs/2601.16169)|null|
 |**2026-01-22**|**HVD: Human Vision-Driven Video Representation Learning for Text-Video Retrieval**|Zequn Xie et.al.|[2601.16155](http://arxiv.org/abs/2601.16155)|null|
-|**2026-01-21**|**Towards Understanding Best Practices for Quantization of Vision-Language Models**|Gautom Das et.al.|[2601.15287](http://arxiv.org/abs/2601.15287)|null|
-|**2026-01-21**|**Iterative Refinement Improves Compositional Image Generation**|Shantanu Jaiswal et.al.|[2601.15286](http://arxiv.org/abs/2601.15286)|null|
-|**2026-01-21**|**How high-resolution agent-based models can improve fundamental insights in tissue development and cell culturing methods**|Paul Van Liedekerke et.al.|[2601.15273](http://arxiv.org/abs/2601.15273)|null|
-|**2026-01-21**|**The Circumbinary Disk of HD 34700A: I. CO gas kinematics indicate spirals, infall, and vortex motions**|J. Stadler et.al.|[2601.15262](http://arxiv.org/abs/2601.15262)|null|
-|**2026-01-21**|**DrivIng: A Large-Scale Multimodal Driving Dataset with Full Digital Twin Integration**|Dominik Rößle et.al.|[2601.15260](http://arxiv.org/abs/2601.15260)|null|
-|**2026-01-21**|**Distributed Agent-Constrained Truthful Facility Location**|Argyrios Deligkas et.al.|[2601.15258](http://arxiv.org/abs/2601.15258)|null|
-|**2026-01-21**|**Taxonomy-Aligned Risk Extraction from 10-K Filings with Autonomous Improvement Using LLMs**|Rian Dolphin et.al.|[2601.15247](http://arxiv.org/abs/2601.15247)|null|
-|**2026-01-21**|**When Agents Fail: A Comprehensive Study of Bugs in LLM Agents with Automated Labeling**|Niful Islam et.al.|[2601.15232](http://arxiv.org/abs/2601.15232)|null|
-|**2026-01-21**|**Privacy Collapse: Benign Fine-Tuning Can Break Contextual Privacy in Language Models**|Anmol Goel et.al.|[2601.15220](http://arxiv.org/abs/2601.15220)|null|
-|**2026-01-21**|**ZENITH: Automated Gradient Norm Informed Stochastic Optimization**|Dhrubo Saha et.al.|[2601.15212](http://arxiv.org/abs/2601.15212)|null|
 
-<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
