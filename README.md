@@ -1,4 +1,4 @@
-## Updated on 2026.02.01
+## Updated on 2026.02.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -34,7 +34,7 @@
 |**2026-01-27**|**Modeling Behavioral Signals in Job Scams: A Human-Centered Security Study**|Goni Anagha et.al.|[2601.19342](http://arxiv.org/abs/2601.19342)|null|
 |**2026-01-27**|**From Observations to Events: Event-Aware World Model for Reinforcement Learning**|Zhao-Han Peng et.al.|[2601.19336](http://arxiv.org/abs/2601.19336)|null|
 
-<p align=right>(<a href=#updated-on-20260201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260202>back to top</a>)</p>
 
 ## AI
 
@@ -61,7 +61,7 @@
 |**2026-01-27**|**HARMONI: Multimodal Personalization of Multi-User Human-Robot Interactions with LLMs**|Jeanne Malécot et.al.|[2601.19839](http://arxiv.org/abs/2601.19839)|null|
 |**2026-01-27**|**Self-Sovereign Identity and eIDAS 2.0: An Analysis of Control, Privacy, and Legal Implications**|Nacereddine Sitouah et.al.|[2601.19837](http://arxiv.org/abs/2601.19837)|null|
 
-<p align=right>(<a href=#updated-on-20260201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260202>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
