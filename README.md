@@ -1,4 +1,4 @@
-## Updated on 2026.02.02
+## Updated on 2026.02.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**Now You Hear Me: Audio Narrative Attacks Against Large Audio-Language Models**|Ye Yu et.al.|[2601.23255](http://arxiv.org/abs/2601.23255)|null|
+|**2026-01-30**|**Securing Time in Energy IoT: A Clock-Dynamics-Aware Spatio-Temporal Graph Attention Network for Clock Drift Attacks and Y2K38 Failures**|Saeid Jamshidi et.al.|[2601.23147](http://arxiv.org/abs/2601.23147)|null|
+|**2026-01-30**|**THINKSAFE: Self-Generated Safety Alignment for Reasoning Models**|Seanie Lee et.al.|[2601.23143](http://arxiv.org/abs/2601.23143)|null|
+|**2026-01-30**|**RAudit: A Blind Auditing Protocol for Large Language Model Reasoning**|Edward Y. Chang et.al.|[2601.23133](http://arxiv.org/abs/2601.23133)|null|
+|**2026-01-30**|**Secure Tool Manifest and Digital Signing Solution for Verifiable MCP and LLM Pipelines**|Saeid Jamshidi et.al.|[2601.23132](http://arxiv.org/abs/2601.23132)|null|
+|**2026-01-30**|**WiFiPenTester: Advancing Wireless Ethical Hacking with Governed GenAI**|Haitham S. Al-Sinani et.al.|[2601.23092](http://arxiv.org/abs/2601.23092)|null|
+|**2026-01-30**|**From Similarity to Vulnerability: Key Collision Attack on LLM Semantic Caching**|Zhixiang Zhang et.al.|[2601.23088](http://arxiv.org/abs/2601.23088)|null|
+|**2026-01-30**|**Learning-Based Signal Recovery in Nonlinear Systems with Spectrally Separated Interference**|Jayadev Joy et.al.|[2601.23076](http://arxiv.org/abs/2601.23076)|null|
+|**2026-01-30**|**Uncovering Hidden Inclusions of Vulnerable Dependencies in Real-World Java Projects**|Stefan Schott et.al.|[2601.23020](http://arxiv.org/abs/2601.23020)|null|
+|**2026-01-30**|**SolAgent: A Specialized Multi-Agent Framework for Solidity Code Generation**|Wei Chen et.al.|[2601.23009](http://arxiv.org/abs/2601.23009)|null|
 |**2026-01-29**|**Adaptively Robust Resettable Streaming**|Edith Cohen et.al.|[2601.21989](http://arxiv.org/abs/2601.21989)|null|
 |**2026-01-29**|**Visual Disentangled Diffusion Autoencoders: Scalable Counterfactual Generation for Foundation Models**|Sidney Bender et.al.|[2601.21851](http://arxiv.org/abs/2601.21851)|null|
 |**2026-01-29**|**Trustworthy Intelligent Education: A Systematic Perspective on Progress, Challenges, and Future Directions**|Xiaoshan Yu et.al.|[2601.21837](http://arxiv.org/abs/2601.21837)|null|
@@ -34,12 +44,22 @@
 |**2026-01-27**|**Modeling Behavioral Signals in Job Scams: A Human-Centered Security Study**|Goni Anagha et.al.|[2601.19342](http://arxiv.org/abs/2601.19342)|null|
 |**2026-01-27**|**From Observations to Events: Event-Aware World Model for Reinforcement Learning**|Zhao-Han Peng et.al.|[2601.19336](http://arxiv.org/abs/2601.19336)|null|
 
-<p align=right>(<a href=#updated-on-20260202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
 
 ## AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation**|Hongyang Du et.al.|[2601.23286](http://arxiv.org/abs/2601.23286)|null|
+|**2026-01-30**|**UPA: Unsupervised Prompt Agent via Tree-Based Search and Selection**|Siran Peng et.al.|[2601.23273](http://arxiv.org/abs/2601.23273)|null|
+|**2026-01-30**|**IRL-DAL: Safe and Adaptive Trajectory Planning for Autonomous Driving via Energy-Guided Diffusion Models**|Seyed Ahmad Hosseini Miangoleh et.al.|[2601.23266](http://arxiv.org/abs/2601.23266)|null|
+|**2026-01-30**|**PaperBanana: Automating Academic Illustration for AI Scientists**|Dawei Zhu et.al.|[2601.23265](http://arxiv.org/abs/2601.23265)|null|
+|**2026-01-30**|**Structured Over Scale: Learning Spatial Reasoning from Educational Video**|Bishoy Galoaa et.al.|[2601.23251](http://arxiv.org/abs/2601.23251)|null|
+|**2026-01-30**|**Theoretical Challenges in Learning for Branch-and-Cut**|Hongyu Cheng et.al.|[2601.23249](http://arxiv.org/abs/2601.23249)|null|
+|**2026-01-30**|**Eigenweights for arithmetic Hirzebruch Proportionality**|Tony Feng et.al.|[2601.23245](http://arxiv.org/abs/2601.23245)|null|
+|**2026-01-30**|**Sequence Diffusion Model for Temporal Link Prediction in Continuous-Time Dynamic Graph**|Nguyen Minh Duc et.al.|[2601.23233](http://arxiv.org/abs/2601.23233)|null|
+|**2026-01-30**|**Solving Inverse Problems with Flow-based Models via Model Predictive Control**|George Webber et.al.|[2601.23231](http://arxiv.org/abs/2601.23231)|null|
+|**2026-01-30**|**Detectability of Gravitational-Wave Memory with LISA: A Bayesian Approach**|Adrien Cogez et.al.|[2601.23230](http://arxiv.org/abs/2601.23230)|null|
 |**2026-01-29**|**RedSage: A Cybersecurity Generalist LLM**|Naufal Suryanto et.al.|[2601.22159](http://arxiv.org/abs/2601.22159)|null|
 |**2026-01-29**|**Exploring Reasoning Reward Model for Agents**|Kaixuan Fan et.al.|[2601.22154](http://arxiv.org/abs/2601.22154)|null|
 |**2026-01-29**|**DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation**|Haozhe Xie et.al.|[2601.22153](http://arxiv.org/abs/2601.22153)|null|
@@ -61,7 +81,7 @@
 |**2026-01-27**|**HARMONI: Multimodal Personalization of Multi-User Human-Robot Interactions with LLMs**|Jeanne Malécot et.al.|[2601.19839](http://arxiv.org/abs/2601.19839)|null|
 |**2026-01-27**|**Self-Sovereign Identity and eIDAS 2.0: An Analysis of Control, Privacy, and Legal Implications**|Nacereddine Sitouah et.al.|[2601.19837](http://arxiv.org/abs/2601.19837)|null|
 
-<p align=right>(<a href=#updated-on-20260202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
